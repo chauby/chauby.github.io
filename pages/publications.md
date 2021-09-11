@@ -9,7 +9,7 @@ permalink: /publications/
 ---
 
 ## Preprint
-1. C. Zou, R. Huang, Z. Peng, J. Qiu, J. Zhang, H. Cheng, “Synergetic Gait Prediction for Stroke Rehabilitation with Varying Walking Speeds”, in the IEEE/RSJ International Conference on Intelligent Robotics and Systems, 2021.
+1. C. Zou, R. Huang, Z. Peng, J. Qiu, J. Zhang, H. Cheng, “Synergetic Gait Prediction for Stroke Rehabilitation with Varying Walking Speeds”, in the IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS), 2021.
 
 
 ## Journal Paper
