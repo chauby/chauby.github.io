@@ -8,7 +8,9 @@ menu: Publications
 permalink: /publications/
 ---
 
-> All papers are here
+## Preprint
+1. C. Zou, R. Huang, Z. Peng, J. Qiu, J. Zhang, H. Cheng, “Synergetic Gait Prediction for Stroke Rehabilitation with Varying Walking Speeds”, in the IEEE/RSJ International Conference on Intelligent Robotics and Systems, 2021.
+
 
 ## Journal Paper
 1. C. Zou, R. Huang, H. Cheng, J. Qiu, “Learning Gait Models with Varying Walking Speeds”, in IEEE Robotics and Automation Letters (R-AL), 2020. [paper](https://ieeexplore.ieee.org/document/9131848)
