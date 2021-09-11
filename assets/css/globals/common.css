@@ -277,8 +277,8 @@
     position: relative;
     margin-top: 1em;
     margin-bottom: 16px;
-    font-weight: 700;
-    line-height: 1.4
+    font-weight: 560;
+    line-height: 1.5
 }
 
 .markdown-body h1 .octicon-link,.markdown-body h2 .octicon-link,.markdown-body h3 .octicon-link,.markdown-body h4 .octicon-link,.markdown-body h5 .octicon-link,.markdown-body h6 .octicon-link {
@@ -302,7 +302,7 @@
 }
 
 .markdown-body h1 {
-    font-size: 2.25em;
+    font-size: 1.60em;
     line-height: 1.2
 }
 
@@ -311,7 +311,7 @@
 }
 
 .markdown-body h2 {
-    font-size: 1.75em;
+    font-size: 1.50em;
     line-height: 1.225
 }
 
@@ -320,7 +320,7 @@
 }
 
 .markdown-body h3 {
-    font-size: 1.5em;
+    font-size: 1.35em;
     line-height: 1.43
 }
 
@@ -329,7 +329,7 @@
 }
 
 .markdown-body h4 {
-    font-size: 1.25em
+    font-size: 1.20em
 }
 
 .markdown-body h5 .anchor,.markdown-body h6 .anchor {
