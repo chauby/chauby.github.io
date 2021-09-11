@@ -8,24 +8,22 @@ menu: Curriculum Vitae
 permalink: /cv/
 ---
 
-> Stay hungry, Stay foolish.
+<br>
 
-I am a PhD candidate in University of Electronic Science and Technology of China (UESTC) [[link]](https://www.uestc.edu.cn/).
-In the past five years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic/hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
+I am currently a PhD candidate in University of Electronic Science and Technology of China (UESTC) [[link]](https://www.uestc.edu.cn/).
+In the past five years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
 I am also interested in machine learning for robot control, such as artificial neural networks, reinforcement learning and optimal control.
 I have published some papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (TASE), and the IEEE International conference ICRA, IROS.
 
-## Web
+## Social
 - Zhihu: [知乎沙漏](https://zhihu.com/people/zou-you-50)
-- Github: [Chauby](https://github.com/chauby)
-- [Google Research](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
+- [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
+- Github: [Chauby](https://github.com/chauby)
 
----
 ## Contact
 - Email: chaubyZou@163.com
 
----
 ## Research Interests
 - Exoskeletons / Legged Robots
 - Robot Learning / Machine Learning
@@ -33,9 +31,8 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 - Robot simulation
 
 
----
 ## Publications
-#### Under Review
+#### Under review
 1. C. Zou, C. Zeng, J. Qiu, J. Zhang, H. Cheng, “Online Gait Learning with Assist-as-Needed Control for Post-stroke Rehabilitation Exoskeletons”, in IEEE Robotics and Automation Letters (R-AL), 2021.
 
 #### Preprint
@@ -44,12 +41,11 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 #### Published
 1. C. Zou, R. Huang, H. Cheng, J. Qiu, “Learning Gait Models with Varying Walking Speeds”, in IEEE Robotics and Automation Letters (R-AL), 2020. [paper](https://ieeexplore.ieee.org/document/9131848)
 2. C. Zou, H. Cheng, J. Qiu, “Slope Gradient Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons”, in IEEE Transactions on Automation Science and Engineering (TASE), 2020. [paper](https://ieeexplore.ieee.org/document/9281111)
-3. 2019, C. Zou, R. Huang, H. Cheng, Q. Chen, J. Qiu, “Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons in Slope Scenarios”, in IEEE International Conference on Robotics and Automation (ICRA), 2019, pp 5083-5089. [paper](https://ieeexplore.ieee.org/document/8793863)
-4. 2018, R. Huang, Z. Peng, H. Cheng, C. Zou and Q. Chen, “Learning-based Walking Assistance Control Strategy for a Lower Limb Exoskeleton with Hemiplegia Patients”, in IEEE International Conference on Intelligent Robots and Systems (IROS), 2018, pp 2280-2285. [paper](https://ieeexplore.ieee.org/document/8594464)
-5. 2017, Q. Chen, H. Cheng, C. Zou, R. Huang and H. Guo, "Intention recognition for exoskeleton", in 2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM), Hefei, 2017, pp. 535-539. [paper](https://ieeexplore.ieee.org/document/8273219)
+3. C. Zou, R. Huang, H. Cheng, Q. Chen, J. Qiu, “Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons in Slope Scenarios”, in IEEE International Conference on Robotics and Automation (ICRA), 2019, pp 5083-5089. [paper](https://ieeexplore.ieee.org/document/8793863)
+4. R. Huang, Z. Peng, H. Cheng, C. Zou and Q. Chen, “Learning-based Walking Assistance Control Strategy for a Lower Limb Exoskeleton with Hemiplegia Patients”, in IEEE International Conference on Intelligent Robots and Systems (IROS), 2018, pp 2280-2285. [paper](https://ieeexplore.ieee.org/document/8594464)
+5. Q. Chen, H. Cheng, C. Zou, R. Huang and H. Guo, "Intention recognition for exoskeleton", in 2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM), Hefei, 2017, pp. 535-539. [paper](https://ieeexplore.ieee.org/document/8273219)
 
     
----
 ## Educations
 #### 2021-2022
 - CSC visiting PhD student, University of Hamburg, Germany [[link]](https://tams.informatik.uni-hamburg.de/people/zou/)
@@ -75,8 +71,7 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 - School of Automation Engineering, University of Electronic Science and Technology of China (UESTC) [[link]](https://www.uestc.edu.cn/), Chengdu, China.
 
 
----
-## Awards
+## Awards & Honors
 - 2020: CSC Scholarship for visiting PhD student.
 - 2019: Third class Scholarship for PhD. students, UESTC.
 - 2018: Third class Scholarship for PhD. students, UESTC.
@@ -88,10 +83,3 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 - 2014: National Scholarship for Undergraduate students, UESTC.
 - 2013: First class Scholarship for Undergraduate students, UESTC.
 - 2012: National Scholarship for Undergraduate students, UESTC.
-
----
-## Skills
-- C/C++
-- Matlab/Python
-- ROS/Gazebo
-- CoppeliaSim
