@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Publications
-description: My publications
+title: Projects
+description: Projects
 keywords: Paper, Books
 comments: true
-menu: Publications
-permalink: /publications/
+menu: Porjects
+permalink: /projects/
 ---
 
 
