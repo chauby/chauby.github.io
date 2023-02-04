@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
+title: Project
 description: Projects
-keywords: Paper, Books
+keywords: Research, Projects
 comments: true
-menu: Porjects
+menu: Porject
 permalink: /project/
 ---
 
