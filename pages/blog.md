@@ -5,7 +5,7 @@ description: 文章仓库
 keywords: Blog
 comments: false
 menu: Blogs
-permalink: /categories/
+permalink: /blogs/
 ---
 
 <section class="container posts-content">
