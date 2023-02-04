@@ -2,50 +2,35 @@
 layout: page
 title: Curriculum Vitae
 description: Time flies
-keywords: Chauby, Chaobin Zou, CV
-comments: true
+keywords: Jiacheng Wu, CV
+comments: false
 menu: Curriculum Vitae
 permalink: /cv/
 ---
 <br>
 
-I am currently a PhD candidate in University of Electronic Science and Technology of China (UESTC) [[link]](https://www.uestc.edu.cn/).
+I am currently an MSc student in Electronic Engineering at [HKUST](https://hkust.edu.hk/). I finished my undergraduate study for a Bachelor of Electronic Information Engineering at the School of Science and Engineering in [CUHKSZ](https://www.cuhk.edu.cn/en) in 2022.
+
 In the past five years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
 I am also interested in machine learning for robot control, such as artificial neural networks, reinforcement learning and optimal control.
 I have published some papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (TASE), and the IEEE International conference ICRA, IROS.
 
-## Social
+<!-- ## Social -->
 
-- 知乎@[沙漏](https://zhihu.com/people/zou-you-50)
+<!-- - 知乎@[沙漏](https://zhihu.com/people/zou-you-50)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
-- [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
-- Github:[Chauby](https://github.com/chauby)
+- [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou) -->
+- Github: [JiachengWu-5](https://github.com/JiachengWu-5)
 
 ## Contact
-
-- Email: chaubyZou@163.com
+- Email: jwudm@connect.ust.hk
+- Github: [JiachengWu-5](https://github.com/JiachengWu-5)
 
 ## Research Interests
-
 - Exoskeletons / Legged Robots
 - Robot Learning / Machine Learning
 - Motion planning / Gait analysis and planning
 - Robot simulation
-
-## Publications
-
-#### Under review
-
-1. C. Zou, C. Zeng, J. Qiu, J. Zhang, H. Cheng, “Online Gait Learning with Assist-as-Needed Control for Post-stroke Rehabilitation Exoskeletons”, in IEEE Robotics and Automation Letters (R-AL), 2021.
-
-#### Published
-
-1. C. Zou, R. Huang, Z. Peng, J. Qiu, J. Zhang, H. Cheng, “Synergetic Gait Prediction for Stroke Rehabilitation with Varying Walking Speeds”, in IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS), 2021, pp. 7298-7304.
-2. C. Zou, R. Huang, H. Cheng, J. Qiu, “Learning Gait Models with Varying Walking Speeds”, in IEEE Robotics and Automation Letters (R-AL), 2020.[paper](https://ieeexplore.ieee.org/document/9131848)
-3. C. Zou, H. Cheng, J. Qiu, “Slope Gradient Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons”, in IEEE Transactions on Automation Science and Engineering (TASE), 2020.[paper](https://ieeexplore.ieee.org/document/9281111)
-4. C. Zou, R. Huang, H. Cheng, Q. Chen, J. Qiu, “Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons in Slope Scenarios”, in IEEE International Conference on Robotics and Automation (ICRA), 2019, pp 5083-5089.[paper](https://ieeexplore.ieee.org/document/8793863)
-5. R. Huang, Z. Peng, H. Cheng, C. Zou and Q. Chen, “Learning-based Walking Assistance Control Strategy for a Lower Limb Exoskeleton with Hemiplegia Patients”, in IEEE International Conference on Intelligent Robots and Systems (IROS), 2018, pp 2280-2285.[paper](https://ieeexplore.ieee.org/document/8594464)
-6. Q. Chen, H. Cheng, C. Zou, R. Huang and H. Guo, "Intention recognition for exoskeleton", in 2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM), Hefei, 2017, pp. 535-539.[paper](https://ieeexplore.ieee.org/document/8273219)
 
 ## Educations
 
@@ -75,7 +60,6 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 - School of Automation Engineering, University of Electronic Science and Technology of China (UESTC)[[link]](https://www.uestc.edu.cn/), Chengdu, China.
 
 ## Awards & Honors
-
 - 2020: CSC Scholarship for visiting PhD student.
 - 2019: Third class Scholarship for PhD. students, UESTC.
 - 2018: Third class Scholarship for PhD. students, UESTC.
