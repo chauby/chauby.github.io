@@ -1,19 +1,19 @@
 baseurl:
-url: https://chauby.github.io
-title: Chaobin
-subtitle: "The sandglass remembers the time we mislay"
-description: "Chauby's personal page"
+url: https://JiachengWu-5.github.io
+title: Jiacheng Wu
+subtitle: "This is Jiacheng Wu's website."
+description: "Jiacheng Wu's personal page"
 date_format: "ordinal"
-# timezone: Asia/Chengdu
+# timezone: Asia/Hong Kong
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
-author: Chauby
-organization: UESTC
-organization_url: http://www.uestc.edu.cn
-github_username: Chauby
-location: Chengdu, China
-email: chaubyZou@163.com
+author: Jiacheng Wu
+organization: HKUST
+organization_url: https://hkust.edu.hk/
+github_username: JiachengWu-5
+location: Hong Kong, China
+email: jwudm@connect.ust.hk
 
 # Navigation
 navs:
@@ -68,7 +68,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chauby/chauby.github.io
+repository: https://jiachengwu-5.github.io/
 
 # Search
 simple_jekyll_search:
