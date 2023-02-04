@@ -11,9 +11,8 @@ permalink: /cv/
 
 I am currently an MSc student in Electronic Engineering at [HKUST](https://hkust.edu.hk/). I finished my undergraduate study for a Bachelor of Electronic Information Engineering at the School of Science and Engineering in [CUHKSZ](https://www.cuhk.edu.cn/en) in 2022.
 
-In the past five years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
-I am also interested in machine learning for robot control, such as artificial neural networks, reinforcement learning and optimal control.
-I have published some papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (TASE), and the IEEE International conference ICRA, IROS.
+In the past five years, my main research topics are about the computer vision and the real scenary application. I participated in several projects and realized the different computer vision model application.
+I am also interested in combining NLP with CV, such as merging attention mechanism in CV. The Transformer is the good example. I think the multimodal learning will be the next big trend for computer vision area, like the interdisciplinary integration. My further research intention is to develop the human-like computer vision system. I think the integration of NLP and CV will make the vision system function like human eyes combined with brain in the future.
 
 <!-- ## Social -->
 
