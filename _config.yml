@@ -29,11 +29,11 @@ navs:
     
   -
     href: /project/
-    label: Projects
+    label: Project
 
   -
-    href: /blogs/
-    label: Blogs
+    href: /blog/
+    label: Blog
 
 #  -
 #    href: /wiki/
