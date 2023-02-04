@@ -1,4 +1,2 @@
-# 沙漏
-
-我的个人博客：<https://chauby.github.io>，欢迎 Star 和 Fork。
-
+This is the personal blog for showing CV and sharing some reading.
+https://jiachengwu-5.github.io/
