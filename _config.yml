@@ -17,25 +17,27 @@ email: jwudm@connect.ust.hk
 
 # Navigation
 navs:
+
+
   -
     href: /
     label: Homepage
-
   -
     href: /cv/
     label: CV
+    
+    
+  -
+    href: /project/
+    label: Projects
 
   -
-    href: /publications/
-    label: Publications
-
-  -
-    href: /categories/
+    href: /blogs/
     label: Blogs
 
-  -
-    href: /wiki/
-    label: Wiki
+#  -
+#    href: /wiki/
+#    label: Wiki
 
   # -
   #   href: /links/
