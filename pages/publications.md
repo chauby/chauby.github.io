@@ -5,7 +5,7 @@ description: Projects
 keywords: Paper, Books
 comments: true
 menu: Porjects
-permalink: /projects/
+permalink: /project/
 ---
 
 
