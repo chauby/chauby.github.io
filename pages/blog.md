@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Blog
-description: 文章仓库
+description: Repository
 keywords: Blog
 comments: false
-menu: Blogs
-permalink: /categories/
+menu: Blog
+permalink: /blog/
 ---
 
 <section class="container posts-content">

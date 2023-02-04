@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Publications
-description: My publications
-keywords: Paper, Books
+title: Project
+description: Projects
+keywords: Research, Projects
 comments: true
-menu: Publications
-permalink: /publications/
+menu: Porject
+permalink: /project/
 ---
 
 
