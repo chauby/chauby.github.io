@@ -14,15 +14,10 @@ I am currently an MSc student in Electronic Engineering at [HKUST](https://hkust
 My main research topics in the past five years have been computer vision and real applications scenery. I participated in several projects and realized the different computer vision model applications. I am also interested in the technology which combines NLP with CV, such as merging attention mechanisms in CV. The Transformer is a good example. I think multimodal learning tasks will be the next big trend for computer vision, like interdisciplinary integration. My further research intention is to develop a human-like computer vision system. From my perspective, integrating NLP and CV is similar to matching the computer vision model to the performance of the human eye combined with the brain. I believe that in the future, computer vision models will compare the performance of the human eye.
 
 <!-- ## Social -->
-
 <!-- - 知乎@[沙漏](https://zhihu.com/people/zou-you-50)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou) -->
-- Github: [JiachengWu-5](https://github.com/JiachengWu-5)
-
-## Contact
-- Email: jwudm@connect.ust.hk
-- Github: [JiachengWu-5](https://github.com/JiachengWu-5)
+<!-- - Github: [JiachengWu-5](https://github.com/JiachengWu-5) -->
 
 ## Research Interests
 - Exoskeletons / Legged Robots
@@ -58,14 +53,9 @@ My main research topics in the past five years have been computer vision and rea
 - School of Automation Engineering, University of Electronic Science and Technology of China (UESTC)[[link]](https://www.uestc.edu.cn/), Chengdu, China.
 
 ## Awards & Honors
-- 2020: CSC Scholarship for visiting PhD student.
-- 2019: Third class Scholarship for PhD. students, UESTC.
-- 2018: Third class Scholarship for PhD. students, UESTC.
-- 2018: First Prize of National Postgraduate/Graduate innovation and Entrepreneurship Competition
-- 2017: First class Scholarship for PhD. students, UESTC.
-- 2016: First class Scholarship for Postgraduate/Graduate students, UESTC.
-- 2015: Outstanding Awards for Postgraduate/Graduate students, UESTC.
-- 2014: National First Prize of the Ninth National Undergraduate Freescale Smart Car Competition.
-- 2014: National Scholarship for Undergraduate students, UESTC.
-- 2013: First class Scholarship for Undergraduate students, UESTC.
-- 2012: National Scholarship for Undergraduate students, UESTC.
+- Computer Association Scholarship
+- The 3rd Prize in the World Drone Championship Campus Tour
+
+## Contact
+- Email: jwudm@connect.ust.hk
+- Github: [JiachengWu-5](https://github.com/JiachengWu-5)
