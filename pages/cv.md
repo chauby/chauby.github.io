@@ -13,30 +13,12 @@ I am currently an MSc student in Electronic Engineering at [HKUST](https://hkust
 
 My main research topics in the past five years have been computer vision and real applications scenery. I participated in several projects and realized the different computer vision model applications. I am also interested in the technology which combines NLP with CV, such as merging attention mechanisms in CV. The Transformer is a good example. I think multimodal learning tasks will be the next big trend for computer vision, like interdisciplinary integration. My further research intention is to develop a human-like computer vision system. From my perspective, integrating NLP and CV is similar to matching the computer vision model to the performance of the human eye combined with the brain. I believe that in the future, computer vision models will compare the performance of the human eye.
 
-<!-- ## Social -->
-<!-- - 知乎@[沙漏](https://zhihu.com/people/zou-you-50)
-- [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
-- [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou) -->
-<!-- - Github: [JiachengWu-5](https://github.com/JiachengWu-5) -->
 
 ## Research Interests
 - Computer Vision
+- Real 
 
 ## Educations
-
-#### 2021-2022
-
-- CSC visiting PhD student, University of Hamburg, Germany[[link]](https://tams.informatik.uni-hamburg.de/people/zou/)
-- Technical Aspects of Multimodal Systems (TAMS)
-- Advisor: Prof. Jianwei Zhang[[homepage]](https://tams.informatik.uni-hamburg.de/people/zhang/)
-
-#### 2017-Expected 2021
-
-- PhD candidate
-- University of Electronic Science and Technology of China (UESTC), Chengdu, China
-- Center for Robotics, Machine Intelligence Institute[[link]](http://www.uestcrobot.net/)
-- Advisor: Prof. Hong Cheng[[homepage]](https://scholar.google.com/citations?user=-845MAcAAAAJ&hl=zh-CN)
-
 #### 2015-2017
 
 - Master candidate
@@ -56,3 +38,12 @@ My main research topics in the past five years have been computer vision and rea
 ## Contact
 - Email: jwudm@connect.ust.hk
 - Github: [JiachengWu-5](https://github.com/JiachengWu-5)
+- My CV file is shown in [JiachengWu_CV.pdf](/assets/personal_file/Jiacheng_WU_CV.pdf).
+
+
+
+<!-- ## Social -->
+<!-- - 知乎@[沙漏](https://zhihu.com/people/zou-you-50)
+- [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
+- [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou) -->
+<!-- - Github: [JiachengWu-5](https://github.com/JiachengWu-5) -->
