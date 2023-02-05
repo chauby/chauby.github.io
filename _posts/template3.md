@@ -5,15 +5,32 @@ categories: [Daily Paper]
 description: The simple introduction of LSTM
 keywords: Computer Vision, Model, CNN
 ---
+## 2022
 
-### [Rethinking Person Re-Identification via Semantic-Based Pretraining](https://arxiv.org/pdf/2110.05074.pdf) (2022.12.30)
-
-
-### [Dual encoder network with transformer-CNN for multi-organ segmentation](https://link-springer-com.lib.ezproxy.hkust.edu.hk/article/10.1007/s11517-022-02723-9) (2022.12.31)
-
-### [Application of Convolutional Dendrite Net for Detection of Myocardial Infarction Using ECG Signals](https://ieeexplore.ieee.org/document/9954400/) (2022.12.31)
+### [1230_Rethinking Person Re-Identification via Semantic-Based Pretraining](https://arxiv.org/pdf/2110.05074.pdf)
 
 
+### [1231_Dual encoder network with transformer-CNN for multi-organ segmentation](https://link-springer-com.lib.ezproxy.hkust.edu.hk/article/10.1007/s11517-022-02723-9) (2022.12.31)
+
+### [1231_Application of Convolutional Dendrite Net for Detection of Myocardial Infarction Using ECG Signals](https://ieeexplore.ieee.org/document/9954400/) (2022.12.31)
+
+### [11_A Computational Model of Working Memory Based on Spike-Timing-Dependent Plasticity](https://www.frontiersin.org/articles/10.3389/fncom.2021.630999/full)
+
+### [11_A hue preserving uniform illumination image enhancement via triangle similarity criterion in HSI color space](https://link.springer.com/10.1007/s00371-022-02761-2)
+
+### [11_American Sign Language Recognition for Alphabets Using Mediapipe and LSTM](https://linkinghub.elsevier.com/retrieve/pii/S1877050922021378)
+
+### [12_Efficient convex region-based segmentation for noising and inhomogeneous patterns](https://www.aimsciences.org//article/doi/10.3934/ipi.2022074)
+
+### [12_One-step and Two-step Classification for Abusive Language Detection on Twitter](http://aclweb.org/anthology/W17-3006)
+
+### [12_Spectrum and Style Transformation Framework for Omni-Domain COVID-19 Diagnosis](https://ieeexplore.ieee.org/document/9954228/)
+
+### [13_Domain Generalization via Model-Agnostic Learning of Semantic Features](https://proceedings.neurips.cc/paper/2019/file/2974788b53f73e7950e8aa49f3a306db-Paper.pdf)
+
+### [13_Network Binarization via Contrastive Learning](https://link.springer.com/10.1007/978-3-031-20083-0_35)
+
+### [13_Relational Graph Learning on Visual and Kinematics Embeddings for Accurate Gesture Recognition in Robotic Surgery](https://ieeexplore.ieee.org/document/9561028/)
 
 <center>
     <img src="/images/posts/blog/LSTM/NN.jpg" alt="picture not found" style="zoom:80%;" />
