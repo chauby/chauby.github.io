@@ -22,15 +22,23 @@ permalink: /project/
 - Independently investigated papers and codes to finalize the database and model used.
 - Implemented different models to recognize cyclist posture in real-time by the depth camera and get the data of orthographic projection area.
 - Realized the function of recognizing the athlete’s gesture and feedback in real time.
+
+
 2. **Develop Humanoid Robot Project**  
 **CUHKSZ, May - July 2021**
 
 - Helped implement and adjust the parameters of the eyes applied in the humanoid robot.
 - Be Responsible for the code development of the eyes so that they can recognize and track faces automatically.
+
+
+
 3. **Robotic Mecanum Wheel Trolley Project**  
 **CUHKSZ, Jan. - May 2021**
 
 - Assembled the trolley with teammates and wrote the code to make the trolley automatically recognize the specific color blocks and grab them to a particular place.
+
+
+
 4. **Deep Learning-Based Model-Free Source Localization Project**  
 **CUHKSZ, Sept. 2020 - Mar. 2021**
 
