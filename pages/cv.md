@@ -20,10 +20,7 @@ My main research topics in the past five years have been computer vision and rea
 <!-- - Github: [JiachengWu-5](https://github.com/JiachengWu-5) -->
 
 ## Research Interests
-- Exoskeletons / Legged Robots
-- Robot Learning / Machine Learning
-- Motion planning / Gait analysis and planning
-- Robot simulation
+- Computer Vision
 
 ## Educations
 
