@@ -9,10 +9,10 @@ permalink: /cv/
 ---
 <br>
 
-<center>
-    <img src="/images/JiachengWu/JiachengWu.png" alt="picture not found" style="zoom:80%;" />
+<left>
+    <img src="/images/JiachengWu/JiachengWu.png" alt="picture not found" style="zoom:50%;" />
     <br>
-</center>
+</left>
 
 I am currently an MSc student in Electronic Engineering at [HKUST](https://hkust.edu.hk/). I finished my undergraduate study for a Bachelor of Electronic Information Engineering at the School of Science and Engineering in [CUHKSZ](https://www.cuhk.edu.cn/en) in 2022.
 
