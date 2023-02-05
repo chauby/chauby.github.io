@@ -11,8 +11,7 @@ permalink: /cv/
 
 I am currently an MSc student in Electronic Engineering at [HKUST](https://hkust.edu.hk/). I finished my undergraduate study for a Bachelor of Electronic Information Engineering at the School of Science and Engineering in [CUHKSZ](https://www.cuhk.edu.cn/en) in 2022.
 
-In the past five years, my main research topics are about the computer vision and the real scenary application. I participated in several projects and realized the different computer vision model application.
-I am also interested in combining NLP with CV, such as merging attention mechanism in CV. The Transformer is the good example. I think the multimodal learning will be the next big trend for computer vision area, like the interdisciplinary integration. My further research intention is to develop the human-like computer vision system. I think the integration of NLP and CV will make the vision system function like human eyes combined with brain in the future.
+My main research topics in the past five years have been computer vision and real applications scenery. I participated in several projects and realized the different computer vision model applications. I am also interested in the technology which combines NLP with CV, such as merging attention mechanisms in CV. The Transformer is a good example. I think multimodal learning tasks will be the next big trend for computer vision, like interdisciplinary integration. My further research intention is to develop a human-like computer vision system. From my perspective, integrating NLP and CV is similar to matching the computer vision model to the performance of the human eye combined with the brain. I believe that in the future, computer vision models will compare the performance of the human eye.
 
 <!-- ## Social -->
 
