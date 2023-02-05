@@ -16,20 +16,20 @@ My main research topics in the past five years have been computer vision and rea
 
 ## Research Interests
 - Computer Vision
-- Real 
+- Natural Language Processing
+- Multimodal Machine Learning
+- Machine Learning and Deep Learning
+ 
 
 ## Educations
-#### 2015-2017
-
+#### 2022 - Expected 2023
 - Master candidate
-- University of Electronic Science and Technology of China (UESTC), Chengdu, China
-- Center for Robotics, Machine Intelligence Institute[[link]](http://www.uestcrobot.net/)
-- Advisor: Prof. Hong Cheng
+- Electronic Engineering, School of Electronic and Computer Engineering, The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/), Hong Kong, China
+- CPA: 3.8, TGA: 3.8 (The First Term)
 
-#### 2011- 2015
-
-- Bachelor candidate
-- School of Automation Engineering, University of Electronic Science and Technology of China (UESTC)[[link]](https://www.uestc.edu.cn/), Chengdu, China.
+#### 2018 - 2022
+- Bachelor of Engineering with Honour, Second Class Upper Division
+- Electronic Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen [(CUHKSZ)](https://www.cuhk.edu.cn/en), Shenzhen, China.
 
 ## Awards & Honors
 - Computer Association Scholarship
@@ -39,8 +39,6 @@ My main research topics in the past five years have been computer vision and rea
 - Email: jwudm@connect.ust.hk
 - Github: [JiachengWu-5](https://github.com/JiachengWu-5)
 - My CV file is shown in [JiachengWu_CV.pdf](/assets/personal_file/Jiacheng_WU_CV.pdf).
-
-
 
 <!-- ## Social -->
 <!-- - 知乎@[沙漏](https://zhihu.com/people/zou-you-50)
