@@ -22,12 +22,12 @@ My main research topics in the past five years have been computer vision and rea
  
 
 ## Educations
-#### 2022 - Expected 2023
+### 2022 - Expected 2023
 - Master candidate
 - Electronic Engineering, School of Electronic and Computer Engineering, The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/), Hong Kong, China
 - CPA: 3.8, TGA: 3.8 (The First Term)
 
-#### 2018 - 2022
+### 2018 - 2022
 - Bachelor of Engineering with Honour, Second Class Upper Division
 - Electronic Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen [(CUHKSZ)](https://www.cuhk.edu.cn/en), Shenzhen, China.
 
