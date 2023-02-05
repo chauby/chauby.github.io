@@ -10,7 +10,7 @@ permalink: /cv/
 <br>
 
 <left>
-    <img src="/images/JiachengWu/JiachengWu.png" alt="picture not found" style="zoom:50%;" />
+    <img src="/images/JiachengWu/JiachengWu.png" alt="picture not found" style="zoom:20%;" />
     <br>
 </left>
 
