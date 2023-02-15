@@ -72,6 +72,16 @@ collections:
 
 repository: https://jiachengwu-5.github.io/
 
+# Build settings
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: 'page:num/'
+  title: ':title | :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  
 # Search
 simple_jekyll_search:
     fulltext: true # full text search enable
