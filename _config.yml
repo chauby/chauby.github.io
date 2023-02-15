@@ -74,7 +74,7 @@ repository: https://jiachengwu-5.github.io/
 
 # Search
 simple_jekyll_search:
-    fulltext: false # full text search enable
+    fulltext: true # full text search enable
     limit: 10 # limitation of the search results to show
 
 # Analytics
