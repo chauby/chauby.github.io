@@ -77,6 +77,9 @@
           nav.style.display = "inline-flex";
         }
     }
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+    {% endif %}
     </script>
 </head>
 <body class="{{ page.class }}" data-mz="{{ page.class }}">
@@ -96,3 +99,4 @@
         </div>
     </header>
     <!-- / header -->
+    

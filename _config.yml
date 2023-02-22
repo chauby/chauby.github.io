@@ -7,6 +7,7 @@ date_format: "ordinal"
 # timezone: Asia/Hong Kong
 encoding: "utf-8"
 side_bar_repo_limit: 5
+google_analytics: G-CHRTKQT3LH
 
 author: Jiacheng Wu
 organization: HKUST
