@@ -1,6 +1,10 @@
 {% include header.html %}
   {{ content }}
 {% include footer.html %}
+{% include analytics.html %}
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
