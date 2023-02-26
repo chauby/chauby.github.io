@@ -39,6 +39,15 @@ My main research topics in the past five years have been computer vision and rea
 - Bachelor of Engineering with Honour, Second Class Upper Division
 - Electronic Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen [(CUHKSZ)](https://www.cuhk.edu.cn/en), Shenzhen, China.
 
+## Skills
+
+- Coding: Python, MATLAB, C++, Java, HTML
+- Machine Learning: PyTorch, TensorFlow
+- Writing: LaTeX, Markdown
+- Video/Photo Processing: Python, Adobe Premiere, PhotoShop
+- Circuit Design and MCU Programming: STM32F103, ARDUINO UNO, FPGA
+
+
 ## **Awards & Honors**
 
 - Computer Association Scholarship
