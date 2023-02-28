@@ -21,7 +21,7 @@ permalink: /project/
   1. Learned deep learning and other related knowledge from scratch.
   2. Independently investigated papers and codes to finalize the database and model used.
   3. Implemented different models to recognize cyclist posture in real-time by the depth camera and get the data of orthographic projection area.
-  4. Realized the function of recognizing the athlete’s gesture and feedback in real time.
+  4. Realized the function of recognizing the athlete’s posture and feedback in real time.
 
 - **Develop Humanoid Robot Project**  
 **CUHKSZ, May - July 2021**  
