@@ -41,9 +41,20 @@ permalink: /project/
   2. Generated heatmap samples to create the dataset to overcome the problem of the model-free outdoor sources.
   3. Applied the CNN model to the heatmap problem and successfully located the illegal radio stations in the urban environment with the received radio signal strength through machine learning.
 
-### **Hands-on Project**
+### **Course Project**
+- **Embedded System Development**
+**HKUST, Sept. - Nov. 2022**
 
-- **Electronic Circuit Design Projects**  
+1. Developed applications using Java based on Android Studio.
+2. Used Vivado to implement the required functions in FPGA.
+3. Connected and utilized IoT devices on Android OS.
+
+- **Microprocessor Development**  
+**CUHKSZ, Sept. - Dec. 2021**  
+
+1. Wrote codes using C in Keil to implement functions in a Cortex-M3-based microprocessor platform.
+
+- **Electronic Circuit Design**  
 **CUHKSZ, Sept. - Dec. 2021**  
 
   1. Used software to design circuits and implement circuit on the board to solve the certain problems.
