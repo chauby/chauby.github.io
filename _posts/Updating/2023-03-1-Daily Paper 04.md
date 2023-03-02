@@ -25,3 +25,9 @@ keywords:
 - IEC has two types: Input image I remains the same; The visual embedding of the visual concept $p_v$ in input image I is replaced with the embedding of another concept that is visually similar but falls into an irrelevant category with $p_v$. The loss of LEC is $L_{LEC} = -\frac{1}{\|D\|} \sum_{i=1}^{\|D\|}$. The total loss is described as L = $L_{MLM} + L_{ITM} + L_{IKM} + L_{IEC}$. $L_{MLM(Masked Language Modeling)}$ is a loss that describes the average of all cross-entropy loss with respect to the p of predicting the correct masked tokens given a vocabulary. $L_{ITM(Image-Text Matching)}$ enables GIVL to learn the alignment between texts and images. The diagram of GIVL is shown below. This model can actually help the world's culture communicate more efficient and close. 
 
 ![Framework of GIVL](/images/DailyPaper/04/02.jpeg "Framework of GIVL")
+
+### [33_Network Function Virtualization: State-of-the-Art and Research Challenges](http://ieeexplore.ieee.org/document/7243304/) 
+
+- This paper is for the course quiz.
+
+- 
