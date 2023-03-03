@@ -28,6 +28,18 @@ keywords:
 
 ### [33_Network Function Virtualization: State-of-the-Art and Research Challenges](http://ieeexplore.ieee.org/document/7243304/) 
 
-- This paper is for the course quiz.
+- This paper is for the course quiz. This paper introduces **Network Function Virtualization (NFV)**. I will elaborate this paper from NFV and its relationship with complementary fields of software defined networking (SDN) and cloud computing, promising research directions, key NFV projects, standardization efforts, early implementations, use cases, and commercial products.
 
-- 
+- NFV and Its Relationship with Complementary Fields of Software Defined Networking (SDN) and Cloud Computing:
+
+- Promising Research Directions:
+
+- Key NFV Projects:
+
+- Standardization:
+
+- Early Implementations:
+
+- Use Cases
+
+- Commercial Products:
