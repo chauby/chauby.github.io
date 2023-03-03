@@ -41,7 +41,7 @@ permalink: /project/
   2. Generated heatmap samples to create the dataset to overcome the problem of the model-free outdoor sources.
   3. Applied the CNN model to the heatmap problem and successfully located the illegal radio stations in the urban environment with the received radio signal strength through machine learning.
 
-### **Course Project**
+### **Course Projects**
 - **Embedded System Development**
 **HKUST, Sept. - Nov. 2022**
 
