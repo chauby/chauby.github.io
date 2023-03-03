@@ -45,14 +45,14 @@ permalink: /project/
 - **Embedded System Development**
 **HKUST, Sept. - Nov. 2022**
 
-1. Developed applications using Java based on Android Studio.
-2. Used Vivado to implement the required functions in FPGA.
-3. Connected and utilized IoT devices on Android OS.
+  1. Developed applications using Java based on Android Studio.
+  2. Used Vivado to implement the required functions in FPGA.
+  3. Connected and utilized IoT devices on Android OS.
 
 - **Microprocessor Development**  
 **CUHKSZ, Sept. - Dec. 2021**  
 
-1. Wrote codes using C in Keil to implement functions in a Cortex-M3-based microprocessor platform.
+  1. Wrote codes using C in Keil to implement functions in a Cortex-M3-based microprocessor platform.
 
 - **Electronic Circuit Design**  
 **CUHKSZ, Sept. - Dec. 2021**  
