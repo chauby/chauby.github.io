@@ -43,3 +43,7 @@ keywords:
 ### [34_A Review of Vision-Laser-Based Civil Infrastructure Inspection and Monitoring](https://www.mdpi.com/1424-8220/22/15/5882)
 
 ### [34_Computer Vision Based Health Monitoring in Railway Infrastructure](https://scholars.cityu.edu.hk/en/theses/theses(175fc3f7-e188-4dd1-bb41-2557fdc56a05).html)
+
+### [35_Event-based Vision: A Survey](http://arxiv.org/abs/1904.08405)
+
+### [35_OPTICS: Ordering Points To Identify the Clustering Structure](https://www.dbs.ifi.lmu.de/Publikationen/Papers/OPTICS.pdf)
