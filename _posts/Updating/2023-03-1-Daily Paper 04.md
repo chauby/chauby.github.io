@@ -40,6 +40,12 @@ keywords:
 
 ### [34_Advances in Computer Vision-Based Civil Infrastructure Inspection and Monitoring](https://linkinghub.elsevier.com/retrieve/pii/S2095809918308130)
 
+- This paper is a overall introduction about how the computer vision technology is applied in civil infrastructure condition assessment. Inspection applications and monitoring applications will be respectively described. Take the inspecting the bridge's structure for example, it is hard and time-consuming to install sensors and the following maintenance will be very expensive. Therefore, use computer vision technology to monitor the bridge's structure is very crucial. Unsupervised learning technology and optical flow techniques are suitable for the monitoring method.
+
+- The inspection applications are made up of two steps: Firstly, utilize UAVs for remote automated data acquisition; Secondly, use computer vision techniques to perform data processing and inspection. Automated damage detection has three methods:(1) Heuristic feature extraction methods: Apply a threshold or a machine learning classifier to the output of a hand-crafted filter for the particular damage type (DT) of interest. (2) Deep learning-based damage detection: Using machine learning techniques or relying on a combination of heuristic features together with a classifier. (3) Change detection：Building a baseline representation of the structure and compared against using data from subsequent inspections.
+
+
+
 ### [34_A Review of Vision-Laser-Based Civil Infrastructure Inspection and Monitoring](https://www.mdpi.com/1424-8220/22/15/5882)
 
 ### [34_Computer Vision Based Health Monitoring in Railway Infrastructure](https://scholars.cityu.edu.hk/en/theses/theses(175fc3f7-e188-4dd1-bb41-2557fdc56a05).html)
