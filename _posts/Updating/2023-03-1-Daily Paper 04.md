@@ -42,13 +42,20 @@ keywords:
 
 - This paper is a overall introduction about how the computer vision technology is applied in civil infrastructure condition assessment. Inspection applications and monitoring applications will be respectively described. Take the inspecting the bridge's structure for example, it is hard and time-consuming to install sensors and the following maintenance will be very expensive. Therefore, use computer vision technology to monitor the bridge's structure is very crucial. Unsupervised learning technology and optical flow techniques are suitable for the monitoring method.
 
-- The inspection applications are made up of two steps: Firstly, utilize UAVs for remote automated data acquisition; Secondly, use computer vision techniques to perform data processing and inspection. Automated damage detection has three methods:(1) Heuristic feature extraction methods: Apply a threshold or a machine learning classifier to the output of a hand-crafted filter for the particular damage type (DT) of interest. (2) Deep learning-based damage detection: Using machine learning techniques or relying on a combination of heuristic features together with a classifier. (3) Change detection：Building a baseline representation of the structure and compared against using data from subsequent inspections.
+- The inspection applications are made up of two steps: Firstly, utilize UAVs for remote automated data acquisition; Secondly, use computer vision techniques to perform data processing and inspection.  
+Automated damage detection has three methods:(1) Heuristic feature extraction methods: Apply a threshold or a machine learning classifier to the output of a hand-crafted filter for the particular damage type (DT) of interest. (2) Deep learning-based damage detection: Using machine learning techniques or relying on a combination of heuristic features together with a classifier. (3) Change detection：Building a baseline representation of the structure and compared against using data from subsequent inspections.  
+Structural component recognition mainly has three methods: (1) Heuristic-based structural component recognition using image data which strongly depends on the values of thresholds; (2) Structural component recognition using 3D point-cloud data: 3D point cloud is builded to detect and there are a lot of method about 3D point cloud; (3) Deep learning-based structural component recognition using image data which is based on semantic segmentation.  
+Damage detection with structure-level consistency is also one part of inspection application.
 
+- The monitoring technology has two category: Static applications and dynamic applications.  
+Measurement of static displacements and strains for civil infrastructure using vision-based techniques is often carried out using **digital image correlation (DIC)**.  
+Dynamic method is completed by system identification and modal analysis. For example, detect the optics change in the laboratory and vision-based vibration measurement techniques in the laboratory.
 
+- There are challenge in the vision-based automated inspection and monitoring of civil infrastructure: (1) Automated structural inspections necessitate integral understanding of damage and context: Higher accuracy damage detection and component recognition are still needed; (2) The generality of deep networks depends on the generality of data; (3) Human-like perception for inspections requires an understanding of sequential views: Temporal information should be considered; (4) Displacements are often small and difficult to capture: The accessibility of the structural components of interest is often limited; (5) Lighting and environmental effects; (6) Big data needs big data management: Need to handle and process full-field modal information obtained from video-bandpassing techniques.
 
-### [34_A Review of Vision-Laser-Based Civil Infrastructure Inspection and Monitoring](https://www.mdpi.com/1424-8220/22/15/5882)
+### [35_A Review of Vision-Laser-Based Civil Infrastructure Inspection and Monitoring](https://www.mdpi.com/1424-8220/22/15/5882)
 
-### [34_Computer Vision Based Health Monitoring in Railway Infrastructure](https://scholars.cityu.edu.hk/en/theses/theses(175fc3f7-e188-4dd1-bb41-2557fdc56a05).html)
+### [35_Computer Vision Based Health Monitoring in Railway Infrastructure](https://scholars.cityu.edu.hk/en/theses/theses(175fc3f7-e188-4dd1-bb41-2557fdc56a05).html)
 
 ### [35_Event-based Vision: A Survey](http://arxiv.org/abs/1904.08405)
 
