@@ -83,4 +83,3 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [35_Event-based Vision: A Survey](http://arxiv.org/abs/1904.08405)
 
-### [35_OPTICS: Ordering Points To Identify the Clustering Structure](https://www.dbs.ifi.lmu.de/Publikationen/Papers/OPTICS.pdf)
