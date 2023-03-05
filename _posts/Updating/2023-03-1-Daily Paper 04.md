@@ -71,12 +71,15 @@ Vision-Based Monitoring has two methods:
 DIC is a static measurement technology that requires a strict experimental layout and a measurement environment. MVS must calibrate the camera pose and arrange the control points in advance. SFM mostly completes monitoring and 3D reconstruction through SIFT feature point matching. Although SIFT feature points are effective, they still cause matching errors in complex architectural environments, forming sparse 3D point clouds.
 
 - Laser–Vision Fusion has three kinds of technology:
-(1) Laser Range Vision
-(2) Laser Structured Light
-(3) LiDAR Vision 
+(1) Laser Range Vision: "Single-point displacement monitoring tasks are often involved in infrastructure monitoring, such as bridge health and slight deformation of foundation pits. This type of problem can be transformed into transformation monitoring of the point to be measured in a 3D space in large-scale space. Because the target to be measured is small, and the monitoring distance is long, a combination of long-distance laser ranging and visual detection technology is required. The image total station is a typical combination of laser ranging and vision, and it has a significant role in the field of infrastructure monitoring."  
+(2) Laser Structured Light: "Laser structured light is an active optical measurement technique that projects a laser point or line through an emitter onto the surface of the object to be measured, and the image is acquired by an image sensor. The 3D coordinates of the object are calculated through systematic geometric relationships."  
+(3) LiDAR Vision: LiDAR is a measurement technology that emits a pulsed laser beam to a target and then measures the arrival time, strength, and other parameters of the reflected signal to determine the distance, orientation, motion state, and surface optical properties of the target.  
 
+- Challenges: (1)Model Training Requires Large Amounts of Data; (2) Model Transferability; (3) Noise Influence; (4) Expensive Sensors; (5) Decision-Making Problem; (6) Sensor Fusion.
+   
 ### [35_Computer Vision Based Health Monitoring in Railway Infrastructure](https://scholars.cityu.edu.hk/en/theses/theses(175fc3f7-e188-4dd1-bb41-2557fdc56a05).html)
 
+- Surface and track of bridge are checked by the computer vision technology. YOLO v3 is used as the basic algorithm. Since this paper is other's Ph.D. dissertation, I do not want to cite too much.
 
 ### [35_Event-based Vision: A Survey](http://arxiv.org/abs/1904.08405)
 
