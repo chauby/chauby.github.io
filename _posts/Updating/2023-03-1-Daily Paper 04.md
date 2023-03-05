@@ -51,11 +51,32 @@ Damage detection with structure-level consistency is also one part of inspection
 Measurement of static displacements and strains for civil infrastructure using vision-based techniques is often carried out using **digital image correlation (DIC)**.  
 Dynamic method is completed by system identification and modal analysis. For example, detect the optics change in the laboratory and vision-based vibration measurement techniques in the laboratory.
 
-- There are challenge in the vision-based automated inspection and monitoring of civil infrastructure: (1) Automated structural inspections necessitate integral understanding of damage and context: Higher accuracy damage detection and component recognition are still needed; (2) The generality of deep networks depends on the generality of data; (3) Human-like perception for inspections requires an understanding of sequential views: Temporal information should be considered; (4) Displacements are often small and difficult to capture: The accessibility of the structural components of interest is often limited; (5) Lighting and environmental effects; (6) Big data needs big data management: Need to handle and process full-field modal information obtained from video-bandpassing techniques.
+- There are challenge in the vision-based automated inspection and monitoring of civil infrastructure: (1) Automated structural inspections necessitate integral understanding of damage and context: Higher accuracy damage detection and component recognition are still needed; (2) The generality of deep networks depends on the generality of data; (3) Human-like perception for inspections requires an understanding of sequential views: Temporal information should be considered; (4) Displacements are often small and difficult to capture: The accessibility of the structural components of interest is often limited; (5) Lighting and environmental effects; (6) Big data needs big data management: Need to handle and process full-field modal information obtained from video band-passing techniques.
 
 ### [35_A Review of Vision-Laser-Based Civil Infrastructure Inspection and Monitoring](https://www.mdpi.com/1424-8220/22/15/5882)
 
+- This paper briefly introduces **an overview of vision-based inspection and vision–laser-based monitoring techniques and applications**. Sensors can be divided into contact and non-contact sensors. Vision based inspection mainly focuses on non-contact sensors but the 3D detection accuracy of the monocular camera is very low under long distances. As mentioned in the paper, 'a single sensor can have a certain role but also has limitations: a monocular camera can perform defect inspection in a 2-dimensional plane, but the lack of depth information makes it impossible to quantify defects; a single-beam laser cannot identify the entire object and locate the defects; LiDAR-based monitoring is accurate, but it is expensive, time-consuming, and lacks color information.' So people take the combination of these sensors into account. The overview of this paper is shown below.
+
+![Overview](/images/DailyPaper/04/03.png "Overview")
+
+- Vision-Based Infrastructure Inspection: The biggest two challenges existed in this process is (1) a single static camera is limited by its field of view; (2) the flight path of camera-equipped drones heavily affects inspection results.  
+Image processing algorithms primarily include gray-scale transformation, filtering, morphology, feature detection, and region segmentation.  
+Object detection aims to distinguish different objects and accurately estimate the position and concept of the object in the image.  
+Semantic segmentation is a high-level task that facilitates complete scene understanding.  
+
+- Vision–Laser-Based Infrastructure Monitoring mainly contains two kinds of technologies: Vision-Based Monitoring and Laser-Vision Fusion.  
+Vision-Based Monitoring has two methods:  
+(1)DIC: Digital image correlation (DIC) technology is a visual measurement technology. Its principle is to divide the ROI of two digital images before and after deformation into several sub-regions and obtain the displacement of the corresponding sub-regions through correlation calculations. The deformation information of an entire field can be obtained. DIC technology can measure the target deformation and strain, and has the advantages of full-field measurement, strong interference ability, and high measurement accuracy. An important point of the DIC method is that it does not require expensive sensors, and even a mobile phone can use DIC for complete displacement monitoring.  
+(2) MVS and SFM: Multi-view stereo photogrammetry (MVS) is a method of infrastructure monitoring that utilizes multiple cameras. MVS must know the camera pose as well as the intrinsic and extrinsic parameters of the camera, and the mapping matrix between multiple cameras must be obtained through camera calibration. The principle of structure from motion (SFM) is to use the SIFT feature to replace the calibration board to estimate the pose of the camera and generate a 3D point cloud.  
+DIC is a static measurement technology that requires a strict experimental layout and a measurement environment. MVS must calibrate the camera pose and arrange the control points in advance. SFM mostly completes monitoring and 3D reconstruction through SIFT feature point matching. Although SIFT feature points are effective, they still cause matching errors in complex architectural environments, forming sparse 3D point clouds.
+
+- Laser–Vision Fusion has three kinds of technology:
+(1) Laser Range Vision
+(2) Laser Structured Light
+(3) LiDAR Vision 
+
 ### [35_Computer Vision Based Health Monitoring in Railway Infrastructure](https://scholars.cityu.edu.hk/en/theses/theses(175fc3f7-e188-4dd1-bb41-2557fdc56a05).html)
+
 
 ### [35_Event-based Vision: A Survey](http://arxiv.org/abs/1904.08405)
 
