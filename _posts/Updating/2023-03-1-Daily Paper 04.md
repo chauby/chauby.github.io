@@ -77,9 +77,22 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 - Challenges: (1)Model Training Requires Large Amounts of Data; (2) Model Transferability; (3) Noise Influence; (4) Expensive Sensors; (5) Decision-Making Problem; (6) Sensor Fusion.
    
-### [35_Computer Vision Based Health Monitoring in Railway Infrastructure](https://scholars.cityu.edu.hk/en/theses/theses(175fc3f7-e188-4dd1-bb41-2557fdc56a05).html)
+### [36_Computer Vision Based Health Monitoring in Railway Infrastructure](https://scholars.cityu.edu.hk/en/theses/theses(175fc3f7-e188-4dd1-bb41-2557fdc56a05).html)
 
 - Surface and track of bridge are checked by the computer vision technology. YOLO v3 is used as the basic algorithm. Since this paper is other's Ph.D. dissertation, I do not want to cite too much.
 
-### [35_Event-based Vision: A Survey](http://arxiv.org/abs/1904.08405)
+### [37_Event-based Vision: A Survey](http://arxiv.org/abs/1904.08405)
 
+### [38_Secrets of Event-Based Optical Flow](https://arxiv.org/pdf/2207.10022.pdf)
+
+### [39_Traditional and modern strategies for optical flow_ an investigation](https://link.springer.com/10.1007/s42452-021-04227-x)
+
+### [310_Event-Based Optical Flow Estimation with Spatio-Temporal Backpropagation Trained Spiking Neural Network](https://www.mdpi.com/2072-666X/14/1/203)
+
+### [311_A Novel Dense Full-Field Displacement Monitoring Method Based on Image Sequences and Optical Flow Algorithm](https://www.mdpi.com/2076-3417/10/6/2118)
+
+### [312_Computer-Vision-Based Vibration Tracking Using a Digital Camera_A Sparse-Optical-Flow-Based Target Tracking Method](https://arxiv.org/pdf/2207.10022.pdf)
+
+### [313_Meta-Learning for Adaptation of Deep Optical Flow Networks](https://ieeexplore.ieee.org/document/10031014/)
+
+### [314_Optical Flow Estimation by Matching Time Surface with Event-Based Cameras](https://www.mdpi.com/1424-8220/21/4/1150)
