@@ -83,9 +83,19 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [37_Event-based Vision: A Survey](http://arxiv.org/abs/1904.08405)
 
+- 'Event cameras are bio-inspired sensors that differ from conventional frame cameras: Instead of capturing images at a fixed rate, they asynchronously measure **per-pixel brightness changes, and output a stream of events that encode the time, location and sign of the brightness changes**. Event cameras offer attractive properties compared to traditional cameras: high temporal resolution (in the order of μs), very high dynamic range (140 dB vs. 60 dB), low power consumption, and high pixel bandwidth (on the order of kHz) resulting in reduced motion blur.'
+
+- The event is generated via the exceed-threshold log intensity changes. The first silicon retina was developed by Mahowald and Mead at Caltech during the period 1986-1992, in Ph.D. thesis work that was awarded the prestigious Clauser prize. And the DVS (Dynamic Vision Sensor) event camera had its genesis in a frame-based silicon retina design.
+
+- There are several challenges of designing: (1) Coping with different space-time output: The output of event cameras is fundamentally different from that of standard cameras: events are asynchronous and spatially sparse, whereas images are synchronous and dense. Hence, frame based vision algorithms designed for image sequences are not directly applicable to event data. (2) Coping with different photometric sensing: In contrast to the gray scale information that standard cameras provide, each event contains binary (increase/decrease) brightness change information. Brightness changes depend not only on the scene brightness, but also on the current and past relative motion between the scene and the camera. (3) Coping with noise and dynamic effects: All vision sensors are noisy because of the inherent shot noise in photons and from transistor circuit noise, and they also have non-idealities. This situation is especially true for event cameras, where the process of quantizing temporal contrast is complex and has not been completely characterized. We are far from having a model that can predict event camera noise statistics under arbitrary illumination and biasing conditions. Solving this challenge would lead to better estimation method. One of the key questions of the paradigm shift posed by event cameras is how to extract meaningful information from the event data to fulfill a given task.
+
 ### [38_Secrets of Event-Based Optical Flow](https://arxiv.org/pdf/2207.10022.pdf)
 
+- This paper proposes **a multi-reference focus loss function** and **a principled time-aware flow**. All experiments are based on **the brightness constancy assumption**.
+ 
 ### [39_Traditional and modern strategies for optical flow_ an investigation](https://link.springer.com/10.1007/s42452-021-04227-x)
+
+- Optical flow is the pattern of the apparent motion of objects in a visual scene caused by the motion of an object or camera or both. When a camera records a scene for a given time, the resulting image sequence can be considered as a function of gray values at image pixel position (x, y) and the time t. There are two methods to estimate optical flow: (1) Traditional methods; (2) Deep learning based or CNN methods. The majority of optical flow methods are based on brightness constancy and smoothness assumptions.
 
 ### [310_Event-Based Optical Flow Estimation with Spatio-Temporal Backpropagation Trained Spiking Neural Network](https://www.mdpi.com/2072-666X/14/1/203)
 
@@ -95,4 +105,17 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [313_Meta-Learning for Adaptation of Deep Optical Flow Networks](https://ieeexplore.ieee.org/document/10031014/)
 
-### [314_Optical Flow Estimation by Matching Time Surface with Event-Based Cameras](https://www.mdpi.com/1424-8220/21/4/1150)
+### [314_Optical Flows Estimation by Matching Time Surface with Event-Based Cameras](https://www.mdpi.com/1424-8220/21/4/1150)
+
+### [315_EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](https://arxiv.org/pdf/1802.06898.pdf)
+
+### [316_Event-Based Visual Flow](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf)
+
+### [317_Spike-FlowNet_Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)
+
+
+### [318_Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/pdf/2106.01862.pdf)
+
+
+
+### [319_Optical Flow estimation with Event-based Cameras and Spiking Neural Networks](https://arxiv.org/pdf/2302.06492.pdf)
