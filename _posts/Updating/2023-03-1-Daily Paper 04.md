@@ -119,6 +119,10 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [315_EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](https://arxiv.org/pdf/1802.06898.pdf)
 
+- This paper proposes **EV-FlowNet**, a novel self-supervised deep learning pipeline for optical flow estimation for event based cameras. An image based representation of a given event stream is introduced, which is fed into a self-supervised neural network as the sole input. The corresponding gray-scale images captured from the same camera at the same time as the events are then used as a supervisory signal to provide a loss function at training time, given the estimated flow from the network. The framework of EV-FlowNet is shown below.
+
+![EV-FlowNet](/images/DailyPaper/04/04.png "EV-FlowNet")
+
 ### [316_Event-Based Visual Flow](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf)
 
 ### [317_Spike-FlowNet_Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)
