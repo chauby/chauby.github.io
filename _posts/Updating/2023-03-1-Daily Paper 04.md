@@ -107,7 +107,11 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [312_Computer-Vision-Based Vibration Tracking Using a Digital Camera_A Sparse-Optical-Flow-Based Target Tracking Method](https://arxiv.org/pdf/2207.10022.pdf)
 
+- Structural vibration monitoring is an important topic in object detection existed in the computer vision. In this paper, a new target tracking method based on the sparse optical flow technique is introduced for improving the accuracy in tracking the target, especially when the target has a large displacement. The proposed method utilizes the Oriented FAST and Rotated BRIEF (ORB) technique which is based on FAST (Features from Accelerated Segment Test), a feature detector, and BRIEF (Binary Robust Independent Elementary Features), a binary descriptor. In this study, a novel sparse-optical-flow-based target tracking approach for structural vibration monitoring is proposed, where t**he conventional sparse optical flow algorithm (i.e., LK) is enhanced** to track a set of sparse key-points accurately. The methods used for monitoring vibration are basically four kinds: Sparse Optical Flow, Feature Matching, Dense Optical Flow and Template Matching. The visual sensing system used for structural vibration monitoring consists of two components: (1) Camera calibration and scale conversion; (2) Frame tracking strategies and displacement calculation. This paper proposes a more efficient algorithm to compute the optical algorithm.
+
 ### [313_Meta-Learning for Adaptation of Deep Optical Flow Networks](https://ieeexplore.ieee.org/document/10031014/)
+
+- This paper proposes an instance-wise meta-learning algorithm for optical flow domain adaptation. Optical flow defines the apparent 2D motion field between a pair of images. In other words, it indicates pixel correspondences between neighboring frames in videos. Use Pytorch to realize the meta-learning. The test domain adaptation method that enables a neural network to have separate sets of network coefficients for different scenarios can be used to improve the performance of optical flow in the simulated dataset.
 
 ### [314_Optical Flows Estimation by Matching Time Surface with Event-Based Cameras](https://www.mdpi.com/1424-8220/21/4/1150)
 
