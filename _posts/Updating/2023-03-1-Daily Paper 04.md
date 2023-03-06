@@ -99,6 +99,8 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [310_Event-Based Optical Flow Estimation with Spatio-Temporal Backpropagation Trained Spiking Neural Network](https://www.mdpi.com/2072-666X/14/1/203)
 
+- The spike neural network has spatiotemporal coding characteristics, so it can be compatible with the spatiotemporal data of an event camera. This paper proposes an **end-to-end spike neural network** to predict the optical flow of the discrete spatiotemporal data stream for the event camera. Event cameras are also suitable for optical flow estimation since the precise timestamp at pixel-level intensity changes directly encodes fine-grain motion information.
+
 ### [311_A Novel Dense Full-Field Displacement Monitoring Method Based on Image Sequences and Optical Flow Algorithm](https://www.mdpi.com/2076-3417/10/6/2118)
 
 ### [312_Computer-Vision-Based Vibration Tracking Using a Digital Camera_A Sparse-Optical-Flow-Based Target Tracking Method](https://arxiv.org/pdf/2207.10022.pdf)
@@ -119,3 +121,5 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 
 ### [319_Optical Flow estimation with Event-based Cameras and Spiking Neural Networks](https://arxiv.org/pdf/2302.06492.pdf)
+
+### [320_SpikeMS_Deep Spiking Neural Network for Motion Segmentation.pdf](https://arxiv.org/pdf/2105.06562.pdf)
