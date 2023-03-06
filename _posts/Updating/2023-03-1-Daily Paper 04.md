@@ -115,7 +115,7 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [314_Optical Flows Estimation by Matching Time Surface with Event-Based Cameras](https://www.mdpi.com/1424-8220/21/4/1150)
 
-- In this work, a novel method of estimating optical flow from event-based cameras is proposed by **matching the time surface of events**. The proposed loss function measures the timestamp consistency between the time surface formed by the latest timestamp of each pixel and the one that is slightly shifted in time. This makes it possible to estimate dense optical flows with high accuracy without restoring luminance or additional sensor information. I
+- In this work, a novel method of estimating optical flow from event-based cameras is proposed by **matching the time surface of events**. The proposed loss function measures the timestamp consistency between the time surface formed by the latest timestamp of each pixel and the one that is slightly shifted in time. This makes it possible to estimate dense optical flows with high accuracy without restoring luminance or additional sensor information. It is possible to estimate a dense optical flow from only the events without restoring the luminance.
 
 ### [315_EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](https://arxiv.org/pdf/1802.06898.pdf)
 
