@@ -125,9 +125,11 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [316_Event-Based Visual Flow](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf)
 
+- This paper introduces a new methodology to compute dense visual flow using the precise timings of spikes from an asynchronous event-based retina.
+
 ### [317_Spike-FlowNet_Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)
 
-- This paper proposes **Spike-FlowNet** which is a deep hybrid neural network architecture integrating SNNs and ANNs for efficiently estimating optical flow from sparse event camera outputs without sacrificing the performance. The dataset used to test is MVSEC. Typically, the number of synaptic operations is used as a metric for benchmarking the computational energy of neuromorphic hardware.
+- This paper proposes **Spike-FlowNet** which is a deep hybrid neural network architecture integrating SNNs and ANNs for efficiently estimating optical flow from sparse event camera outputs without sacrificing the performance. The dataset used to test is MVSEC. Typically, the number of synaptic operations is used as a metric for benchmarking the computational energy of neuromorphic hardware. This paper use LK algorithm to calculate the optical flow.
 
 ### [318_Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/pdf/2106.01862.pdf)
 
