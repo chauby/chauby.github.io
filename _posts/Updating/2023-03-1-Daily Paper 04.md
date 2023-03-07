@@ -131,6 +131,8 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [318_Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/pdf/2106.01862.pdf)
 
+- This paper focuses on the complex task of learning to estimate optical flow from event-based camera inputs in a self-supervised manner **(SSL)**, and modifies the state-of-the-art ANN training pipeline to encode minimal temporal information in its inputs. Moreover, we reformulate the self-supervised loss function for event-based optical flow to improve its **convexity**. The ANNs proposes in this paper have the similar ability with SNNs. This paper shows a method of transfering ANNs to SNNs.
+
 ### [319_Optical Flow estimation with Event-based Cameras and Spiking Neural Networks](https://arxiv.org/pdf/2302.06492.pdf)
 
 ### [320_SpikeMS_Deep Spiking Neural Network for Motion Segmentation.pdf](https://arxiv.org/pdf/2105.06562.pdf)
