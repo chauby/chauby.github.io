@@ -135,7 +135,7 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [319_Optical Flow estimation with Event-based Cameras and Spiking Neural Networks](https://arxiv.org/pdf/2302.06492.pdf)
 
-- Cutting-edge technology in 2023 about optical flow.
+- This paper proposes **a U-Net-like SNN** which is able to make dense optical flow estimations after supervised training.
 
 ### [320_SpikeMS_Deep Spiking Neural Network for Motion Segmentation.pdf](https://arxiv.org/pdf/2105.06562.pdf)
 
