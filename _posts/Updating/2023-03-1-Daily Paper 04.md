@@ -127,11 +127,15 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [317_Spike-FlowNet_Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)
 
+- This paper proposes **Spike-FlowNet** which is a deep hybrid neural network architecture integrating SNNs and ANNs for efficiently estimating optical flow from sparse event camera outputs without sacrificing the performance. The dataset used to test is MVSEC. Typically, the number of synaptic operations is used as a metric for benchmarking the computational energy of neuromorphic hardware.
+
 ### [318_Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/pdf/2106.01862.pdf)
 
 ### [319_Optical Flow estimation with Event-based Cameras and Spiking Neural Networks](https://arxiv.org/pdf/2302.06492.pdf)
 
 ### [320_SpikeMS_Deep Spiking Neural Network for Motion Segmentation.pdf](https://arxiv.org/pdf/2105.06562.pdf)
+
+- This paper proposes **SpikeMS**, the first deep encoder-decoder SNN architecture for the real-world large-scale problem of motion segmentation using the event-based DVS camera as input. To accomplish this, a novel spatiotemporal loss formulation that includes both spike counts and classification labels in conjunction with the use of new techniques for SNN back-propagation is introduced. In SNNs, the neurons output pulses that are non-differentiable, rendering attempts at directly applying the backpropagation algorithm non-trivial.
 
 ### [321_A Review of Computer Vision-Based Structural Deformation Monitoring in Field Environments.pdf](https://www.mdpi.com/1424-8220/22/10/3789)
 
