@@ -141,11 +141,11 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [320_SpikeMS_Deep Spiking Neural Network for Motion Segmentation.pdf](https://arxiv.org/pdf/2105.06562.pdf)
 
-- This paper proposes **SpikeMS**, the first deep encoder-decoder SNN architecture for the real-world large-scale problem of motion segmentation using the event-based DVS camera as input. To accomplish this, a novel spatiotemporal loss formulation that includes both spike counts and classification labels in conjunction with the use of new techniques for SNN back-propagation is introduced. In SNNs, the neurons output pulses that are non-differentiable, rendering attempts at directly applying the backpropagation algorithm non-trivial.
- z
+- This paper proposes **SpikeMS**, the first deep encoder-decoder SNN architecture for the real-world large-scale problem of motion segmentation using the event-based DVS camera as input. To accomplish this, a novel spatiotemporal loss formulation that includes both spike counts and classification labels in conjunction with the use of new techniques for SNN back-propagation is introduced. In SNNs, the neurons output pulses that are non-differentiable, rendering attempts at directly applying the back-propagation algorithm non-trivial.
+
 ### [321_A Review of Computer Vision-Based Structural Deformation Monitoring in Field Environments](https://www.mdpi.com/1424-8220/22/10/3789)
 
--This paper analyzes the influence mechanism of the measuring accuracy of computer vision deformation monitoring systems from two perspectives, the physical impact, and target tracking algorithm impact, and provide the existing solutions. A lot of methods can be cited and I learn a lot from this paper.
+- his paper analyzes the influence mechanism of the measuring accuracy of computer vision deformation monitoring systems from two perspectives, the physical impact, and target tracking algorithm impact, and provide the existing solutions. A lot of methods can be cited and I learn a lot from this paper.
 
 ### [322_ESIM_an Open Event Camera Simulator.pdf](http://proceedings.mlr.press/v87/rebecq18a/rebecq18a.pdf)
 
