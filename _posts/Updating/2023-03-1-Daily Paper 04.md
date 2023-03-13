@@ -89,64 +89,64 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 - There are several challenges of designing: (1) Coping with different space-time output: The output of event cameras is fundamentally different from that of standard cameras: events are asynchronous and spatially sparse, whereas images are synchronous and dense. Hence, frame based vision algorithms designed for image sequences are not directly applicable to event data. (2) Coping with different photometric sensing: In contrast to the gray scale information that standard cameras provide, each event contains binary (increase/decrease) brightness change information. Brightness changes depend not only on the scene brightness, but also on the current and past relative motion between the scene and the camera. (3) Coping with noise and dynamic effects: All vision sensors are noisy because of the inherent shot noise in photons and from transistor circuit noise, and they also have non-idealities. This situation is especially true for event cameras, where the process of quantizing temporal contrast is complex and has not been completely characterized. We are far from having a model that can predict event camera noise statistics under arbitrary illumination and biasing conditions. Solving this challenge would lead to better estimation method. One of the key questions of the paradigm shift posed by event cameras is how to extract meaningful information from the event data to fulfill a given task.
 
-### [38_Secrets of Event-Based Optical Flow](https://arxiv.org/pdf/2207.10022.pdf)
+### [37_Secrets of Event-Based Optical Flow](https://arxiv.org/pdf/2207.10022.pdf)
 
 - This paper proposes **a multi-reference focus loss function** and **a principled time-aware flow**. All experiments are based on **the brightness constancy assumption**.
  
-### [39_Traditional and modern strategies for optical flow_ an investigation](https://link.springer.com/10.1007/s42452-021-04227-x)
+### [37_Traditional and modern strategies for optical flow_ an investigation](https://link.springer.com/10.1007/s42452-021-04227-x)
 
 - Optical flow is the pattern of the apparent motion of objects in a visual scene caused by the motion of an object or camera or both. When a camera records a scene for a given time, the resulting image sequence can be considered as a function of gray values at image pixel position (x, y) and the time t. There are two methods to estimate optical flow: (1) Traditional methods; (2) Deep learning based or CNN methods. The majority of optical flow methods are based on brightness constancy and smoothness assumptions.
 
-### [310_Event-Based Optical Flow Estimation with Spatio-Temporal Backpropagation Trained Spiking Neural Network](https://www.mdpi.com/2072-666X/14/1/203)
+### [38_Event-Based Optical Flow Estimation with Spatio-Temporal Backpropagation Trained Spiking Neural Network](https://www.mdpi.com/2072-666X/14/1/203)
 
 - The spike neural network has spatiotemporal coding characteristics, so it can be compatible with the spatiotemporal data of an event camera. This paper proposes an **end-to-end spike neural network** to predict the optical flow of the discrete spatiotemporal data stream for the event camera. Event cameras are also suitable for optical flow estimation since the precise timestamp at pixel-level intensity changes directly encodes fine-grain motion information. MVSEC is regarded as the dataset to train and test.
 
-### [311_A Novel Dense Full-Field Displacement Monitoring Method Based on Image Sequences and Optical Flow Algorithm](https://www.mdpi.com/2076-3417/10/6/2118)
+### [38_A Novel Dense Full-Field Displacement Monitoring Method Based on Image Sequences and Optical Flow Algorithm](https://www.mdpi.com/2076-3417/10/6/2118)
 
 - This paper obtained the deformation of the bridge structure by tracking a virtual target using the optical flow algorithm. And this paper just uses traditional method of optical flow to calculate the pixels' displacement.
 
-### [312_Computer-Vision-Based Vibration Tracking Using a Digital Camera_A Sparse-Optical-Flow-Based Target Tracking Method](https://arxiv.org/pdf/2207.10022.pdf)
+### [39_Computer-Vision-Based Vibration Tracking Using a Digital Camera_A Sparse-Optical-Flow-Based Target Tracking Method](https://arxiv.org/pdf/2207.10022.pdf)
 
 - Structural vibration monitoring is an important topic in object detection existed in the computer vision. In this paper, a new target tracking method based on the sparse optical flow technique is introduced for improving the accuracy in tracking the target, especially when the target has a large displacement. The proposed method utilizes the Oriented FAST and Rotated BRIEF (ORB) technique which is based on FAST (Features from Accelerated Segment Test), a feature detector, and BRIEF (Binary Robust Independent Elementary Features), a binary descriptor. In this study, a novel sparse-optical-flow-based target tracking approach for structural vibration monitoring is proposed, where t**he conventional sparse optical flow algorithm (i.e., LK) is enhanced** to track a set of sparse key-points accurately. The methods used for monitoring vibration are basically four kinds: Sparse Optical Flow, Feature Matching, Dense Optical Flow and Template Matching. The visual sensing system used for structural vibration monitoring consists of two components: (1) Camera calibration and scale conversion; (2) Frame tracking strategies and displacement calculation. This paper proposes a more efficient algorithm to compute the optical algorithm.
 
-### [313_Meta-Learning for Adaptation of Deep Optical Flow Networks](https://ieeexplore.ieee.org/document/10031014/)
+### [39_Meta-Learning for Adaptation of Deep Optical Flow Networks](https://ieeexplore.ieee.org/document/10031014/)
 
 - This paper proposes an instance-wise meta-learning algorithm for optical flow domain adaptation. Optical flow defines the apparent 2D motion field between a pair of images. In other words, it indicates pixel correspondences between neighboring frames in videos. Use Pytorch to realize the meta-learning. The test domain adaptation method that enables a neural network to have separate sets of network coefficients for different scenarios can be used to improve the performance of optical flow in the simulated dataset.
 
-### [314_Optical Flows Estimation by Matching Time Surface with Event-Based Cameras](https://www.mdpi.com/1424-8220/21/4/1150)
+### [310_Optical Flows Estimation by Matching Time Surface with Event-Based Cameras](https://www.mdpi.com/1424-8220/21/4/1150)
 
 - In this work, a novel method of estimating optical flow from event-based cameras is proposed by **matching the time surface of events**. The proposed loss function measures the timestamp consistency between the time surface formed by the latest timestamp of each pixel and the one that is slightly shifted in time. This makes it possible to estimate dense optical flows with high accuracy without restoring luminance or additional sensor information. It is possible to estimate a dense optical flow from only the events without restoring the luminance.
 
-### [315_EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](https://arxiv.org/pdf/1802.06898.pdf)
+### [310_EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](https://arxiv.org/pdf/1802.06898.pdf)
 
 - This paper proposes **EV-FlowNet**, a novel self-supervised deep learning pipeline for optical flow estimation for event based cameras. An image based representation of a given event stream is introduced, which is fed into a self-supervised neural network as the sole input. The corresponding gray-scale images captured from the same camera at the same time as the events are then used as a supervisory signal to provide a loss function at training time, given the estimated flow from the network. The framework of EV-FlowNet is shown below.
 
 ![EV-FlowNet](/images/DailyPaper/04/04.png "EV-FlowNet")
 
-### [316_Event-Based Visual Flow](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf)
+### [311_Event-Based Visual Flow](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf)
 
 - This paper introduces a new methodology to compute dense visual flow using the precise timings of spikes from an asynchronous event-based retina.
 
-### [317_Spike-FlowNet_Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)
+### [311_Spike-FlowNet_Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)
 
 - This paper proposes **Spike-FlowNet** which is a deep hybrid neural network architecture integrating SNNs and ANNs for efficiently estimating optical flow from sparse event camera outputs without sacrificing the performance. The dataset used to test is MVSEC. Typically, the number of synaptic operations is used as a metric for benchmarking the computational energy of neuromorphic hardware. This paper use LK algorithm to calculate the optical flow.
 
-### [318_Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/pdf/2106.01862.pdf)
+### [312_Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/pdf/2106.01862.pdf)
 
 - This paper focuses on the complex task of learning to estimate optical flow from event-based camera inputs in a self-supervised manner **(SSL)**, and modifies the state-of-the-art ANN training pipeline to encode minimal temporal information in its inputs. Moreover, we reformulate the self-supervised loss function for event-based optical flow to improve its **convexity**. The ANNs proposes in this paper have the similar ability with SNNs. This paper shows a method to transfer ANNs to SNNs. I need to cite the three papers mentioned here. 
 
-### [319_Optical Flow estimation with Event-based Cameras and Spiking Neural Networks](https://arxiv.org/pdf/2302.06492.pdf)
+### [312_Optical Flow estimation with Event-based Cameras and Spiking Neural Networks](https://arxiv.org/pdf/2302.06492.pdf)
 
 - This paper proposes **a U-Net-like SNN** which is able to make dense optical flow estimations after supervised training. Besides, a new angular loss is adopted. And 3d encoding of input event over a temporal dimension is utilized to increase the accuracy. ‘Concerning depth and/or optical flow regression, two datasets have currently established themselves as the goto choices: the **MVSEC** Dataset by [8], and the **DSEC** Dataset by [9]. While all of these datasets have proven invaluable to develop event-based computer vision algorithms, there is still an enormous gap between event-based and image-based publicly available datasets, and many authors are still forced to develop their own.’ this is meaningful for my idea of building my own dataset. Because of the lack of overall temporal context, the network by using short frames is unable to extract longer-term dependencies, and therefore to accurately predict optical flow. Exploiting the intrinsic memory of spiking neurons is indeed a potentially useful approach, but the increased computational power linked to unrolling a stateful computational graph makes the task challenging.
 
-### [320_SpikeMS_Deep Spiking Neural Network for Motion Segmentation.pdf](https://arxiv.org/pdf/2105.06562.pdf)
+### [313_SpikeMS_Deep Spiking Neural Network for Motion Segmentation.pdf](https://arxiv.org/pdf/2105.06562.pdf)
 
 - This paper proposes **SpikeMS**, the first deep encoder-decoder SNN architecture for the real-world large-scale problem of motion segmentation using the event-based DVS camera as input. To accomplish this, a novel spatiotemporal loss formulation that includes both spike counts and classification labels in conjunction with the use of new techniques for SNN back-propagation is introduced. In SNNs, the neurons output pulses that are non-differentiable, rendering attempts at directly applying the back-propagation algorithm non-trivial.
 
-### [321_A Review of Computer Vision-Based Structural Deformation Monitoring in Field Environments](https://www.mdpi.com/1424-8220/22/10/3789)
+### [313_A Review of Computer Vision-Based Structural Deformation Monitoring in Field Environments](https://www.mdpi.com/1424-8220/22/10/3789)
 
 - his paper analyzes the influence mechanism of the measuring accuracy of computer vision deformation monitoring systems from two perspectives, the physical impact, and target tracking algorithm impact, and provide the existing solutions. A lot of methods can be cited and I learn a lot from this paper.
 
-### [322_ESIM_an Open Event Camera Simulator.pdf](http://proceedings.mlr.press/v87/rebecq18a/rebecq18a.pdf)
+### [314_ESIM_an Open Event Camera Simulator.pdf](http://proceedings.mlr.press/v87/rebecq18a/rebecq18a.pdf)
 
 - Since the event-based camera is expensive, this paper introduces a **simulator** of event camera! Thanks! The key component of this simulator is a theoretically sound, adaptive rendering scheme that only samples frames when necessary, through a tight coupling between the rendering engine and the event simulator. [This simulator can be found here.](http://rpg.ifi.uzh.ch/esim)
