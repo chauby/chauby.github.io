@@ -151,5 +151,6 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 - Since the event-based camera is expensive, this paper introduces a **simulator** of event camera! Thanks! The key component of this simulator is a theoretically sound, adaptive rendering scheme that only samples frames when necessary, through a tight coupling between the rendering engine and the event simulator. [This simulator can be found here.](http://rpg.ifi.uzh.ch/esim)
 
-- Event camera is expensive, rare and with practical limitaions. 
+- Event camera is expensive, rare and with practical limitations. Vision sensors measure some function of the radiant flux (or intensity) of light falling per unit area of the sensor, which is referred to as the irradiance E. Event cameras operate in the log domain, which allows them to achieve a high dynamic range: instead of measuring changes of irradiance E, they measure changes of log-irradiance log E. Instead of choosing an arbitrary rendering frame rate, and sampling frames uniformly across time at the chosen framerate in the previous work, this paper proposes to **sample frames adaptively, adapting the sampling rate based on the predicted dynamics of the visual signal**. The comparison and the method of adaptive sampling frames are shown below.
 
+![Comparison & Adaptive Sampling](/images/DailyPaper/04/05.png "Comparison & Adaptive Sampling")
