@@ -154,3 +154,7 @@ DIC is a static measurement technology that requires a strict experimental layou
 - Event camera is expensive, rare and with practical limitations. Vision sensors measure some function of the radiant flux (or intensity) of light falling per unit area of the sensor, which is referred to as the irradiance E. Event cameras operate in the log domain, which allows them to achieve a high dynamic range: instead of measuring changes of irradiance E, they measure changes of log-irradiance log E. Instead of choosing an arbitrary rendering frame rate, and sampling frames uniformly across time at the chosen framerate in the previous work, this paper proposes to **sample frames adaptively, adapting the sampling rate based on the predicted dynamics of the visual signal**. The comparison and the method of adaptive sampling frames are shown below.
 
 ![Comparison & Adaptive Sampling](/images/DailyPaper/04/05.png "Comparison & Adaptive Sampling")
+
+### [315_Performance Oriented DSP for Flexible Long Haul Coherent Transmission](https://ieeexplore-ieee-org.lib.ezproxy.hkust.edu.hk/document/9645315)
+
+- This is the paper for course quiz.
