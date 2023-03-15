@@ -105,10 +105,6 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 - This paper obtained the deformation of the bridge structure by tracking a virtual target using the optical flow algorithm. And this paper uses the traditional visual flow method to calculate the pixels' displacement.
 
-### [39_Computer-Vision-Based Vibration Tracking Using a Digital Camera_A Sparse-Optical-Flow-Based Target Tracking Method](https://arxiv.org/pdf/2207.10022.pdf)
-
-- Structural vibration monitoring is an essential topic in object detection in computer vision. This paper introduces a new target-tracking method based on the sparse optical flow technique to improve the accuracy in tracking the target, especially when the target has a large displacement. The proposed method utilizes the Oriented FAST and Rotated BRIEF (ORB) technique which is based on FAST (Features from Accelerated Segment Test), a feature detector, and BRIEF (Binary Robust Independent Elementary Features), a binary descriptor. This study proposes a novel sparse-optical-flow-based target tracking approach for structural vibration monitoring, where **the conventional sparse optical flow algorithm (i.e., LK) is enhanced** to track a set of sparse key points accurately. The methods used for monitoring vibration are four kinds: Sparse Optical Flow, Feature Matching, Dense Optical Flow, and Template Matching. The visual sensing system used for structural vibration monitoring consists of (1) Camera calibration and scale conversion; (2) Frame tracking strategies and displacement calculation. This paper proposes a more efficient algorithm to compute the optical algorithm.
-
 ### [39_Meta-Learning for Adaptation of Deep Optical Flow Networks](https://ieeexplore.ieee.org/document/10031014/)
 
 - This paper proposes an instance-wise meta-learning algorithm for optical flow domain adaptation. Optical flow defines the apparent 2D motion field between a pair of images. In other words, it indicates pixel correspondences between neighboring frames in videos. Use PyTorch to realize the meta-learning. The test domain adaptation method that enables a neural network to have separate sets of network coefficients for different scenarios can be used to improve the performance of optical flow in the simulated dataset.
@@ -155,6 +151,10 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ![Comparison & Adaptive Sampling](/images/DailyPaper/04/05.png "Comparison & Adaptive Sampling")
 
-### [315_Performance Oriented DSP for Flexible Long Haul Coherent Transmission](https://ieeexplore-ieee-org.lib.ezproxy.hkust.edu.hk/document/9645315)
+### [315_Computer-Vision-Based Vibration Tracking Using a Digital Camera_A Sparse-Optical-Flow-Based Target Tracking Method](https://arxiv.org/pdf/2207.10022.pdf)
+
+- Structural vibration monitoring is an essential topic in object detection in computer vision. This paper introduces a new target-tracking method based on the sparse optical flow technique to improve the accuracy in tracking the target, especially when the target has a large displacement. The proposed method utilizes the Oriented FAST and Rotated BRIEF (ORB) technique which is based on FAST (Features from Accelerated Segment Test), a feature detector, and BRIEF (Binary Robust Independent Elementary Features), a binary descriptor. This study proposes a novel sparse-optical-flow-based target tracking approach for structural vibration monitoring, where **the conventional sparse optical flow algorithm (i.e., LK) is enhanced** to track a set of sparse key points accurately. The methods used for monitoring vibration are four kinds: Sparse Optical Flow, Feature Matching, Dense Optical Flow, and Template Matching. The visual sensing system used for structural vibration monitoring consists of (1) Camera calibration and scale conversion; (2) Frame tracking strategies and displacement calculation. This paper proposes a more efficient algorithm to compute the optical algorithm.
+
+### [316_Performance Oriented DSP for Flexible Long Haul Coherent Transmission](https://ieeexplore-ieee-org.lib.ezproxy.hkust.edu.hk/document/9645315)
 
 - This is the paper for the course quiz.
