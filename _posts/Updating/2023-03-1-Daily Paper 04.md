@@ -169,7 +169,7 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [317_Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](http://arxiv.org/abs/1811.12004)
 
-
+- This paper proposes **Lightweight OpenPose** which is a light weight version of OpenPose. 
 
 
 
