@@ -171,6 +171,7 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 - This paper proposes **Lightweight OpenPose** which is a light weight version of OpenPose. 
 
+![OpenPose Pipeline](/images/DailyPaper/04/06.png "OpenPose Pipeline")
 
 
 
