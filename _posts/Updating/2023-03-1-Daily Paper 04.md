@@ -161,8 +161,13 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 - To handle the problem of bandwidth in the long haul optical fiber communication networks, this paper discussed the digital signal processing(DSP) techniques. The target application scene decides the coherent transceivers. Two extreme scenrios includes short reach transmission systems and long haul communication systems. Light wave propagation in optical fiber is determined by Manakov Equation which described nonlinearity, chromatic dispersion, and attenuation of optical fiber transmission. Amplification always adds noise to a signal in the form of amplified spontaneous emission (ASE). State of Polarization, Polarization-Mode Dispersion and Polarization-Dependent Loss will induce polarization-dependent impairments.
 
-- 
+- There are three key converter specifications: (1) Analog Bandwidth; (2)Signal-to-noise-plus Distortion Ratio (SNDR) and (3) Effective Number of Bits (ENOB).
 
+- Two critical specification for both the MZMD and the TIA are small-signal gain and the 3dB bandwidth. The gain of the MZMD is determined based on the DAC swing, losses in the RF chain between DAC, MZMD and MZM, as well as the effectiveness of the MZM in converting input RF signal into optical field modulation that is often measured by the half-wave voltage (Vπ) of the MZM. In addition to gain and bandwidth, the linearity of the MZMD and TIA will influence signal integrity. Finally, the last remaining aspect of an amplifier is related to its linear noise.
+
+- The timing recovery phase-locked-loop (PLL) comprises three main blocks: (1) Phase Detector (PD), (2) Loop Filter, and (3) Voltage-controlled Oscillator (VCO) or Numerically Controlled Oscillator (NCO).
+
+### [317_Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](http://arxiv.org/abs/1811.12004)
 
 
 
