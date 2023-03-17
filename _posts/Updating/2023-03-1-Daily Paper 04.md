@@ -169,14 +169,14 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [317_Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](http://arxiv.org/abs/1811.12004)
 
-- This paper proposes **Lightweight OpenPose** which is a light weight version of OpenPose. Similarly, this lightweight version adopts the **Bottom-up** approach like OpenPose. The Top-down, applies a person detector and then runs a pose estimation algorithm per every detected person. On the contrast, the Bottom-up detects all keypoints first and then groups them by human instances. The pipeline of OpenPose is shown below. Search keypoints and use affinity to find the best pair for each keypoints. MobileNet v1 is used to replace the VGG net and use dilated convolution in 3 x 3 layer to increase the receptive field. Besides, the residual connection is added to make the deeper network more compact because 1x1+3x3+3x3(dilated) layers are used to replace 7x7 layer. Moreover, the step with upsampling feature maps should be kept.
+- This paper proposes **Lightweight OpenPose**, a lightweight version of OpenPose. Similarly, this lightweight version adopts the **Bottom-up** approach like OpenPose. The Top-down applies a person detector and then runs a pose estimation algorithm for every detected person. In contrast, the Bottom-up detects all key points and groups them by human instances. The pipeline of OpenPose is shown below. Search key points and use affinity to find the best pair for each keypoints. MobileNet v1 replaces the VGG net and uses dilated convolution in a 3 x 3 layer to increase the receptive field. Besides, the residual connection is added to make the deeper network more compact because 1x1+3x3+3x3(dilated) layers are used to replace the 7x7 layer. Moreover, the step with upsampling feature maps should be kept.
 
 ![OpenPose Pipeline](/images/DailyPaper/04/06.png "OpenPose Pipeline")
 
 ### [317_Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.pdf)
 
-- This paper introduces **OpenPose** which I realized that I just went through the GitHub reposity of OpenPose rather than really read this paper. The approach uses a non-parametric representation, which we refer to as **Part Affinity
-Fields (PAFs)** which is a set of 2D vector fields that encode the location and orientation of limbs over the image domain. The backbone of OpenPose is the first 10 layers of VGG-19. The architecture of the two-branch multi-stage CNN is shown below. The loss function of OpenPose contains two part: the loss for part maps and the affinity fields.
+- This paper introduces **OpenPose**, which I realized I just went through the GitHub repository of OpenPose rather than read this paper. The approach uses a non-parametric representation, which we refer to as **Part Affinity
+Fields (PAFs)**is a set of 2D vector fields that encode the location and orientation of limbs over the image domain. The backbone of OpenPose is the first ten layers of VGG-19. The architecture of the two-branch multi-stage CNN is shown below. The loss function of OpenPose contains two parts: the loss for part maps and the affinity fields.
 
 ![Architecture of the Two-branch Multi-stage CNN](/images/DailyPaper/04/07.png "Architecture of the Two-branch Multi-stage CNN")
 
