@@ -169,13 +169,14 @@ DIC is a static measurement technology that requires a strict experimental layou
 
 ### [317_Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](http://arxiv.org/abs/1811.12004)
 
-- This paper proposes **Lightweight OpenPose** which is a light weight version of OpenPose. Similarly, this lightweight version adopts the **Bottom-up** approach like OpenPose. The Top-down, applies a person detector and then runs a pose estimation algorithm per every detected person. On the contrast, the Bottom-up detects all keypoints first and then groups them by human instances. The pipeline of OpenPose is shown below.
+- This paper proposes **Lightweight OpenPose** which is a light weight version of OpenPose. Similarly, this lightweight version adopts the **Bottom-up** approach like OpenPose. The Top-down, applies a person detector and then runs a pose estimation algorithm per every detected person. On the contrast, the Bottom-up detects all keypoints first and then groups them by human instances. The pipeline of OpenPose is shown below. Search keypoints and use afficity to find the best pair for each keypoints. MobileNet v1 is used to replace the VGG net and use dilated convolution to increase the receptive field. Besides, the residual connection is added to make the deeper network more compact. Moreover, the step with upsampling feature maps should be kept.
 
 ![OpenPose Pipeline](/images/DailyPaper/04/06.png "OpenPose Pipeline")
 
-
-
 ### [317_Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.pdf)
+
+- This paper introduces **OpenPose** which I realized that I just went through the GitHub reposity of OpenPose rather than really read this paper. The approach uses a non-parametric representation, which we refer to as **Part Affinity
+Fields (PAFs)**. The backbone of OpenPose is VGGNet. The 
 
 
 
