@@ -182,13 +182,13 @@ Fields (PAFs)**is a set of 2D vector fields that encode the location and orienta
 
 ### [318_Spiking Deep Convolutional Neural Networks for Energy-Efficient Object Recognition](http://link.springer.com/10.1007/s11263-014-0788-3)
 
-- This paper introduces a method to **convert a deep CNN to a SNN**. There are two general methods to convert: (1) Directly train a spiking network with CNN-like architecture; (2) Train the original CNN and then apply the learned weights to a SNN with a similar architecture as the trained CNN. To overcome some challenges, this paper first tailor the CNN and converts the tailor CNN into SNN: (1) Make output values in all layers positive; (2) Remove biases from all convolution and the fully connected layers; (3) Use spatial linear sub-sampling instead of spatial max-pooling. The original CNN is shown below:
+- This paper introduces a method to **convert a deep CNN to an SNN**. There are two general methods to convert: (1) Directly train a spiking network with CNN-like architecture; (2) Train the original CNN and then apply the learned weights to an SNN with a similar architecture as the trained CNN. To overcome some challenges, this paper first tailors the CNN and converts the tailor CNN into SNN: (1) Make output values in all layers positive: Use abs() in the pre-processing data and use ReLU to replace tanh(); (2) Remove biases from all convolution and the fully connected layers; (3) Use spatial linear sub-sampling instead of spatial max-pooling. The original CNN is shown below:
 
 ![Original CNN Model](/images/DailyPaper/04/08.png "Original CNN Model")
 
-The tailor CNN model is shown below:
+The tailored CNN model is shown below:
 
-![The Tailor CNN Model](/images/DailyPaper/04/09.png "The Tailor CNN Model")
+![The Tailored CNN Model](/images/DailyPaper/04/09.png "The Tailored CNN Model")
 
 The converted SNN model is shown below:
 
