@@ -180,4 +180,10 @@ Fields (PAFs)**is a set of 2D vector fields that encode the location and orienta
 
 ![Architecture of the Two-branch Multi-stage CNN](/images/DailyPaper/04/07.png "Architecture of the Two-branch Multi-stage CNN")
 
+### [318_Spiking Deep Convolutional Neural Networks for Energy-Efficient Object Recognition](http://link.springer.com/10.1007/s11263-014-0788-3)
 
+### [319_Fast-Classifying, High-Accuracy Spiking Deep Networks Through Weight and Threshold Balancing](http://ieeexplore.ieee.org/document/7280696/)
+
+### [320_Going Deeper in Spiking Neural Networks: VGG and Residual Architectures](http://arxiv.org/abs/1802.02627)
+
+### [321_Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](http://arxiv.org/abs/1903.06530)
