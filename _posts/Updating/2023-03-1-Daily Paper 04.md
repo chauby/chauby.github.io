@@ -206,4 +206,12 @@ In Data-based Normalization, after training the network, the training set is for
 
 ### [320_Going Deeper in Spiking Neural Networks: VGG and Residual Architectures](http://arxiv.org/abs/1802.02627)
 
+- This paper proposes **a novel architecture of SNN** to improve the performance. (1) **The deeper SNN** is proved to have robust performance, and the **sparsity significantly increases** with the depth increases. (2) **A new ANN-SNN conversion technique** is proposed in this paper. (3) **Residual network** is researched to merge into SNN in this paper.
+
+- In the architecture proposed in this paper, **dropout is used to replace bias, and spatial averaging takes place pooling**. The novel normalization proposed in this paper is shown below. To minimize the time delay of the neuron while ensuring that the trigger threshold of the neuron is not too low, we weighted the first layer to normalize it according to the maximum spike input received by the first layer. The residual block used in the SNN is shown in the following. This paper provides meaningful technologies for many ANN-SNN conversions.
+
+![Normalization](/images/DailyPaper/04/12.png "Normalization")
+
+![Residual Block in SNN](/images/DailyPaper/04/13.png "Residual Block in SNN")
+
 ### [321_Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](http://arxiv.org/abs/1903.06530)
