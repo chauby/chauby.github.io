@@ -216,5 +216,12 @@ In Data-based Normalization, after training the network, the training set is for
 
 ### [321_Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](http://arxiv.org/abs/1903.06530)
 
+- This paper proposes **Spiking-YOLO** which is a spiked-based object detection model. Besides, a more fine-grained **channel-wise normalization method** is introduced. The pseudo code is shown below. But this method is not very obvious in the result.
+
+![Channel-wise Normalization](/images/DailyPaper/04/14.png "Channel-wise Normalization")
+
+- The leaky ReLU based on SNN is shown below. This is helpful for the realization of SNN in the hardware.
+
+![Leaky ReLU based on SNN](/images/DailyPaper/04/15.png "Leaky ReLU based on SNN")
 
 ### [322_The connectome of an insect brain](https://www.science.org/doi/10.1126/science.add9330)
