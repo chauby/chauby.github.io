@@ -216,12 +216,14 @@ In Data-based Normalization, after training the network, the training set is for
 
 ### [321_Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](http://arxiv.org/abs/1903.06530)
 
-- This paper proposes **Spiking-YOLO** which is a spiked-based object detection model. Besides, a more fine-grained **channel-wise normalization method** is introduced. The pseudo code is shown below. But this method is not very obvious in the result.
+- This paper proposes **Spiking-YOLO**, which is a spiked-based object detection model. Besides, a more fine-grained **channel-wise normalization method** is introduced. The pseudo-code is shown below. But this method is not very obvious in the result.
 
 ![Channel-wise Normalization](/images/DailyPaper/04/14.png "Channel-wise Normalization")
 
-- The leaky ReLU based on SNN is shown below. This is helpful for the realization of SNN in the hardware.
+- The leaky ReLU based on SNN is shown below. This realization is helpful for the completion of SNN in the hardware.
 
 ![Leaky ReLU based on SNN](/images/DailyPaper/04/15.png "Leaky ReLU based on SNN")
 
 ### [322_The connectome of an insect brain](https://www.science.org/doi/10.1126/science.add9330)
+
+- This paper completes reconstructing the brain connection of 'Drosophila larvae.' Since I am not majoring in biology, I do not want to emphasize the details of the reconnection of the brain. Researchers have identified widespread multi-sensory integration in the brain and multiple interconnected pathways from sensory neurons to output neurons at different depths, forming a distributed processing network. The brain has a highly recurrent structure, with 41% of neurons receiving long-range recurrent inputs, although the distribution of recurrent is not uniform, with exceptionally high rates of recurrent in areas involved in learning and action selection. Some of the structural features observed in the brain of Drosophila larvae, including **multiple layers of shortcuts and significant nested loops (Residual Network)**, can be found in state-of-the-art artificial neural networks and may compensate for the current network's problems in depth, processing task generalization, and these features may also increase the brain's computational power and overcome the physiological limitations in the number of neurons. Future analysis of the similarities and differences between the brain and artificial neural networks may help to understand the brain's computational principles and may inspire new machine learning architectures.
