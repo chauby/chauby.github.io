@@ -215,3 +215,6 @@ In Data-based Normalization, after training the network, the training set is for
 ![Residual Block in SNN](/images/DailyPaper/04/13.png "Residual Block in SNN")
 
 ### [321_Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](http://arxiv.org/abs/1903.06530)
+
+
+### [322_The connectome of an insect brain](https://www.science.org/doi/10.1126/science.add9330)
