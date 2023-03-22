@@ -230,10 +230,12 @@ In Data-based Normalization, after training the network, the training set is for
 
 ### [323_Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280)
 
-- This paper introduces the **MAV3D(Make-A-Video3D)** method. The pipeline of MAV3D is shown below:
+- This paper introduces the **MAV3D(Make-A-Video3D)** method which can generate dynamic 3D scene representations from natural language descriptions. The pipeline of MAV3D is shown below. MAV3D can be seen as the extended version of DreamFusion, but something can still be improved: First, the need to use new 4D representations that allow flexible scene motion modeling. Second, the need to improve video quality and increase model convergence using a multi-level static-to-dynamic optimization scheme that utilizes several motion regularizers to generate realistic motion. Third, there is a need to improve the resolution of the model using super-resolution fine-tuning (SRFT). This paper is quite interesting.
 
 ![Pipeline of MAV3D](/images/DailyPaper/04/16.png "Pipeline of MAV3D")
 
 ### [324_LERF_Language Embedded Radiance Fields](https://arxiv.org/abs/2303.09553)
+
+- This paper proposes **LERF (Language Embedded Radiance Fields)**, which embeds languages from models such as CLIP (Contrastive Language-Image Pre-training) into NeRF. LERF can interactively extract 3D correlation schematics for language cues in real-time. During training, the field is supervised using a multi-scale feature pyramid containing CLIP embeddings generated from image crops of the training views. During testing, LERF can query the linguistic field at any scale to obtain a 3D correlation mapping.LERF must learn the linguistic embedding field on a volume centered on the sample points. Specifically, the output of this field is the average CLIP embedding of all training views containing the image crop of the specified volume. By reconstructing the query from points to volumes, LERF can efficiently supervise dense fields from coarse crops of input images that can be rendered pixel-aligned by conditioning on a given volume scale. The optimization scheme is shown below. This article is also enjoyable.
 
 ![LERF Optimization](/images/DailyPaper/04/17.png "LERF Optimization")
