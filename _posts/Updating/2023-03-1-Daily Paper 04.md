@@ -235,3 +235,5 @@ In Data-based Normalization, after training the network, the training set is for
 ![Pipeline of MAV3D](/images/DailyPaper/04/16.png "Pipeline of MAV3D")
 
 ### [324_LERF_Language Embedded Radiance Fields](https://arxiv.org/abs/2303.09553)
+
+![LERF Optimization](/images/DailyPaper/04/17.png "LERF Optimization")
