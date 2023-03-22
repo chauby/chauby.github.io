@@ -227,3 +227,11 @@ In Data-based Normalization, after training the network, the training set is for
 ### [322_The connectome of an insect brain](https://www.science.org/doi/10.1126/science.add9330)
 
 - This paper completes reconstructing the brain connection of 'Drosophila larvae.' Since I am not majoring in biology, I do not want to emphasize the details of the reconnection of the brain. Researchers have identified widespread multi-sensory integration in the brain and multiple interconnected pathways from sensory neurons to output neurons at different depths, forming a distributed processing network. The brain has a highly recurrent structure, with 41% of neurons receiving long-range recurrent inputs, although the distribution of recurrent is not uniform, with exceptionally high rates of recurrent in areas involved in learning and action selection. Some of the structural features observed in the brain of Drosophila larvae, including **multiple layers of shortcuts and significant nested loops (Residual Network)**, can be found in state-of-the-art artificial neural networks and may compensate for the current network's problems in depth, processing task generalization, and these features may also increase the brain's computational power and overcome the physiological limitations in the number of neurons. Future analysis of the similarities and differences between the brain and artificial neural networks may help to understand the brain's computational principles and may inspire new machine learning architectures.
+
+### [323_Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280)
+
+- This paper introduces the **MAV3D(Make-A-Video3D)** method. The pipeline of MAV3D is shown below:
+
+![Pipeline of MAV3D](/images/DailyPaper/04/16.png "Pipeline of MAV3D")
+
+### [324_LERF_Language Embedded Radiance Fields](https://arxiv.org/abs/2303.09553)
