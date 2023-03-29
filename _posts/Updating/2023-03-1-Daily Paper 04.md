@@ -285,4 +285,8 @@ An authentic SOTA architecture should have the following: (1) State-of-the-art a
 
 ### [330_An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/pdf/1904.05873.pdf)
 
+- This paper summarizes the factors used in the self-attention calculation into four types: **Query and Key Content; Query Content and Relative Position; Key Content only; Relative Position only** as shown below. Besides, this paper defines the general attention formula: $y_q = \sum_{m=1}^y W_m [\sum_{k\in \Omega_q}A_m(q,k,z_q,x_k)W_m' \dot x_k]$'; and $\epsilon_1, \epsilon_2, \epsilon_3, \epsilon_4$ which are related with the types mentioned before. Besides, this paper considers transformer attention, deformable convolution, and dynamic convolution, various instantiations of the generalized attention formula. This paper is quite interesting and important. I want to go through it in more detailedly in the future when utilizing the attention mechanism. The following ablation experiments' design is quite useful for designing the experiments.
+
+![Query and Key Content; Query Content and Relative Position; Key Content only; Relative Position only](/images/DailyPaper/04/23.png "Query and Key Content; Query Content and Relative Position; Key Content only; Relative Position only")
+
 ### [331_RepPoints: Point Set Representation for Object Detection](https://arxiv.org/pdf/1904.11490.pdf)
