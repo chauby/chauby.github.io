@@ -15,7 +15,7 @@ I am currently a postdoctoral researcher in University of Electronic Science and
 
 My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, etc. In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
 
-I have published about 20 papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (T-ASE), and the IEEE International conference ICRA, IROS, ROBIO, etc.
+I have published about 20 papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the Expert Systems with Applications, IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE International Journal of Humanoid Robotics (IJHR), Robotica and the IEEE International conference ICRA, IROS, ROBIO, etc.
 
 # 2. Webpage for me
 
@@ -51,6 +51,7 @@ Email
 1. Zhinan Peng, Hanqi Ji, **Chaobin Zou**, Yiqun Kuang, Hong Cheng, Kaibo Shi and Bijoy Kumar Ghosh. Optimal H∞ tracking control of nonlinear systems with zero-equilibrium-free novel adaptive critic designs. *Neural Networks*. 2023, 164:105-114. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002071)
 1. **Chaobin Zou**, Zhinan Peng, Kecheng Shi, Fengjun Mu, Rui Huang and Hong Cheng. Terrain-adaptive gait planning for lower limb walking assistance exoskeleton robots. *Chinese Control Conference (CCC)*. 2023, 4773-4779. [paper](https://ieeexplore.ieee.org/document/10240748)
 1. Zhinan Peng, Chen Chen, **Chaobin Zou**, Kecheng Shi, Guangkui Song, Rui Huang and Hong Cheng. Event-triggered robust optimal control for nonlinear systems with uncertain dynamics and nonzero-equilibrium. *Chinese Control Conference (CCC)*. 2023, 2406-2411. [paper](https://ieeexplore.ieee.org/document/10241181)
+1. Chen Chen, Zhinan Peng, **Chaobin Zou**, Kecheng Shi, Rui Huang, Hong Cheng. Event-Triggered Robust Optimal Control for Robotic Manipulators with Imput Constraints via Adaptive Dynamic Programming. *International Federation of Automatic Control (IFAC)*. 2023, pp. 5083-5089. [paper](https://www.sciencedirect.com/science/article/pii/S2405896323020797)
 
 #### 2022
 
