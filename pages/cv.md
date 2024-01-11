@@ -17,22 +17,12 @@ My research interests include robot learning, model predictive control, legged r
 
 I have published 21 papers on the Expert Systems with Applications, IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE International Journal of Humanoid Robotics (IJHR), Robotica and the IEEE International conference ICRA, IROS, ROBIO, etc.
 
-# 2. Webpage for me
-
-- [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
-- [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
-- Github:[Chauby](https://github.com/chauby)
-- 知乎: @[沙漏](https://zhihu.com/people/zou-you-50)
-
-# 3. Contact
-
-**Email**
-
-- chaobinzou@uestc.edu.cn
-- chaubyZou@163.com
 
 
-# 4. Publications
+---
+
+
+# 2. Publications
 
 ## Preprint
 
@@ -81,7 +71,9 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Robotic
 
 1. Qiming Chen, Hong Cheng, **Chaobin Zou**, Rui Huang and Hongliang Guo. Intention recognition for exoskeleton. *2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM)*, Hefei, 2017, pp. 535-539.[paper](https://ieeexplore.ieee.org/document/8273219)
 
-# 5. Educations
+---
+
+# 3. Educations
 
 #### 2021-2022
 
@@ -108,7 +100,11 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Robotic
 - Bachelor candidate
 - School of Automation Engineering, University of Electronic Science and Technology of China (UESTC)[[link]](https://www.uestc.edu.cn/), Chengdu, China.
 
-# 6. Awards & Honors
+
+
+---
+
+# 4. Awards & Honors
 
 - 2022: Best conference paper finalist, ICCSIP.
 - 2020: CSC Scholarship for visiting PhD student.
@@ -122,3 +118,25 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Robotic
 - 2014: National Scholarship for Undergraduate students, UESTC.
 - 2013: First class Scholarship for Undergraduate students, UESTC.
 - 2012: National Scholarship for Undergraduate students, UESTC.
+
+
+
+---
+
+# 7. Webpage for me
+
+- [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
+- [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
+- Github:[Chauby](https://github.com/chauby)
+- 知乎: @[沙漏](https://zhihu.com/people/zou-you-50)
+
+
+
+---
+
+# 6. Contact me
+
+**Email**
+
+- chaobinzou@uestc.edu.cn
+- chaubyZou@163.com
