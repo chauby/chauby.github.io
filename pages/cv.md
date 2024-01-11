@@ -24,16 +24,16 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 
 ## Social
 
-- 知乎主页@[沙漏](https://zhihu.com/people/zou-you-50)
+- 知乎主页: @[沙漏](https://zhihu.com/people/zou-you-50)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
 - Github Homepage:[Chauby](https://github.com/chauby)
 
 ## Contact
 
-- Email:
-    - chaobinzou@uestc.edu.cn
-    - chaubyZou@163.com
+Email
+- chaobinzou@uestc.edu.cn
+- chaubyZou@163.com
 
 
 ## Publications
@@ -44,11 +44,16 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 
 #### 2024
 
-
+1. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou**, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatroics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
 
 #### 2023
 
-1. **Chaobin Zou**, C. Zeng, Jing Qiu, Jianwei Zhang and Hong Cheng. Online Gait Learning with Assist-as-Needed Control for Post-stroke Rehabilitation Exoskeletons.  *Robotica*, 2023.
+1. **Chaobin Zou**, Rui Huang, Guangkui Song, Kecheng Shi, Zhinan Peng and Hong Cheng. C-SQG: Cosine-law-based Spatially Quantized Gait Generation for Knee-stretched Biped Walking. *International Journal of Humanoid Robotics (IJHR)*. 2023. [paper](https://www.worldscientific.com/doi/abs/10.1142/S0219843623500329)
+1. Zhinan Peng, Hong Cheng, Kaibo Shi, **Chaobin Zou**, Rui Huang, Xiaoqing Li and Ghosh, Bijoy Kumar. Optimal tracking control for motion constrained robot systems via event-sampled critic learning. *Expert Systems with Applications*. 2023, 234: 121085. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423015877)
+1. **Chaobin Zou**, C. Zeng, Jing Qiu, Jianwei Zhang and Hong Cheng. Online Gait Learning with Assist-as-Needed Control for Post-stroke Rehabilitation Exoskeletons.  *Robotica*. 2023:1-13. [paper](https://www.cambridge.org/core/journals/robotica/article/abs/online-gait-learning-with-assistasneeded-control-strategy-for-poststroke-rehabilitation-exoskeletons/2F88B8EAF2B993EAF3B11A7693DE2186)
+1. Zhinan Peng, Hanqi Ji, **Chaobin Zou**, Yiqun Kuang, Hong Cheng, Kaibo Shi and Bijoy Kumar Ghosh. Optimal H∞ tracking control of nonlinear systems with zero-equilibrium-free novel adaptive critic designs. *Neural Networks*. 2023, 164:105-114. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002071)
+1. **Chaobin Zou**, Zhinan Peng, Kecheng Shi, Fengjun Mu, Rui Huang and Hong Cheng. Terrain-adaptive gait planning for lower limb walking assistance exoskeleton robots. *Chinese Control Conference (CCC)*. 2023, 4773-4779. [paper](https://ieeexplore.ieee.org/document/10240748)
+1. Zhinan Peng, Chen Chen, **Chaobin Zou**, Kecheng Shi, Guangkui Song, Rui Huang and Hong Cheng. Event-triggered robust optimal control for nonlinear systems with uncertain dynamics and nonzero-equilibrium. *Chinese Control Conference (CCC)*. 2023, 2406-2411. [paper](https://ieeexplore.ieee.org/document/10241181)
 
 #### 2022
 
@@ -63,6 +68,7 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 3. **Chaobin Zou**, Rui Huang, Hong Cheng and Jing Qiu. Slope Gradient Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons. *IEEE Transactions on Automation Science and Engineering (T-ASE)*, 2021.[paper](https://ieeexplore.ieee.org/document/9281111)
 4. Rui Huang, Zhinan Peng, Siying Guo, Kecheng Shi, **Chaobin Zou**, Jing Qiu and Hong Cheng. Estimating the Center of Mass of Human-Exoskeleton Systems with Physically Coupled Serial Chain. *IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS)*, 2021, pp.9532-9539. [paper](https://ieeexplore.ieee.org/document/9636514)
 5. Long Zhang, Guangkui Song, **Chaobin Zou**, Hong Cheng∗, Rui Huang and Jing Qiu. Knee trajectory modulation for impact reducing of lower limb exoskeletons.  *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. 2021, pp. 160-167. [paper](https://ieeexplore.ieee.org/document/9739492)
+6. 程洪，黄瑞，邱静，王艺霖，**邹朝彬**，施柯丞. 康复机器人及其临床综述. *机器人*. 2021, 43(5): 606-619. [paper](https://robot.sia.cn/cn/article/doi/10.13973/j.cnki.robot.200570)
 
 #### 2019
 
