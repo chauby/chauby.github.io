@@ -11,22 +11,23 @@ permalink: /cv/
 
 # 1. Introduction
 
-I am currently a postdoctoral researcher in University of Electronic Science and Technology of China (UESTC) [[link]](https://www.uestc.edu.cn/).
+I am currently a postdoctoral researcher in University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)).
 
-My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, etc. In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
+My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, etc. In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and [hemiplegic patients](http://www.buffalo-robot.com/Product/xzwgl/).
 
-I have published about 20 papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the Expert Systems with Applications, IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE International Journal of Humanoid Robotics (IJHR), Robotica and the IEEE International conference ICRA, IROS, ROBIO, etc.
+I have published 21 papers on the Expert Systems with Applications, IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE International Journal of Humanoid Robotics (IJHR), Robotica and the IEEE International conference ICRA, IROS, ROBIO, etc.
 
 # 2. Webpage for me
 
-- 知乎主页: @[沙漏](https://zhihu.com/people/zou-you-50)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
-- Github Homepage:[Chauby](https://github.com/chauby)
+- Github:[Chauby](https://github.com/chauby)
+- 知乎: @[沙漏](https://zhihu.com/people/zou-you-50)
 
 # 3. Contact
 
-Email
+**Email**
+
 - chaobinzou@uestc.edu.cn
 - chaubyZou@163.com
 
