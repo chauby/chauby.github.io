@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Wiki
-description: 人越学越觉得自己无知
+description: Stay hungury, Stay foolish.
 keywords: 维基, Wiki
 comments: false
 menu: Wiki
 permalink: /wiki/
 ---
-
 <ul class="listing">
 {% for wiki in site.wiki %}
 {% if wiki.title != "Wiki Template" %}
