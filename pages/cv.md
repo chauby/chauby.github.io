@@ -13,7 +13,7 @@ permalink: /cv/
 
 I am currently a postdoctoral researcher in School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)).
 
-My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, etc. In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and [hemiplegic patients](http://www.buffalo-robot.com/Product/xzwgl/).
+My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*. In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients.
 
 I have published 21 papers on the Expert Systems with Applications, IEEE Transactions on Automation Science and Engineering (T-ASE),  IEEE Robotics and Automation Letters (R-AL), IEEE International Journal of Humanoid Robotics (IJHR), Robotica and the IEEE International conference ICRA, IROS, ROBIO, *etc*.
 
