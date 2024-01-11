@@ -9,21 +9,21 @@ permalink: /cv/
 ---
 <br>
 
-I am currently a PhD candidate in University of Electronic Science and Technology of China (UESTC) [[link]](https://www.uestc.edu.cn/).
+I am currently a Postdoctoral researcher in University of Electronic Science and Technology of China (UESTC) [[link]](https://www.uestc.edu.cn/).
 In the past five years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
 I am also interested in machine learning for robot control, such as artificial neural networks, reinforcement learning and optimal control.
 I have published some papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (TASE), and the IEEE International conference ICRA, IROS.
 
 ## Social
 
-- 知乎@[沙漏](https://zhihu.com/people/zou-you-50)
+- 知乎主页@[沙漏](https://zhihu.com/people/zou-you-50)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
-- Github:[Chauby](https://github.com/chauby)
+- Github homepage:[Chauby](https://github.com/chauby)
 
 ## Contact
 
-- Email: chaubyZou@163.com
+- Email: chaobinzou@uestc.edu.cn and chaubyZou@163.com
 
 ## Research Interests
 
