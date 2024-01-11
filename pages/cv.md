@@ -11,11 +11,11 @@ permalink: /cv/
 
 # 1. Introduction
 
-I am currently a postdoctoral researcher in University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)).
+I am currently a postdoctoral researcher in School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)).
 
 My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, etc. In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and [hemiplegic patients](http://www.buffalo-robot.com/Product/xzwgl/).
 
-I have published 21 papers on the Expert Systems with Applications, IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE International Journal of Humanoid Robotics (IJHR), Robotica and the IEEE International conference ICRA, IROS, ROBIO, etc.
+I have published 21 papers on the Expert Systems with Applications, IEEE Transactions on Automation Science and Engineering (T-ASE),  IEEE Robotics and Automation Letters (R-AL), IEEE International Journal of Humanoid Robotics (IJHR), Robotica and the IEEE International conference ICRA, IROS, ROBIO, *etc*.
 
 
 
@@ -26,7 +26,7 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Robotic
 
 ## Preprint
 
-
+1. SQG etc.
 
 ## Published
 
@@ -71,34 +71,32 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Robotic
 
 1. Qiming Chen, Hong Cheng, **Chaobin Zou**, Rui Huang and Hongliang Guo. Intention recognition for exoskeleton. *2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM)*, Hefei, 2017, pp. 535-539.[paper](https://ieeexplore.ieee.org/document/8273219)
 
+
+
 ---
 
 # 3. Educations
 
 #### 2021-2022
 
-- CSC visiting PhD student, University of Hamburg, Germany[[link]](https://tams.informatik.uni-hamburg.de/people/zou/)
-- Technical Aspects of Multimodal Systems (TAMS)
-- Advisor: Prof. Jianwei Zhang[[homepage]](https://tams.informatik.uni-hamburg.de/people/zhang/)
+- CSC visiting PhD student, Technical Aspects of Multimodal Systems (TAMS), University of Hamburg, Germany
+- Advisor: [Prof. Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/)
 
 #### 2017-2022
 
-- PhD candidate
-- University of Electronic Science and Technology of China (UESTC), Chengdu, China
-- Center for Robotics, Machine Intelligence Institute[[link]](http://www.uestcrobot.net/)
-- Advisor: Prof. Hong Cheng[[homepage]](https://scholar.google.com/citations?user=-845MAcAAAAJ&hl=zh-CN)
+- PhD candidate, School of Automation Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China
+- [Center for Robotics, Machine Intelligence Institute](http://www.uestcrobot.net/)
+- Advisor: [Prof. Hong Cheng](https://scholar.google.com/citations?user=-845MAcAAAAJ&hl=zh-CN)
 
 #### 2015-2017
 
-- Master candidate
-- University of Electronic Science and Technology of China (UESTC), Chengdu, China
-- Center for Robotics, Machine Intelligence Institute[[link]](http://www.uestcrobot.net/)
+- Master candidate, School of Automation Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China
+- Center for Robotics, Machine Intelligence Institute
 - Advisor: Prof. Hong Cheng
 
 #### 2011- 2015
 
-- Bachelor candidate
-- School of Automation Engineering, University of Electronic Science and Technology of China (UESTC)[[link]](https://www.uestc.edu.cn/), Chengdu, China.
+- Bachelor candidate, School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), Chengdu, China.
 
 
 
@@ -123,7 +121,7 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Robotic
 
 ---
 
-# 7. Webpage for me
+# 5. Webpage for me
 
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
