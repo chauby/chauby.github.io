@@ -50,4 +50,4 @@ permalink: /publications/
 
 #### 2017
 
-1. Qiming Chen, Hong Cheng, **Chaobin Zou**, Rui Huang and Hongliang Guo. Intention recognition for exoskeleton. *2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM)*, Hefei, 2017, pp. 535-539.[paper](
+1. Qiming Chen, Hong Cheng, **Chaobin Zou**, Rui Huang and Hongliang Guo. Intention recognition for exoskeleton. *2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM)*, Hefei, 2017, pp. 535-539.[paper](https://ieeexplore.ieee.org/document/8273219)

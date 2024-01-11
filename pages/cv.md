@@ -9,38 +9,35 @@ permalink: /cv/
 ---
 <br>
 
+# 1. Introduction
+
 I am currently a postdoctoral researcher in University of Electronic Science and Technology of China (UESTC) [[link]](https://www.uestc.edu.cn/).
-In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
-I am also interested in machine learning for robot control, such as artificial neural networks, reinforcement learning and optimal control.
-I have published some papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (TASE), and the IEEE International conference ICRA, IROS.
 
-#### Research Interests
+My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, etc. In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients [[link]](http://www.buffalo-robot.com/Product/xzwgl/).
 
-- Model Predictive Control
-- Exoskeletons / Legged Robots
-- Robot Learning / Machine Learning
-- Motion planning / Gait analysis and planning
-- Robot simulation
+I have published about 20 papers [[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ) on the IEEE Robotics and Automation Letters (R-AL), IEEE Transactions on Automation Science and Engineering (T-ASE), and the IEEE International conference ICRA, IROS, ROBIO, etc.
 
-## Social
+# 2. Webpage for me
 
 - 知乎主页: @[沙漏](https://zhihu.com/people/zou-you-50)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
 - Github Homepage:[Chauby](https://github.com/chauby)
 
-## Contact
+# 3. Contact
 
 Email
 - chaobinzou@uestc.edu.cn
 - chaubyZou@163.com
 
 
-## Publications
+# 4. Publications
 
-#### Preprint
+## Preprint
 
 
+
+## Published
 
 #### 2024
 
@@ -82,7 +79,7 @@ Email
 
 1. Qiming Chen, Hong Cheng, **Chaobin Zou**, Rui Huang and Hongliang Guo. Intention recognition for exoskeleton. *2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM)*, Hefei, 2017, pp. 535-539.[paper](https://ieeexplore.ieee.org/document/8273219)
 
-## Educations
+# 5. Educations
 
 #### 2021-2022
 
@@ -109,8 +106,9 @@ Email
 - Bachelor candidate
 - School of Automation Engineering, University of Electronic Science and Technology of China (UESTC)[[link]](https://www.uestc.edu.cn/), Chengdu, China.
 
-## Awards & Honors
+# 6. Awards & Honors
 
+- 2022: Best conference paper finalist, ICCSIP.
 - 2020: CSC Scholarship for visiting PhD student.
 - 2019: Third class Scholarship for PhD. students, UESTC.
 - 2018: Third class Scholarship for PhD. students, UESTC.
