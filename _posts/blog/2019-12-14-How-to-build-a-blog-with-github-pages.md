@@ -149,17 +149,21 @@ bundle exec jekyll serve -P 5555 --watch
 
 注意：此时浏览器要想访问本地的博客内容，应该输入 localhost:5555 。
 
+### 3. 运行遇到bunder和Ruby的版本兼容问题
+
+如果运行的时候遇到bunder和Ruby的版本兼容问题，实际上可能不是版本问题，可以cd 到 yourname.github.io的根目录，删除 Gemfile.lock文件后，重新运行：
+
+```shell
+bundle exec jekyll serve -P 5555 --watch
+```
+
+
+
+
+
 
 
 ## 四. 参考
 
 1. 本博客的搭建过程使用了Zhuang Ma的博客主题[码志](https://mazhuang.org)，此处致谢。
 
-
-
-时间有限，本博客就暂时写到这里，有时间会再补充更新一些细节。如果有问题或者对其中的一部分细节不理解，可以扫描下方二维码关注我的微信公众号或者联系我的邮箱 chaubyZou@163.com，我会第一时间解答。
-
-<center>
-    <img src="/assets/images/qrcode.jpg" alt="picture not found" style="zoom:80%;" />
-    <br>
-</center>
