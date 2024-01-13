@@ -22,7 +22,7 @@ My research interests include robot learning, model predictive control, legged r
 
 I have published more than 20 papers on the International journals and conferences in robotics, control and artificial intelligence,  including Expert Systems with Applications, IEEE Transactions on Automation Science and Engineering (T-ASE),  IEEE Robotics and Automation Letters (R-AL), IEEE International Journal of Humanoid Robotics (IJHR), Mechatronics, Robotica and the IEEE International conference ICRA, IROS, ROBIO, *etc*.
 
-# 2.Research Experience
+# 2. Research Experience
 
 | Year              | Position                  | Institution                                                  |
 | :---------------- | :------------------------ | :----------------------------------------------------------- |
