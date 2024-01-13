@@ -30,16 +30,16 @@ navs:
     label: Publications
 
   -
+    href: /projects/
+    label: Projects
+
+  -
     href: /categories/
     label: Blogs
 
   -
     href: /wiki/
     label: Wiki
-
-  # -
-  #   href: /links/
-  #   label: Links
 
 # RSS
 subscribe_rss: /feed.xml
