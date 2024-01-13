@@ -7,26 +7,45 @@ comments: true
 menu: Curriculum Vitae
 permalink: /cv/
 ---
-<br>
+<style>
+td, th, tr {
+   border: none!important;
+}
+</style>
 
-# 1. Introduction
 
-I am currently a postdoctoral researcher in School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)).
+# 1. About me
 
-My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*. In the past ten years, my main research topics are about the exoskeleton robots for gait assistance and rehabilitation training, and focus on the gait patterns analysis and generation, some of them has been applied to the paraplegic and hemiplegic patients.
+I am currently a postdoctoral researcher in Center for Robotics, School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)).
 
-I have published 21 papers on the Expert Systems with Applications, IEEE Transactions on Automation Science and Engineering (T-ASE),  IEEE Robotics and Automation Letters (R-AL), IEEE International Journal of Humanoid Robotics (IJHR), Robotica and the IEEE International conference ICRA, IROS, ROBIO, *etc*.
+My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*. In the past ten years, my main research topics are about the lower limb exoskeleton robots for walking assistance and gait training, and focus on the gait patterns analysis and generation, some of them has been applied to help the paraplegic and hemiplegic patients to recover the walking ability. Besides, my current research topics are about the medical robots for the elderly.
+
+I have published more than 20 papers on the International journals and conferences in robotics, control and artificial intelligence,  including Expert Systems with Applications, IEEE Transactions on Automation Science and Engineering (T-ASE),  IEEE Robotics and Automation Letters (R-AL), IEEE International Journal of Humanoid Robotics (IJHR), Mechatronics, Robotica and the IEEE International conference ICRA, IROS, ROBIO, *etc*.
+
+# 2.Research Experience
+
+| Year              | Position                  | Institution                                                  |
+| :---------------- | :------------------------ | :----------------------------------------------------------- |
+| 2022.07- current  | Postdoctoral researcher   | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm) and Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
+| 2021.03 - 2022.03 | CSC visiting PhD. student | University of Hamburg, Germany<br />Technical Aspects of Multimodal Systems ([TAMS](https://tams.informatik.uni-hamburg.de/))<br />Advisor: Prof. [Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/) |
+
+# 3. Education
+
+| Year            | Degree        | Institution                                                  |
+| :-------------- | :------------ | :----------------------------------------------------------- |
+| 2017.09-2022.06 | PhD. Robotics | University of Electronic Science and Technology of China (UESTC)<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
+| 2015.09-2017.08 | ME            | University of Electronic Science and Technology of China (UESTC)<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering <br /> Advisor: Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
+| 2011.09-2015.6  | BE            | University of Electronic Science and Technology of China (UESTC)<br />School of Automation Engineering |
 
 
 
 ---
 
-
-# 2. Publications
+# 4. Publication
 
 ## Preprint
 
-1. SQG etc.
+1. Coming soon …
 
 ## Published
 
@@ -37,18 +56,18 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Transac
 #### 2023
 
 1. **Chaobin Zou**, Rui Huang, Guangkui Song, Kecheng Shi, Zhinan Peng and Hong Cheng. C-SQG: Cosine-law-based Spatially Quantized Gait Generation for Knee-stretched Biped Walking. *International Journal of Humanoid Robotics (IJHR)*. 2023. [paper](https://www.worldscientific.com/doi/abs/10.1142/S0219843623500329)
-1. Zhinan Peng, Hong Cheng, Kaibo Shi, **Chaobin Zou**, Rui Huang, Xiaoqing Li and Ghosh, Bijoy Kumar. Optimal tracking control for motion constrained robot systems via event-sampled critic learning. *Expert Systems with Applications*. 2023, 234: 121085. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423015877)
-1. **Chaobin Zou**, C. Zeng, Jing Qiu, Jianwei Zhang and Hong Cheng. Online Gait Learning with Assist-as-Needed Control for Post-stroke Rehabilitation Exoskeletons.  *Robotica*. 2023:1-13. [paper](https://www.cambridge.org/core/journals/robotica/article/abs/online-gait-learning-with-assistasneeded-control-strategy-for-poststroke-rehabilitation-exoskeletons/2F88B8EAF2B993EAF3B11A7693DE2186)
-1. Zhinan Peng, Hanqi Ji, **Chaobin Zou**, Yiqun Kuang, Hong Cheng, Kaibo Shi and Bijoy Kumar Ghosh. Optimal H∞ tracking control of nonlinear systems with zero-equilibrium-free novel adaptive critic designs. *Neural Networks*. 2023, 164:105-114. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002071)
-1. **Chaobin Zou**, Zhinan Peng, Kecheng Shi, Fengjun Mu, Rui Huang and Hong Cheng. Terrain-adaptive gait planning for lower limb walking assistance exoskeleton robots. *Chinese Control Conference (CCC)*. 2023, 4773-4779. [paper](https://ieeexplore.ieee.org/document/10240748)
-1. Zhinan Peng, Chen Chen, **Chaobin Zou**, Kecheng Shi, Guangkui Song, Rui Huang and Hong Cheng. Event-triggered robust optimal control for nonlinear systems with uncertain dynamics and nonzero-equilibrium. *Chinese Control Conference (CCC)*. 2023, 2406-2411. [paper](https://ieeexplore.ieee.org/document/10241181)
-1. Chen Chen, Zhinan Peng, **Chaobin Zou**, Kecheng Shi, Rui Huang, Hong Cheng. Event-Triggered Robust Optimal Control for Robotic Manipulators with Imput Constraints via Adaptive Dynamic Programming. *International Federation of Automatic Control (IFAC)*. 2023, pp. 5083-5089. [paper](https://www.sciencedirect.com/science/article/pii/S2405896323020797)
+2. Zhinan Peng, Hong Cheng, Kaibo Shi, **Chaobin Zou**, Rui Huang, Xiaoqing Li and Ghosh, Bijoy Kumar. Optimal tracking control for motion constrained robot systems via event-sampled critic learning. *Expert Systems with Applications*. 2023, 234: 121085. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423015877)
+3. **Chaobin Zou**, C. Zeng, Jing Qiu, Jianwei Zhang and Hong Cheng. Online Gait Learning with Assist-as-Needed Control for Post-stroke Rehabilitation Exoskeletons.  *Robotica*. 2023:1-13. [paper](https://www.cambridge.org/core/journals/robotica/article/abs/online-gait-learning-with-assistasneeded-control-strategy-for-poststroke-rehabilitation-exoskeletons/2F88B8EAF2B993EAF3B11A7693DE2186)
+4. Zhinan Peng, Hanqi Ji, **Chaobin Zou**, Yiqun Kuang, Hong Cheng, Kaibo Shi and Bijoy Kumar Ghosh. Optimal H∞ tracking control of nonlinear systems with zero-equilibrium-free novel adaptive critic designs. *Neural Networks*. 2023, 164:105-114. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002071)
+5. **Chaobin Zou**, Zhinan Peng, Kecheng Shi, Fengjun Mu, Rui Huang and Hong Cheng. Terrain-adaptive gait planning for lower limb walking assistance exoskeleton robots. *Chinese Control Conference (CCC)*. 2023, 4773-4779. [paper](https://ieeexplore.ieee.org/document/10240748)
+6. Zhinan Peng, Chen Chen, **Chaobin Zou**, Kecheng Shi, Guangkui Song, Rui Huang and Hong Cheng. Event-triggered robust optimal control for nonlinear systems with uncertain dynamics and nonzero-equilibrium. *Chinese Control Conference (CCC)*. 2023, 2406-2411. [paper](https://ieeexplore.ieee.org/document/10241181)
+7. Chen Chen, Zhinan Peng, **Chaobin Zou**, Kecheng Shi, Rui Huang, Hong Cheng. Event-Triggered Robust Optimal Control for Robotic Manipulators with Imput Constraints via Adaptive Dynamic Programming. *International Federation of Automatic Control (IFAC)*. 2023, pp. 5083-5089. [paper](https://www.sciencedirect.com/science/article/pii/S2405896323020797)
 
 #### 2022
 
 1. Long Zhang, Guangkui Song, **Chaobin Zou**, Rui Huang, Hong Cheng and Dekun Hu. Trajectory modulation for impact reducing of lower-limb exoskeletons. *Micromachines*. 2022, 13(6): 816. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9228022/)
-1. Long Zhang, **Chaobin Zou**, Guangkui Song, Hong Cheng, Rui Huang and Jing Qiu. Collision reduction walking for lower limb exoskeletons. *International Journal of Humanoid Robotics (IJHR)*. 2022, 19(4): 2250004.  [paper](https://worldscientific.com/doi/10.1142/S0219843622500049)
-1. Kecheng Shi, Fengjun Mu, Rui Huang, Ke Huang, Zhinan Peng, **Chaobin Zou**, Xiao Yang and Hong Cheng. Multimodal human-exoskeleton interface for lower limb movement prediction through a dense co-attention symmetric mechanism.  *Frontiers in Neuroscience*. 2022, 16. [paper](https://www.frontiersin.org/articles/10.3389/fnins.2022.796290/full)
+2. Long Zhang, **Chaobin Zou**, Guangkui Song, Hong Cheng, Rui Huang and Jing Qiu. Collision reduction walking for lower limb exoskeletons. *International Journal of Humanoid Robotics (IJHR)*. 2022, 19(4): 2250004.  [paper](https://worldscientific.com/doi/10.1142/S0219843622500049)
+3. Kecheng Shi, Fengjun Mu, Rui Huang, Ke Huang, Zhinan Peng, **Chaobin Zou**, Xiao Yang and Hong Cheng. Multimodal human-exoskeleton interface for lower limb movement prediction through a dense co-attention symmetric mechanism.  *Frontiers in Neuroscience*. 2022, 16. [paper](https://www.frontiersin.org/articles/10.3389/fnins.2022.796290/full)
 
 #### 2021
 
@@ -71,38 +90,9 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Transac
 
 1. Qiming Chen, Hong Cheng, **Chaobin Zou**, Rui Huang and Hongliang Guo. Intention recognition for exoskeleton. *2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM)*, Hefei, 2017, pp. 535-539.[paper](https://ieeexplore.ieee.org/document/8273219)
 
-
-
 ---
 
-# 3. Educations
-
-#### 2021-2022
-
-- CSC visiting PhD student, Technical Aspects of Multimodal Systems (TAMS), University of Hamburg, Germany
-- Advisor: [Prof. Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/)
-
-#### 2017-2022
-
-- PhD candidate, School of Automation Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China
-- [Center for Robotics, Machine Intelligence Institute](http://www.uestcrobot.net/)
-- Advisor: [Prof. Hong Cheng](https://scholar.google.com/citations?user=-845MAcAAAAJ&hl=zh-CN)
-
-#### 2015-2017
-
-- Master candidate, School of Automation Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China
-- Center for Robotics, Machine Intelligence Institute
-- Advisor: Prof. Hong Cheng
-
-#### 2011- 2015
-
-- Bachelor candidate, School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), Chengdu, China.
-
-
-
----
-
-# 4. Awards & Honors
+# 5. Awards & Honors
 
 - 2022: Best conference paper finalist, ICCSIP.
 - 2020: CSC Scholarship for visiting PhD student.
@@ -117,22 +107,18 @@ I have published 21 papers on the Expert Systems with Applications, IEEE Transac
 - 2013: First class Scholarship for Undergraduate students, UESTC.
 - 2012: National Scholarship for Undergraduate students, UESTC.
 
-
-
 ---
 
-# 5. Webpage for me
+# 6. Webpage for me
 
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
 - Github:[Chauby](https://github.com/chauby)
 - 知乎: @[沙漏](https://zhihu.com/people/zou-you-50)
 
-
-
 ---
 
-# 6. Contact me
+# 7. Contact me
 
 **Email**
 
