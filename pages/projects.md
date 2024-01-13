@@ -9,11 +9,13 @@ permalink: /projects/
 ---
 # Introduction
 
-This page is the collection of my projects, including some demos in my work as well as some research topics in my research field.
+This page is the collection of my projects, including some demos in my work as well as some research topics in my research field. Some source code of the projects will be open in the future.
+
+My research topics are about robot learning and control for legged robots, including imitation learning, model predictive control, whole body control and reinforcement learning, *etc*.
 
 # 2024
 
-### 1. to be continue …
+### 1. To be continued …
 
 
 
@@ -23,9 +25,7 @@ This page is the collection of my projects, including some demos in my work as w
 
 ### 1. C-SQG: Cosine-Law-Based Spatially Quantized Gait Generation for Knee-Stretched Biped Walking
 
-This is a research topic for the knee-stretched gait patterns generation of the bipedal robots, the paper has been published on the International Journal of Humanoid Robotics (IJHR),  [paper_link](https://www.worldscientific.com/doi/abs/10.1142/S0219843623500329).  The source code for this project is open now at [github]().
-
-#### 2D simulation on the matlab
+This is a research topic for the knee-stretched gait patterns generation of the bipedal robots, the paper has been published on the International Journal of Humanoid Robotics (IJHR),  [paper](https://www.worldscientific.com/doi/abs/10.1142/S0219843623500329).  The source code for this project is open now at [github]().
 
 The knee-stretched bipedal walking simulation in 2D on the Matlab is shown as follows: 
 
@@ -36,8 +36,6 @@ The knee-stretched bipedal walking simulation in 2D on the Matlab is shown as fo
 </center>
 
 where the left one is with only kinematics calculation, and the right one is with kinematics and dynamics calculation.
-
-#### 3D simulation on the matlab
 
 The knee-stretched bipedal walking simulation in 3D on the Matlab is shown as follows: 
 

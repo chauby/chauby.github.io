@@ -11,7 +11,7 @@ permalink: /publications/
 
 
 
-## Publications
+## Published papers
 #### 2024
 
 1. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou**, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatroics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
@@ -52,4 +52,3 @@ permalink: /publications/
 #### 2017
 
 1. Qiming Chen, Hong Cheng, **Chaobin Zou**, Rui Huang and Hongliang Guo. Intention recognition for exoskeleton. *2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM)*, Hefei, 2017, pp. 535-539.[paper](https://ieeexplore.ieee.org/document/8273219)
-
