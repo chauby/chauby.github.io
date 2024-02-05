@@ -30,6 +30,7 @@ permalink: /publications/
 
 1. Long Zhang, Guangkui Song, **Chaobin Zou**, Rui Huang, Hong Cheng and Dekun Hu. Trajectory modulation for impact reducing of lower-limb exoskeletons. *Micromachines*. 2022, 13(6): 816. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9228022/)
 1. Long Zhang, **Chaobin Zou**, Guangkui Song, Hong Cheng, Rui Huang and Jing Qiu. Collision reduction walking for lower limb exoskeletons. *International Journal of Humanoid Robotics (IJHR)*. 2022, 19(4): 2250004.  [paper](https://worldscientific.com/doi/10.1142/S0219843622500049)
+1. Kecheng Shi, Fengjun Mu, **Chaobin Zou**, Yizhe Qin, Zhinan Peng, Rui Huang*, Hong Cheng. T3SFNet：a tuned topological temporal-spatial fusion network for motor imagery with rehabilitation exoskeleton. *International Conference on Cognitive Systems and Signal Processing (ICCSIP)*. 2022, 16-29. [paper](https://link.springer.com/chapter/10.1007/978-981-99-0617-8_2)
 1. Kecheng Shi, Fengjun Mu, Rui Huang, Ke Huang, Zhinan Peng, **Chaobin Zou**, Xiao Yang and Hong Cheng. Multimodal human-exoskeleton interface for lower limb movement prediction through a dense co-attention symmetric mechanism.  *Frontiers in Neuroscience*. 2022, 16. [paper](https://www.frontiersin.org/articles/10.3389/fnins.2022.796290/full)
 
 #### 2021
