@@ -14,7 +14,7 @@ permalink: /publications/
 ## Published papers
 #### 2024
 
-1. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou**, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatroics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
+1. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou**, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatronics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
 
 #### 2023
 
