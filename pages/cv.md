@@ -115,7 +115,7 @@ I have published more than 20 papers on the International journals and conferenc
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
 - Github:[Chauby](https://github.com/chauby)
-- 知乎: @[沙漏](https://zhihu.com/people/zou-you-50)
+- 知乎: @[沙漏](https://zhihu.com/people/AI.robot)
 
 ---
 
