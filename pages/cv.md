@@ -45,7 +45,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1. Chen Yang, Xinhao Zhang, Long Zhang, **Chaobin Zou**, Zhinan Peng, Rui Huang, and Hong Cheng. Coordinated Energy-Efficient Walking Assistance for Paraplegic Patients by Using the Exoskeleton-Walker System. *Intelligence & Robotics*. 2024.
+1. Chen Yang, Xinhao Zhang, Long Zhang, **Chaobin Zou**, Zhinan Peng, Rui Huang, and Hong Cheng. Coordinated Energy-Efficient Walking Assistance for Paraplegic Patients by Using the Exoskeleton-Walker System. *Intelligence & Robotics*. 2024, 4(1):107-24. [paper](https://www.oaepublish.com/articles/ir.2024.07?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
 
 ## Published
 
