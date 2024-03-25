@@ -45,7 +45,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1. 
+1.  **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang , Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024.
 
 ## Published
 
