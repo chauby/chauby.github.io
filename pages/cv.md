@@ -45,7 +45,8 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1.  **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang , Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024.
+1.  **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024.
+2.  Fengjun Mu, Shixiang Sun, Rui Huang, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024.
 
 ## Published
 
