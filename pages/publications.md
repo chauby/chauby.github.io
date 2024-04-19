@@ -7,15 +7,13 @@ comments: true
 menu: Publications
 permalink: /publications/
 ---
-
-
-
-
 ## Published papers
+
 #### 2024
 
-1. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou\***, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatronics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
-1. Chen Yang, Xinhao Zhang, Long Zhang, **Chaobin Zou\***, Zhinan Peng, Rui Huang, and Hong Cheng. Coordinated Energy-Efficient Walking Assistance for Paraplegic Patients by Using the Exoskeleton-Walker System. *Intelligence & Robotics*. 2024, 4(1):107-24. [paper](https://www.oaepublish.com/articles/ir.2024.07?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
+1. **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang\* and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024. [paper](https://ieeexplore.ieee.org/document/10504787)
+2. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou\***, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatronics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
+3. Chen Yang, Xinhao Zhang, Long Zhang, **Chaobin Zou\***, Zhinan Peng, Rui Huang, and Hong Cheng. Coordinated Energy-Efficient Walking Assistance for Paraplegic Patients by Using the Exoskeleton-Walker System. *Intelligence & Robotics*. 2024, 4(1):107-24. [paper](https://www.oaepublish.com/articles/ir.2024.07?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
 
 #### 2023
 

@@ -13,10 +13,9 @@ td, th, tr {
 }
 </style>
 
-
 # 1. About me
 
-I am currently a postdoctoral researcher in Center for Robotics, School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)). My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*. 
+I am currently a postdoctoral researcher in Center for Robotics, School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)). My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*.
 
 In the past ten years, my main research topics are about the lower limb exoskeleton robots for walking assistance and gait training, and focus on the gait patterns analysis and generation, some of them has been applied to help the paraplegic and hemiplegic patients to recover the walking ability. Besides, my current research topics are about the medical robots for the elderly.
 
@@ -24,20 +23,18 @@ I have published more than 20 papers on the International journals and conferenc
 
 # 2. Research Experience
 
-| Year              | Position                  | Institution                                                  |
-| :---------------- | :------------------------ | :----------------------------------------------------------- |
+| Year              | Position                  | Institution                                                                                                                                                                                                                                                                                                                                               |
+| :---------------- | :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022.07- current  | Postdoctoral researcher   | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm) and Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
-| 2021.03 - 2022.03 | CSC visiting PhD. student | University of Hamburg, Germany<br />Technical Aspects of Multimodal Systems ([TAMS](https://tams.informatik.uni-hamburg.de/))<br />Advisor: Prof. [Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/) |
+| 2021.03 - 2022.03 | CSC visiting PhD. student | University of Hamburg, Germany<br />Technical Aspects of Multimodal Systems ([TAMS](https://tams.informatik.uni-hamburg.de/))<br />Advisor: Prof. [Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/)                                                                                                                                         |
 
 # 3. Education
 
-| Year            | Degree        | Institution                                                  |
-| :-------------- | :------------ | :----------------------------------------------------------- |
-| 2017.09-2022.06 | PhD. Robotics | University of Electronic Science and Technology of China (UESTC)<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
+| Year            | Degree        | Institution                                                                                                                                                                                                                                    |
+| :-------------- | :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2017.09-2022.06 | PhD. Robotics | University of Electronic Science and Technology of China (UESTC)<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm)   |
 | 2015.09-2017.08 | ME            | University of Electronic Science and Technology of China (UESTC)<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering <br /> Advisor: Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
-| 2011.09-2015.6  | BE            | University of Electronic Science and Technology of China (UESTC)<br />School of Automation Engineering |
-
-
+| 2011.09-2015.6  | BE            | University of Electronic Science and Technology of China (UESTC)<br />School of Automation Engineering                                                                                                                                         |
 
 ---
 
@@ -45,15 +42,15 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1.  **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang\* and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024.
-2.  Fengjun Mu, Shixiang Sun, Rui Huang\*, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024.
+1. Fengjun Mu, Shixiang Sun, Rui Huang\*, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024.
 
 ## Published
 
 #### 2024
 
-1. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou\***, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatronics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
-1. Chen Yang, Xinhao Zhang, Long Zhang, **Chaobin Zou\***, Zhinan Peng, Rui Huang, and Hong Cheng. Coordinated Energy-Efficient Walking Assistance for Paraplegic Patients by Using the Exoskeleton-Walker System. *Intelligence & Robotics*. 2024, 4(1):107-24. [paper](https://www.oaepublish.com/articles/ir.2024.07?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
+1. **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang\* and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024. [paper](https://ieeexplore.ieee.org/document/10504787)
+2. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou\***, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatronics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
+3. Chen Yang, Xinhao Zhang, Long Zhang, **Chaobin Zou\***, Zhinan Peng, Rui Huang, and Hong Cheng. Coordinated Energy-Efficient Walking Assistance for Paraplegic Patients by Using the Exoskeleton-Walker System. *Intelligence & Robotics*. 2024, 4(1):107-24. [paper](https://www.oaepublish.com/articles/ir.2024.07?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
 
 #### 2023
 
