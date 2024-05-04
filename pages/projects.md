@@ -69,15 +69,16 @@ The demonstrated videos can be found as follows：
 1.The demo for the simple control of the robot arm, with two joints.
 
 <center>
-    <img src="/images/projects/SimpleDemoTwoLinkCoppeliaSim/two_link_demo_1.gif" alt="picture not found" style="zoom:50%;" />
-    <img src="/images/projects/SimpleDemoTwoLinkCoppeliaSim/two_link_demo_2.gif" alt="picture not found" style="zoom:50%;" />
+    <img src="/images/projects/SimpleDemoTwoLinkCoppeliaSim/two_link_demo_1.gif" alt="picture not found" style="zoom:100%;" />
+    <img src="/images/projects/SimpleDemoTwoLinkCoppeliaSim/two_link_demo_2.gif" alt="picture not found" style="zoom:100%;" />
     <br>
 </center>
+
 
 2.The demo for the trajectory planning and control with some given via-points.
 
 <center>
-    <img src="/images/projects/SimpleDemoTwoLinkCoppeliaSim/two_link_trajectory.gif" alt="picture not found" style="zoom:80%;" />
+    <img src="/images/projects/SimpleDemoTwoLinkCoppeliaSim/two_link_trajectory.gif" alt="picture not found" style="zoom:150%;" />
     <br>
 </center>
 
