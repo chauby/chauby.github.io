@@ -60,7 +60,7 @@ The trajectory for the robot arm is generated with the Position-Velocity-Time (P
 
 The control of the simple robot arm is with PID joint position controllers.
 
-There is a robot kinematics model for the two-link arm robot, pleas refer to the source code for details.
+There is a robot kinematics model for the two-link arm robot, pleas refer to the source code on [github](https://github.com/chauby/two_link_arm_in_coppeliasim) for details
 
 
 
@@ -78,7 +78,7 @@ The demonstrated videos can be found as follows：
 2.The demo for the trajectory planning and control with some given via-points.
 
 <center>
-    <img src="/images/projects/SimpleDemoTwoLinkCoppeliaSim/two_link_trajectory.gif" alt="picture not found" style="zoom:150%;" />
+    <img src="/images/projects/SimpleDemoTwoLinkCoppeliaSim/two_link_trajectory.gif" alt="picture not found" style="zoom:100%;" />
     <br>
 </center>
 
