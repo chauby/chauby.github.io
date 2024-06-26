@@ -42,11 +42,12 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1. Fengjun Mu, Shixiang Sun, Rui Huang\*, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024.
-2. Muxi Tao, Chen Yang, **Chaobin Zou\***, Xinhao Zhang, Rui Huang, Hong Cheng. SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
-3. Kecheng Shi, Fengjun Mu, Zhe Li, Jianzhi Lyu, Rui Huang\*, **Chaobin Zou**, Hong Cheng, Jianwei Zhang. Corrupted EEG Self-Robust Motion Intention Recognition Method with Multi-Graph Fusion Enhanced Convolutional Network. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
-4. Yafei Ou, Guangkui Song\*, Rui Huang, **Chaobin Zou**, Zhinan Peng, Xingzhong Xiong, Jing Qiu, Hong Cheng. Torque Optimization Strategy for Hip and Knee Joint of Passive Lower Limb Exoskeleton. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
-5. Jingting Zhang, Zhinan Peng\*, **Chaobin Zou**, Rui Huang, Hong Cheng. Deterministic Learning-based Impedance Control for Human-Robot Interaction with Nonlinear Uncertain Dynamics. *Chinse Control Conference (CCC)*. 2024.
+1. Chen Chen, Zhinan Peng\*, Rui Huang, **Chaobin Zou**, Kaibo Shi, Hong Cheng. Event-triggered learning-based robust tracking control for robot manipulator with uncertain dynamics and non-zero equilibrium. Expert Systems With Applications. 2024.
+2. Fengjun Mu, Shixiang Sun, Rui Huang\*, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024.
+3. Muxi Tao, Chen Yang, **Chaobin Zou\***, Xinhao Zhang, Rui Huang, Hong Cheng. SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
+4. Kecheng Shi, Fengjun Mu, Zhe Li, Jianzhi Lyu, Rui Huang\*, **Chaobin Zou**, Hong Cheng, Jianwei Zhang. Corrupted EEG Self-Robust Motion Intention Recognition Method with Multi-Graph Fusion Enhanced Convolutional Network. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
+5. Yafei Ou, Guangkui Song\*, Rui Huang, **Chaobin Zou**, Zhinan Peng, Xingzhong Xiong, Jing Qiu, Hong Cheng. Torque Optimization Strategy for Hip and Knee Joint of Passive Lower Limb Exoskeleton. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
+6. Jingting Zhang, Zhinan Peng\*, **Chaobin Zou**, Rui Huang, Hong Cheng. Deterministic Learning-based Impedance Control for Human-Robot Interaction with Nonlinear Uncertain Dynamics. *Chinse Control Conference (CCC)*. 2024.
 
 ## Published
 
