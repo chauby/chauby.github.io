@@ -44,20 +44,20 @@ I have published more than 20 papers on the International journals and conferenc
 
 1. Chen Yang, Xinhao Zhang, **Chaobin Zou**\* Wentao Liang, Zonghai Huang, Rui Huang, Yilin Wang and Hong Cheng, Adaptive Human-like Gait Planning for Stair Climbing of Lower Limb Exoskeleton Robots. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024.
 2. Fengjun Mu, Rui Huang, Jingting Zhang, **Chaobin Zou**, Kecheng Shi, Hong Cheng. SS-Pose: Self-Supervised 6D Object Pose Representation Learning without Rendering. IEEE Transactions on Industrial Informatics. 2024.
-3. Chen Chen, Zhinan Peng\*, Rui Huang, **Chaobin Zou**, Kaibo Shi, Hong Cheng. Event-triggered learning-based robust tracking control for robot manipulator with uncertain dynamics and non-zero equilibrium. Expert Systems With Applications. 2024.
-4. Fengjun Mu, Shixiang Sun, Rui Huang\*, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024.
-5. Muxi Tao, Chen Yang, **Chaobin Zou\***, Xinhao Zhang, Rui Huang, Hong Cheng. SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
-6. Kecheng Shi, Fengjun Mu, Zhe Li, Jianzhi Lyu, Rui Huang\*, **Chaobin Zou**, Hong Cheng, Jianwei Zhang. Corrupted EEG Self-Robust Motion Intention Recognition Method with Multi-Graph Fusion Enhanced Convolutional Network. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
-7. Yafei Ou, Guangkui Song\*, Rui Huang, **Chaobin Zou**, Zhinan Peng, Xingzhong Xiong, Jing Qiu, Hong Cheng. Torque Optimization Strategy for Hip and Knee Joint of Passive Lower Limb Exoskeleton. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
-8. Jingting Zhang, Zhinan Peng\*, **Chaobin Zou**, Rui Huang, Hong Cheng. Deterministic Learning-based Impedance Control for Human-Robot Interaction with Nonlinear Uncertain Dynamics. *Chinse Control Conference (CCC)*. 2024.
+3. Fengjun Mu, Shixiang Sun, Rui Huang\*, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024.
+4. Muxi Tao, Chen Yang, **Chaobin Zou\***, Xinhao Zhang, Rui Huang, Hong Cheng. SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
+5. Kecheng Shi, Fengjun Mu, Zhe Li, Jianzhi Lyu, Rui Huang\*, **Chaobin Zou**, Hong Cheng, Jianwei Zhang. Corrupted EEG Self-Robust Motion Intention Recognition Method with Multi-Graph Fusion Enhanced Convolutional Network. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
+6. Yafei Ou, Guangkui Song\*, Rui Huang, **Chaobin Zou**, Zhinan Peng, Xingzhong Xiong, Jing Qiu, Hong Cheng. Torque Optimization Strategy for Hip and Knee Joint of Passive Lower Limb Exoskeleton. *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*. 2024.
+7. Jingting Zhang, Zhinan Peng\*, **Chaobin Zou**, Rui Huang, Hong Cheng. Deterministic Learning-based Impedance Control for Human-Robot Interaction with Nonlinear Uncertain Dynamics. *Chinse Control Conference (CCC)*. 2024.
 
 ## Published
 
 #### 2024
 
 1. **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang\* and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024. [paper](https://ieeexplore.ieee.org/document/10504787)
-2. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou\***, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatronics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
-3. Chen Yang, Xinhao Zhang, Long Zhang, **Chaobin Zou\***, Zhinan Peng, Rui Huang, and Hong Cheng. Coordinated Energy-Efficient Walking Assistance for Paraplegic Patients by Using the Exoskeleton-Walker System. *Intelligence & Robotics*. 2024, 4(1):107-24. [paper](https://www.oaepublish.com/articles/ir.2024.07?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
+2. Chen Chen, Zhinan Peng\*, **Chaobin Zou**, Rui Huang, Kaibo Shi, Hong Cheng. Event-triggered learning-based robust tracking control for robot manipulator with uncertain dynamics and non-zero equilibrium. Expert Systems With Applications. 2024, 255-B. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424014404?via%3Dihub)
+3. Long Zhang, Guangkui Song, Chen Yang, **Chaobin Zou\***, Hong Cheng, Rui Huang, Jing Qiu and Ziguang Yin. A Parallel Compliant Leg for Energy Efficient Walking of Exoskeleton-Walker Systems. *Mechatronics*. 2024, 98. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957415823001666)
+4. Chen Yang, Xinhao Zhang, Long Zhang, **Chaobin Zou\***, Zhinan Peng, Rui Huang, and Hong Cheng. Coordinated Energy-Efficient Walking Assistance for Paraplegic Patients by Using the Exoskeleton-Walker System. *Intelligence & Robotics*. 2024, 4(1):107-24. [paper](https://www.oaepublish.com/articles/ir.2024.07?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
 
 #### 2023
 
