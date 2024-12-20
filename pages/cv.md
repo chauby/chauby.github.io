@@ -102,6 +102,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 # 5. Awards & Honors
 
+- 2024: Best Paper Award in Biomimetics, IEEE ROBIO 2024.
 - 2022: Best conference paper finalist, ICCSIP.
 - 2020: CSC Scholarship for visiting PhD student.
 - 2019: Third class Scholarship for PhD. students, UESTC.
