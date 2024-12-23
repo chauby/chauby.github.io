@@ -54,7 +54,7 @@ where the left one is with only kinematics calculation, and the right one is wit
 
 ### 1. A simple trajectory generation and control demo for the two-link arm robot in the CoppeliaSim
 
-This is a simple demonstrated project for the trajectory planning and control in Coppliasim with a two-link arm robot.
+This is a simple demonstrated project for the trajectory planning and control in CoppeliaSim with a two-link arm robot.
 
 The trajectory for the robot arm is generated with the Position-Velocity-Time (PVT) trajectory interpolation, *i.e*, a polynomial trajectory interpolation approach.
 
