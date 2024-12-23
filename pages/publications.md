@@ -45,7 +45,7 @@ permalink: /publications/
 2. **Chaobin Zou**, Rui Huang, Hong Cheng\* and Jing Qiu. Learning Gait Models with Varying Walking Speeds. *IEEE Robotics and Automation Letters (R-AL)*, 2021, vol. 6, no. 1, pp. 183-190. [paper](https://ieeexplore.ieee.org/document/9131848)
 3. **Chaobin Zou**, Rui Huang, Hong Cheng\* and Jing Qiu. Slope Gradient Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons. *IEEE Transactions on Automation Science and Engineering (T-ASE)*, 2021.[paper](https://ieeexplore.ieee.org/document/9281111)
 4. Rui Huang, Zhinan Peng\*, Siying Guo, Kecheng Shi, **Chaobin Zou**, Jing Qiu and Hong Cheng. Estimating the Center of Mass of Human-Exoskeleton Systems with Physically Coupled Serial Chain. *IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS)*, 2021, pp.9532-9539. [paper](https://ieeexplore.ieee.org/document/9636514)
-5. Long Zhang, Guangkui Song, **Chaobin Zou**, Hong Cheng\∗, Rui Huang and Jing Qiu. Knee trajectory modulation for impact reducing of lower limb exoskeletons.  *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. 2021, pp. 160-167. [paper](https://ieeexplore.ieee.org/document/9739492)
+5. Long Zhang, Guangkui Song, **Chaobin Zou**, Hong Cheng\*, Rui Huang and Jing Qiu. Knee trajectory modulation for impact reducing of lower limb exoskeletons.  *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. 2021, pp. 160-167. [paper](https://ieeexplore.ieee.org/document/9739492)
 6. 程洪，黄瑞，邱静，王艺霖，**邹朝彬**，施柯丞. 康复机器人及其临床综述. *机器人*. 2021, 43(5): 606-619. [paper](https://robot.sia.cn/cn/article/doi/10.13973/j.cnki.robot.200570)
 
 #### 2019

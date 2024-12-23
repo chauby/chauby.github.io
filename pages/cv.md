@@ -43,13 +43,13 @@ I have published more than 20 papers on the International journals and conferenc
 ## Preprint
 
 1. Fengjun Mu, Jingting Zhang, **Chaobin Zou**, Zonghai Huang, Rui Huang and Hong Cheng. Gaze Betray You: Abnormal Attention Detection from Human-Robot Interaction Dynamics. IEEE International Conference on Robotics and Biomimetics (ROBIO), 2024. **(Best Paper Award in Biomimetics)**
-1. Chen Yang, Xinhao Zhang, **Chaobin Zou**\* Wentao Liang, Zonghai Huang, Rui Huang, Yilin Wang and Hong Cheng, Adaptive Human-like Gait Planning for Stair Climbing of Lower Limb Exoskeleton Robots. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024.
+1. Chen Yang, Xinhao Zhang, **Chaobin Zou**\*, Wentao Liang, Zonghai Huang, Rui Huang, Yilin Wang and Hong Cheng, Adaptive Human-like Gait Planning for Stair Climbing of Lower Limb Exoskeleton Robots. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024.
 
 ## Published
 
 #### 2024
 
-1. **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang\* and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024, 1-13. [paper](https://ieeexplore.ieee.org/document/10504787)
+1. **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang\*, and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024, 1-13. [paper](https://ieeexplore.ieee.org/document/10504787)
 2. Fengjun Mu, Rui Huang, Jingting Zhang, **Chaobin Zou**, Kecheng Shi, Hong Cheng. SS-Pose: Self-Supervised 6D Object Pose Representation Learning without Rendering. IEEE Transactions on Industrial Informatics. 2024. [paper](https://ieeexplore.ieee.org/document/10673789)
 3. Fengjun Mu, Shixiang Sun, Rui Huang\*, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024. [paper](https://ieeexplore.ieee.org/document/10611061)
 4. Chen Chen, Zhinan Peng\*, **Chaobin Zou**, Rui Huang, Kaibo Shi, Hong Cheng. Event-triggered learning-based robust tracking control for robot manipulator with uncertain dynamics and non-zero equilibrium. *Expert Systems With Applications (ESWA)*. 2024, 255-B. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424014404?via%3Dihub)
@@ -83,7 +83,7 @@ I have published more than 20 papers on the International journals and conferenc
 2. **Chaobin Zou**, Rui Huang, Hong Cheng\* and Jing Qiu. Learning Gait Models with Varying Walking Speeds. *IEEE Robotics and Automation Letters (R-AL)*, 2021, vol. 6, no. 1, pp. 183-190. [paper](https://ieeexplore.ieee.org/document/9131848)
 3. **Chaobin Zou**, Rui Huang, Hong Cheng\* and Jing Qiu. Slope Gradient Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons. *IEEE Transactions on Automation Science and Engineering (T-ASE)*, 2021.[paper](https://ieeexplore.ieee.org/document/9281111)
 4. Rui Huang, Zhinan Peng\*, Siying Guo, Kecheng Shi, **Chaobin Zou**, Jing Qiu and Hong Cheng. Estimating the Center of Mass of Human-Exoskeleton Systems with Physically Coupled Serial Chain. *IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS)*, 2021, pp.9532-9539. [paper](https://ieeexplore.ieee.org/document/9636514)
-5. Long Zhang, Guangkui Song, **Chaobin Zou**, Hong Cheng\∗, Rui Huang and Jing Qiu. Knee trajectory modulation for impact reducing of lower limb exoskeletons.  *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. 2021, pp. 160-167. [paper](https://ieeexplore.ieee.org/document/9739492)
+5. Long Zhang, Guangkui Song, **Chaobin Zou**, Hong Cheng\*, Rui Huang and Jing Qiu. Knee trajectory modulation for impact reducing of lower limb exoskeletons.  *IEEE International Conference on Robotics and Biomimetics (ROBIO)*. 2021, pp. 160-167. [paper](https://ieeexplore.ieee.org/document/9739492)
 6. 程洪，黄瑞，邱静，王艺霖，**邹朝彬**，施柯丞. 康复机器人及其临床综述. *机器人*. 2021, 43(5): 606-619. [paper](https://robot.sia.cn/cn/article/doi/10.13973/j.cnki.robot.200570)
 
 #### 2019
@@ -92,7 +92,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 #### 2018
 
-1. Rui Huang, Zhinan Peng, Hong Cheng\*, **Chaobin Zou** and Qiming Chen. Learning-based Walking Assistance Control Strategy for a Lower Limb Exoskeleton with Hemiplegia Patients. *IEEE International Conference on Intelligent Robots and Systems (IROS)*, 2018, pp. 2280-2285.[paper](https://ieeexplore.ieee.org/document/8594464)
+1. Rui Huang, Zhinan Peng, Hong Cheng\*, **Chaobin Zou**, and Qiming Chen. Learning-based Walking Assistance Control Strategy for a Lower Limb Exoskeleton with Hemiplegia Patients. *IEEE International Conference on Intelligent Robots and Systems (IROS)*, 2018, pp. 2280-2285.[paper](https://ieeexplore.ieee.org/document/8594464)
 
 #### 2017
 
