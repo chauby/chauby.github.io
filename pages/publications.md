@@ -9,6 +9,10 @@ permalink: /publications/
 ---
 ## Published papers
 
+#### 2025
+
+1. Chen Yang, Xinhao Zhang, **Chaobin Zou***, Wentao Liang, Zonghai Huang, Rui Huang, Yilin Wang and Hong Cheng, Adaptive Human-like Gait Planning for Stair Climbing of Lower Limb Exoskeleton Robots. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024,  Lecture Notes in Computer Science, vol 15208, 202-221. [paper](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_15)
+
 #### 2024
 
 1. **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang\* and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024. [paper](https://ieeexplore.ieee.org/document/10504787)
