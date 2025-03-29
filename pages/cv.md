@@ -59,7 +59,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 #### 2024
 
-1. **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang*, and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024, 1-13. [paper](https://ieeexplore.ieee.org/document/10504787)
+1. **Chaobin Zou**, Zhinan Peng, Long Zhang, Fengjun Mu, Rui Huang*, and Hong Cheng. Optimization-based Adaptive Assistance for Lower Limb Exoskeleton Robots with a Robotic Walker via Spatially Quantized Gait. *IEEE Transactions on Automation Science and Engineering (TASE)*. 2024, 22: 2806-2818. [paper](https://ieeexplore.ieee.org/document/10504787)
 2. Fengjun Mu, Rui Huang, Jingting Zhang, **Chaobin Zou**, Kecheng Shi, Hong Cheng. SS-Pose: Self-Supervised 6D Object Pose Representation Learning without Rendering. IEEE Transactions on Industrial Informatics. 2024. [paper](https://ieeexplore.ieee.org/document/10673789)
 3. Fengjun Mu, Shixiang Sun, Rui Huang*, **Chaobin Zou**, Wenjiang Li, Huayi Zhan and Hong Cheng. Joint-Loss Enhanced Self-Supervised Learning for Refinement-Coupled Object 6D Pose Estimation. *IEEE International Conference on Robotics and Automation (ICRA)*. 2024. [paper](https://ieeexplore.ieee.org/document/10611061)
 4. Chen Chen, Zhinan Peng*, **Chaobin Zou**, Rui Huang, Kaibo Shi, Hong Cheng. Event-triggered learning-based robust tracking control for robot manipulator with uncertain dynamics and non-zero equilibrium. *Expert Systems With Applications (ESWA)*. 2024, 255-B. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424014404?via=ihub)
