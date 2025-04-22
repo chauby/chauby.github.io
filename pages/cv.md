@@ -45,9 +45,11 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1. Fengjun Mu, Jingting Zhang, **Chaobin Zou**, Zonghai Huang, Rui Huang and Hong Cheng. Gaze Betray You: Abnormal Attention Detection from Human-Robot Interaction Dynamics. IEEE International Conference on Robotics and Biomimetics (ROBIO), 2024. **(Best Paper Award in Biomimetics)**
+1. **Chaobin Zou**, Yi Ren, Rui Huang, Xinhao Zhang, Jingting Zhang, Zhinan Peng\* and Hong Cheng. Adaptive Coordinated Motion Planning for Lower Limb Exoskeleton Robots with a Robotic Walker. _Engineering Applications of Artificial Intelligence (EAAI)_, 2025.
 
-    
+1. Fengjun Mu, Jingting Zhang, **Chaobin Zou**, Zonghai Huang, Rui Huang and Hong Cheng. Gaze Betray You: Abnormal Attention Detection from Human-Robot Interaction Dynamics. _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2024. **(Best Paper Award in Biomimetics)**
+
+   
 
 ## Published
 
