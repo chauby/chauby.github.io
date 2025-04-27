@@ -55,6 +55,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 #### 2025
 
+1. Kecheng Shi, Rui Huang\*, Jianzhi Lyu, Zhe Li, Fengjun Mu, Zhinan Peng, **Chaobin Zou**, Hong Cheng, Jianwei Zhang, Bijoy Kumar Ghosh. EEG-based Motor Imagery Classification with Tuned Heuristic Fusion Graph Convolutional Network for Rehabilitation Training.*IEEE Transactions on Automation Science and Engineering (TASE)*. 2025.[paper](https://ieeexplore.ieee.org/document/10975806/authors#authors)
 1. Chen Yang, Xinhao Zhang, **Chaobin Zou***, Wentao Liang, Zonghai Huang, Rui Huang, Yilin Wang and Hong Cheng, Adaptive Human-like Gait Planning for Stair Climbing of Lower Limb Exoskeleton Robots. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024,  Lecture Notes in Computer Science, vol 15208, 202-221. [paper](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_15)
 1. Fengjun Mu, Jingting Zhang\*, **Chaobin Zou**. Gaze2Atten: Analyzing Explainable Gaze Dynamics to Monitor Human Attention. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024. [paper](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_17)
 1. Wen Li, Xinhao Zhang, Weitian He, **Chaobin Zou**, Qinchen Yang, Fukai Zhang, Hong Cheng, Cong Wang. Dynamic Learning from Neural PID Output-Feedback Control for a Lower Limb Exoskeleton Rehabilitation Robot. 2024 China Automation Congress (CAC). [paper](https://ieeexplore.ieee.org/document/10864965)
