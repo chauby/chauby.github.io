@@ -49,6 +49,8 @@ I have published more than 20 papers on the International journals and conferenc
 
 1. **Chaobin Zou**, Ziyi Jiang, Xinhao Zhang, Jingting Zhang\*, Guangkui Song, Yilin Wang, Yang Zhao, Zhinan Peng, Jing Qiu, Hong Cheng. FSGP: Fourier Series based Gait Primitives for Individualized Gait Prediction with Varying Walking Speeds. *Chinese Control Conference*, 2025.
 
+1.  Xinhao Zhang, Chen Yang, Jingting Zhang, **Chaobin Zou\***, Guangkui Song,  Rui Huang, MUHAMMAD UMAR FAROOQ, Hong Cheng. Uncertain Pushing Adaptive Coordinated Control for the Human-Exoskeleton-Walker System. *IEEE Robotics and Automation Letters (RA-L)*, 2025.
+
 1. Fengjun Mu, Jingting Zhang, **Chaobin Zou**, Zonghai Huang, Rui Huang and Hong Cheng. Gaze Betray You: Abnormal Attention Detection from Human-Robot Interaction Dynamics. _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2024. **(Best Paper Award in Biomimetics)**
 
 1. Jingting Zhang, Zonghai Huang, Fengjun Mu, Chen Chen, **Chaobin Zou**\*, Yang Zhao, Hong Cheng. Kinematics-Dynamics-Coupled Learning and Control of Discrete-Time Nonlinear Mechanical Systems with Completely-Unknown Dynamics. *Chinese Control Conference*, 2025.
@@ -57,7 +59,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 1. Botian Huang, Guangkui Song\*, Rui Huang, **Chaobin Zou**, Zhinan Peng, XingZhong Xiong, Jing Qiu, Hong Cheng. Design of a wearable soft rehabilitation exoskeleton for hand. *Chinese Control Conference*, 2025.
 
-     
+      
 
 ## Published
 
