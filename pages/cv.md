@@ -45,7 +45,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1. **Chaobin Zou**, Yi Ren, Rui Huang, Xinhao Zhang, Jingting Zhang, Zhinan Peng\* and Hong Cheng. Adaptive Coordinated Motion Planning for Lower Limb Exoskeleton Robots with a Robotic Walker. _Engineering Applications of Artificial Intelligence (EAAI)_, 2025.
+1. **Chaobin Zou**, Yi Ren, Rui Huang, Xinhao Zhang, Jingting Zhang, Zhinan Peng\* and Hong Cheng. Adaptive Coordinated Motion Planning for Lower Limb Exoskeleton Robots with a Robotic Walker. _Engineering Applications of Artificial Intelligence (EAAI)_, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625009492?via%3Dihub)
 
 1. **Chaobin Zou**, Ziyi Jiang, Xinhao Zhang, Jingting Zhang\*, Guangkui Song, Yilin Wang, Yang Zhao, Zhinan Peng, Jing Qiu, Hong Cheng. FSGP: Fourier Series based Gait Primitives for Individualized Gait Prediction with Varying Walking Speeds. _Chinese Control Conference_, 2025.
 
