@@ -45,11 +45,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1. **Chaobin Zou**, Yi Ren, Rui Huang, Xinhao Zhang, Jingting Zhang, Zhinan Peng\* and Hong Cheng. Adaptive Coordinated Motion Planning for Lower Limb Exoskeleton Robots with a Robotic Walker. _Engineering Applications of Artificial Intelligence (EAAI)_, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625009492?via%3Dihub)
-
 1. **Chaobin Zou**, Ziyi Jiang, Xinhao Zhang, Jingting Zhang\*, Guangkui Song, Yilin Wang, Yang Zhao, Zhinan Peng, Jing Qiu, Hong Cheng. FSGP: Fourier Series based Gait Primitives for Individualized Gait Prediction with Varying Walking Speeds. _Chinese Control Conference_, 2025.
-
-1.  Xinhao Zhang, Chen Yang, Jingting Zhang, **Chaobin Zou\***, Guangkui Song,  Rui Huang, Muhammad Umar Farooq, Hong Cheng. Uncertain Pushing Adaptive Coordinated Control for the Human-Exoskeleton-Walker System. _IEEE Robotics and Automation Letters (RA-L)_, 2025.
 
 1. Fengjun Mu, Jingting Zhang, **Chaobin Zou**, Zonghai Huang, Rui Huang and Hong Cheng. Gaze Betray You: Abnormal Attention Detection from Human-Robot Interaction Dynamics. _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2024. **(Best Paper Award in Biomimetics)**
 
@@ -65,6 +61,8 @@ I have published more than 20 papers on the International journals and conferenc
 
 #### 2025
 
+1. **Chaobin Zou**, Yi Ren, Rui Huang, Xinhao Zhang, Jingting Zhang, Zhinan Peng\* and Hong Cheng. Adaptive Coordinated Motion Planning for Lower Limb Exoskeleton Robots with a Robotic Walker. _Engineering Applications of Artificial Intelligence (EAAI)_, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625009492?via%3Dihub)
+1. Xinhao Zhang, Chen Yang, Jingting Zhang, **Chaobin Zou\***, Guangkui Song,  Rui Huang, Muhammad Umar Farooq, Hong Cheng. Uncertain Pushing Adaptive Coordinated Control for the Human-Exoskeleton-Walker System. _IEEE Robotics and Automation Letters (RA-L)_, 2025. [paper](https://ieeexplore.ieee.org/document/11018369)
 1. Kecheng Shi, Rui Huang\*, Jianzhi Lyu, Zhe Li, Fengjun Mu, Zhinan Peng, **Chaobin Zou**, Hong Cheng, Jianwei Zhang, Bijoy Kumar Ghosh. EEG-based Motor Imagery Classification with Tuned Heuristic Fusion Graph Convolutional Network for Rehabilitation Training. _IEEE Transactions on Automation Science and Engineering (TASE)_. 2025.[paper](https://ieeexplore.ieee.org/document/10975806/authors#authors)
 1. Chen Yang, Xinhao Zhang, **Chaobin Zou\***, Wentao Liang, Zonghai Huang, Rui Huang, Yilin Wang and Hong Cheng, Adaptive Human-like Gait Planning for Stair Climbing of Lower Limb Exoskeleton Robots. _The 17th International Conference on Intelligent Robotics and Applications (ICIRA)_, 2024,  Lecture Notes in Computer Science, vol 15208, 202-221. [paper](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_15)
 1. Fengjun Mu, Jingting Zhang\*, **Chaobin Zou**. Gaze2Atten: Analyzing Explainable Gaze Dynamics to Monitor Human Attention. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024. [paper](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_17)
