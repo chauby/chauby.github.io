@@ -45,6 +45,10 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
+1. Weigen Ye, Xinhao Zhang, Ziyi Jiang, Jingting Zhang, **Chaobin Zou\***, Guangkui Song, Hong Cheng. Force-Sensor-free Contact Estimation for Lower Limb Exoskeleton Robots Based on Probabilistic Modeling and Fusion. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_.
+
+1. Chen Chen, Shuhe Yuan, Jingting Zhang*, Fengjun Mu, **Chaobin Zou**, Hong Cheng. A VisuoMotor Human-Robot Interaction Framework for Attention-Motion-Integrated Training. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_.
+
 1. **Chaobin Zou**, Ziyi Jiang, Xinhao Zhang, Jingting Zhang\*, Guangkui Song, Yilin Wang, Yang Zhao, Zhinan Peng, Jing Qiu, Hong Cheng. FSGP: Fourier Series based Gait Primitives for Individualized Gait Prediction with Varying Walking Speeds. _Chinese Control Conference_, 2025.
 
 1. Jingting Zhang, Zonghai Huang, Fengjun Mu, Chen Chen, **Chaobin Zou**\*, Yang Zhao, Hong Cheng. Kinematics-Dynamics-Coupled Learning and Control of Discrete-Time Nonlinear Mechanical Systems with Completely-Unknown Dynamics. _Chinese Control Conference_, 2025.
@@ -53,7 +57,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 1. Botian Huang, Guangkui Song\*, Rui Huang, **Chaobin Zou**, Zhinan Peng, XingZhong Xiong, Jing Qiu, Hong Cheng. Design of a wearable soft rehabilitation exoskeleton for hand. _Chinese Control Conference_, 2025.
 
-      
+       
 
 ## Published
 
