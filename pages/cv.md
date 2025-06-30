@@ -18,7 +18,7 @@ td, th, tr {
 
 # 1. About me
 
-I am currently a postdoctoral research fellow in Center for Robotics, School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)). My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*.
+I am currently a postdoctoral research fellow ([https://chauby.github.io/cv/](https://chauby.github.io/cv/)) in Center for Robotics, School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)). My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*.
 
 In the past ten years, my main research topics are about the lower limb exoskeleton robots for walking assistance and gait training, and focus on the gait patterns analysis and generation, some of them has been applied to help the paraplegic and hemiplegic patients to recover the walking ability. Besides, my current research topics are about the medical robots for the elderly.
 
