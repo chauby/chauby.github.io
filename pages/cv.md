@@ -45,8 +45,6 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1. Jingting Zhang, Chen Chen, Chengzhi Yuan, Fengjun Mu, **Chaobin Zou\***, Rui Huang, Cong Wang, Hong Cheng. Heterogeneous Dynamics Learning for Formation Control of Discrete-Time Nonlinear Uncertain Multi-Agent Dynamical Systems. _Nonlinear Dynamics_, 2025.
-
 1. Weigen Ye, Xinhao Zhang, Ziyi Jiang, **Chaobin Zou\***, Jingting Zhang, Guangkui Song, Hong Cheng. Force-Sensor-free Contact Estimation for Lower Limb Exoskeleton Robots Based on Probabilistic Modeling and Fusion. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_.
 
 1. Chen Chen, Shuhe Yuan, Jingting Zhang*, Fengjun Mu, **Chaobin Zou**, Hong Cheng. A VisuoMotor Human-Robot Interaction Framework for Attention-Motion-Integrated Training. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_.
@@ -65,6 +63,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 #### 2025
 
+1. Jingting Zhang, Chen Chen, Chengzhi Yuan, Fengjun Mu, **Chaobin Zou\***, Rui Huang, Cong Wang, Hong Cheng. Heterogeneous Dynamics Learning for Formation Control of Discrete-Time Nonlinear Uncertain Multi-Agent Dynamical Systems. _Nonlinear Dynamics_, 2025. [paper link](https://link.springer.com/article/10.1007/s11071-025-11703-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250812&utm_content=10.1007%2Fs11071-025-11703-1)
 1. **Chaobin Zou**, Yi Ren, Rui Huang, Xinhao Zhang, Jingting Zhang, Zhinan Peng\* and Hong Cheng. Adaptive Coordinated Motion Planning for Lower Limb Exoskeleton Robots with a Robotic Walker. _Engineering Applications of Artificial Intelligence (EAAI)_, 2025, 155(1): 110949. [paper link](https://www.sciencedirect.com/science/article/abs/pii/S0952197625009492?via%3Dihub)
 1. Xinhao Zhang, Chen Yang, Jingting Zhang, **Chaobin Zou\***, Guangkui Song,  Rui Huang, Muhammad Umar Farooq, Hong Cheng. Uncertain Pushing Adaptive Coordinated Control for the Human-Exoskeleton-Walker System. _IEEE Robotics and Automation Letters (RA-L)_, 2025, 10(7): 7086-7093. [paper link](https://ieeexplore.ieee.org/document/11018369)
 1. Kecheng Shi, Rui Huang\*, Jianzhi Lyu, Zhe Li, Fengjun Mu, Zhinan Peng, **Chaobin Zou**, Hong Cheng, Jianwei Zhang, Bijoy Kumar Ghosh. EEG-based Motor Imagery Classification with Tuned Heuristic Fusion Graph Convolutional Network for Rehabilitation Training. _IEEE Transactions on Automation Science and Engineering (TASE)_. 2025, 22: 14928-14939. [paper link](https://ieeexplore.ieee.org/document/10975806/authors#authors)
