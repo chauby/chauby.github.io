@@ -20,6 +20,7 @@ My main research topics in the past five years have been computer vision and rea
 
 ## **Research Interests**
 
+- Computer Graphic
 - Machine Learning and Deep Learning
 - Computer Vision
 - Natural Language Processing
