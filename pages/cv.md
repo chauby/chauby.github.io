@@ -49,6 +49,12 @@ I have published more than 20 papers on the International journals and conferenc
 
 1. Chen Chen, Shuhe Yuan, Jingting Zhang*, Fengjun Mu, **Chaobin Zou**, Hong Cheng. A VisuoMotor Human-Robot Interaction Framework for Attention-Motion-Integrated Training. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_.
 
+1. **Chaobin Zou**, Guangkui Song\*, Chen Yang, Ziyi Jiang, Xinhao Zhang, Jing Qiu and Hong Cheng. Artificial Potential Field with Fuzzy models for Gait Planning of Lower Limb Exoskeleton Robots on Different Stairs.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025.
+
+1. Yanbo Fang,**Chaobin Zou**\*, Guangkui Song, Jingting Zhang, Xinhao Zhang, Ziyi Jiang, Jing Qiu and Hong Cheng. Reinforcement Learning-Based Coordinated Control of the Human-Exoskeleton-Walker System for Varying Walking Speed. _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025.
+
+1. Guangkui Song, Yafei Ou, Botian Huang, **Chaobin Zou**\*, Zhinan Peng, Lingfei Huang, Lufeng Chen, Wenjiang Li, Hong Cheng and Jing Qiu. Individualized Assistive Torque Planing Strategy Coupled with CoM for Lower Limb Exoskeletons.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025.
+
 1. **Chaobin Zou**, Ziyi Jiang, Xinhao Zhang, Jingting Zhang\*, Guangkui Song, Yilin Wang, Yang Zhao, Zhinan Peng, Jing Qiu, Hong Cheng. FSGP: Fourier Series based Gait Primitives for Individualized Gait Prediction with Varying Walking Speeds. _Chinese Control Conference_, 2025.
 
 1. Jingting Zhang, Zonghai Huang, Fengjun Mu, Chen Chen, **Chaobin Zou**\*, Yang Zhao, Hong Cheng. Kinematics-Dynamics-Coupled Learning and Control of Discrete-Time Nonlinear Mechanical Systems with Completely-Unknown Dynamics. _Chinese Control Conference_, 2025.
