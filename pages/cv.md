@@ -55,8 +55,6 @@ I have published more than 20 papers on the International journals and conferenc
 
 1. Guangkui Song, Yafei Ou, Botian Huang, **Chaobin Zou**\*, Zhinan Peng, Lingfei Huang, Lufeng Chen, Wenjiang Li, Hong Cheng and Jing Qiu. Individualized Assistive Torque Planing Strategy Coupled with CoM for Lower Limb Exoskeletons.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025.
 
-1. 
-
     ​    
 
 
