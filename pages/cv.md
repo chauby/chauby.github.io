@@ -45,6 +45,8 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
+1. Jingting Zhang, Lianchi Zhang, Fengjun Mu, Zonghai Huang, **Chaobin Zou**, Rui Huang, Cong Wang, Hong Cheng. Spatiotemporal Dynamics Modeling of Brain Activity for Human-Robot Cognitive Interaction: A Distributed-Lumped Parameter System Framework. _IEEE Transactions on Neural Networks and Learning Systems_, 2025. DOI: 10.1109/TNNLS.2025.3631130.
+
 1. Weigen Ye, Xinhao Zhang, Ziyi Jiang, **Chaobin Zou\***, Jingting Zhang, Guangkui Song, Hong Cheng. Force-Sensor-free Contact Estimation for Lower Limb Exoskeleton Robots Based on Probabilistic Modeling and Fusion. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_.
 
 1. Chen Chen, Shuhe Yuan, Jingting Zhang*, Fengjun Mu, **Chaobin Zou**, Hong Cheng. A VisuoMotor Human-Robot Interaction Framework for Attention-Motion-Integrated Training. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_.
