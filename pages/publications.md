@@ -9,6 +9,10 @@ permalink: /publications/
 ---
 ## Published papers
 
+#### 2026
+
+1. Jiaying Wei, Xinhao Zhang, Jia Li, Weigen Ye, Runxing Kang, Dehua Wang, Weilin Wu, Mao Yuan, Yinsong Sun, Hong Cheng, Wei Huang, Ke Li, **Chaobin Zou** and Chen Zhao. 2026. "Motion-Informed, Patient-Specific Femoral Localization for MPFL Reconstruction Using 4D-CT and Constrained Optimization" *Diagnostics* 16, no. 4: 508, 2026. [pdf](https://www.mdpi.com/2075-4418/16/4/508)
+
 #### 2025
 
 1. Jingting Zhang, Chen Chen, Chengzhi Yuan, Fengjun Mu, **Chaobin Zou\***, Rui Huang, Cong Wang, Hong Cheng. Heterogeneous Dynamics Learning for Formation Control of Discrete-Time Nonlinear Uncertain Multi-Agent Dynamical Systems. _Nonlinear Dynamics_, 2025. [pdf](https://link.springer.com/article/10.1007/s11071-025-11703-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250812&utm_content=10.1007%2Fs11071-025-11703-1)

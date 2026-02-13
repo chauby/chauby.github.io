@@ -53,8 +53,11 @@ I have published more than 20 papers on the International journals and conferenc
 
     ​    
 
-
 ## Published
+
+#### 2026
+
+1. Jiaying Wei, Xinhao Zhang, Jia Li, Weigen Ye, Runxing Kang, Dehua Wang, Weilin Wu, Mao Yuan, Yinsong Sun, Hong Cheng, Wei Huang, Ke Li, **Chaobin Zou** and Chen Zhao. 2026. "Motion-Informed, Patient-Specific Femoral Localization for MPFL Reconstruction Using 4D-CT and Constrained Optimization" *Diagnostics* 16, no. 4: 508, 2026. [pdf](https://www.mdpi.com/2075-4418/16/4/508)
 
 #### 2025
 
