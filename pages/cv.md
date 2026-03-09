@@ -7,14 +7,11 @@ comments: true
 menu: Curriculum Vitae
 permalink: /cv/
 ---
-
-
 <style>
 td, th, tr {
    border: none!important;
 }
 </style>
-
 
 # 1. About me
 
@@ -26,60 +23,55 @@ I have published more than 20 papers on the International journals and conferenc
 
 # 2. Research Experience
 
-| Year              | Position                  | Institution                                                                                                                                                                                                                                                                                                                                                           |
-| :---------------- | :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Year              | Position                  | Institution                                                                                                                                                                                                                                                                                                                                               |
+| :---------------- | :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022.07- current  | Postdoctoral researcher   | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm) and Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
-| 2021.03 - 2022.03 | CSC visiting PhD. student | University of Hamburg, Germany<br />Technical Aspects of Multimodal Systems ([TAMS](https://tams.informatik.uni-hamburg.de/))<br />Advisor: Prof. [Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/)                                                                                                                                               |
+| 2021.03 - 2022.03 | CSC visiting PhD. student | University of Hamburg, Germany<br />Technical Aspects of Multimodal Systems ([TAMS](https://tams.informatik.uni-hamburg.de/))<br />Advisor: Prof. [Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/)                                                                                                                                         |
 
 # 3. Education
 
-| Year            | Degree        | Institution                                                                                                                                                                                                                                          |
-| :-------------- | :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Year            | Degree        | Institution                                                                                                                                                                                                                                    |
+| :-------------- | :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2017.09-2022.06 | PhD. Robotics | University of Electronic Science and Technology of China (UESTC)<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm)   |
 | 2015.09-2017.08 | ME            | University of Electronic Science and Technology of China (UESTC)<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering <br /> Advisor: Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
-| 2011.09-2015.6  | BE            | University of Electronic Science and Technology of China (UESTC)<br />School of Automation Engineering                                                                                                                                               |
+| 2011.09-2015.6  | BE            | University of Electronic Science and Technology of China (UESTC)<br />School of Automation Engineering                                                                                                                                         |
 
-***
+---
 
 # 4. Publication
 
 ## Preprint
 
-1. **Chaobin Zou**, Guangkui Song\*, Chen Yang, Ziyi Jiang, Xinhao Zhang, Jing Qiu and Hong Cheng. Artificial Potential Field with Fuzzy models for Gait Planning of Lower Limb Exoskeleton Robots on Different Stairs.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025.
-
-1. Yanbo Fang,**Chaobin Zou**\*, Guangkui Song, Jingting Zhang, Xinhao Zhang, Ziyi Jiang, Jing Qiu and Hong Cheng. Reinforcement Learning-Based Coordinated Control of the Human-Exoskeleton-Walker System for Varying Walking Speed. _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025.
-
-1. Guangkui Song, Yafei Ou, Botian Huang, **Chaobin Zou**\*, Zhinan Peng, Lingfei Huang, Lufeng Chen, Wenjiang Li, Hong Cheng and Jing Qiu. Individualized Assistive Torque Planing Strategy Coupled with CoM for Lower Limb Exoskeletons.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025.
-
-    ​    
+1. Fengjun Mu, Jingting Zhang*, Zonghai Huang, Chen Chen, **Chaobin Zou**, Guangkui Song, Hong Cheng. A Novel Human-Machine Dual-Task Gaming Framework for Visual-Attention Training. _IEEE International Conference on Robotics and Automation (ICRA)_. 2026.
 
 ## Published
 
 #### 2026
 
 1. Jiaying Wei, Xinhao Zhang, Jia Li, Weigen Ye, Runxing Kang, Dehua Wang, Weilin Wu, Mao Yuan, Yinsong Sun, Hong Cheng, Wei Huang, Ke Li, **Chaobin Zou** and Chen Zhao. 2026. "Motion-Informed, Patient-Specific Femoral Localization for MPFL Reconstruction Using 4D-CT and Constrained Optimization" *Diagnostics* 16, no. 4: 508, 2026. [pdf](https://www.mdpi.com/2075-4418/16/4/508)
+1. **Chaobin Zou**, Guangkui Song\*, Chen Yang, Ziyi Jiang, Xinhao Zhang, Jing Qiu and Hong Cheng. Artificial Potential Field with Fuzzy models for Gait Planning of Lower Limb Exoskeleton Robots on Different Stairs.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11377767)
+3. Yanbo Fang, **Chaobin Zou**\*, Guangkui Song, Jingting Zhang, Xinhao Zhang, Ziyi Jiang, Jing Qiu and Hong Cheng. Reinforcement Learning-Based Coordinated Control of the Human-Exoskeleton-Walker System for Varying Walking Speed. _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025. [pdf](https://ieeexplore.ieee.org/document/11376168)
+4. Guangkui Song, Yafei Ou, Botian Huang, **Chaobin Zou**\*, Zhinan Peng, Lingfei Huang, Lufeng Chen, Wenjiang Li, Hong Cheng and Jing Qiu. Individualized Assistive Torque Planing Strategy Coupled with CoM for Lower Limb Exoskeletons.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11376154)
 
 #### 2025
 
 1. Jingting Zhang, Chen Chen, Chengzhi Yuan, Fengjun Mu, **Chaobin Zou\***, Rui Huang, Cong Wang, Hong Cheng. Heterogeneous Dynamics Learning for Formation Control of Discrete-Time Nonlinear Uncertain Multi-Agent Dynamical Systems. _Nonlinear Dynamics_, 2025. [pdf](https://link.springer.com/article/10.1007/s11071-025-11703-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250812&utm_content=10.1007%2Fs11071-025-11703-1)
-1. **Chaobin Zou**, Yi Ren, Rui Huang, Xinhao Zhang, Jingting Zhang, Zhinan Peng\* and Hong Cheng. Adaptive Coordinated Motion Planning for Lower Limb Exoskeleton Robots with a Robotic Walker. _Engineering Applications of Artificial Intelligence (EAAI)_, 2025, 155(1): 110949. [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0952197625009492?via%3Dihub)
-1. Jingting Zhang, Lianchi Zhang, Fengjun Mu, Zonghai Huang, **Chaobin Zou**, Rui Huang, Cong Wang, Hong Cheng. Spatiotemporal Dynamics Modeling of Brain Activity for Human-Robot Cognitive Interaction: A Distributed-Lumped Parameter System Framework. _IEEE Transactions on Neural Networks and Learning Systems_, 2025. DOI: 10.1109/TNNLS.2025.3631130. [pdf](https://ieeexplore.ieee.org/document/11269191)
-1. Xinhao Zhang, Chen Yang, Jingting Zhang, **Chaobin Zou\***, Guangkui Song,  Rui Huang, Muhammad Umar Farooq, Hong Cheng. Uncertain Pushing Adaptive Coordinated Control for the Human-Exoskeleton-Walker System. _IEEE Robotics and Automation Letters (RA-L)_, 2025, 10(7): 7086-7093. [pdf](https://ieeexplore.ieee.org/document/11018369)
-1. Weigen Ye, Xinhao Zhang, Ziyi Jiang, **Chaobin Zou\***, Jingting Zhang, Guangkui Song, Hong Cheng. Force-Sensor-free Contact Estimation for Lower Limb Exoskeleton Robots Based on Probabilistic Modeling and Fusion. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_. [pdf](https://ieeexplore.ieee.org/document/11246118)
-1. Chen Chen, Shuhe Yuan, Jingting Zhang*, Fengjun Mu, **Chaobin Zou**, Hong Cheng. A VisuoMotor Human-Robot Interaction Framework for Attention-Motion-Integrated Training. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_. [pdf](https://ieeexplore.ieee.org/document/11246463)
-1. Yilin Wang, Hongxiu Chen, Hong Cheng, Jing Qiu, Rui Huang, **Chaobin Zou**, Guangkui Song, Menghong Liu, Qian Liu, Jiali Zhang and Xiuying Hu. The attitudes and acceptance of functional assistive robots among older adults with disabilities: A mixed-methods study. *Innovation in Aging*, 2025. [pdf](https://academic.oup.com/innovateage/advance-article/doi/10.1093/geroni/igaf097/8250102?login=false)
-1. 程洪，黄宗海，张静婷，**邹朝彬**，宋广奎，穆逢君. 人机智能与康复医学的交叉融合促进人机康复范式. 数字医学与健康, 2025, 3(4): 280-292. DOI:10.3760/cma.j.cn101909-20250514-00083.
-1. Kecheng Shi, Rui Huang\*, Jianzhi Lyu, Zhe Li, Fengjun Mu, Zhinan Peng, **Chaobin Zou**, Hong Cheng, Jianwei Zhang, Bijoy Kumar Ghosh. EEG-based Motor Imagery Classification with Tuned Heuristic Fusion Graph Convolutional Network for Rehabilitation Training. _IEEE Transactions on Automation Science and Engineering (TASE)_. 2025, 22: 14928-14939. [pdf](https://ieeexplore.ieee.org/document/10975806/authors#authors)
-1. Fengjun Mu, Jingting Zhang, **Chaobin Zou**, Zonghai Huang, Rui Huang and Hong Cheng. Gaze Betray You: Abnormal Attention Detection from Human-Robot Interaction Dynamics. IEEE International Conference on Robotics and Biomimetics (ROBIO), 2024. (Best Paper Award in Biomimetics) [pdf](https://ieeexplore.ieee.org/document/10907724)
-1. Chen Yang, Xinhao Zhang, **Chaobin Zou\***, Wentao Liang, Zonghai Huang, Rui Huang, Yilin Wang and Hong Cheng, Adaptive Human-like Gait Planning for Stair Climbing of Lower Limb Exoskeleton Robots. _The 17th International Conference on Intelligent Robotics and Applications (ICIRA)_, 2024,  Lecture Notes in Computer Science, vol 15208, 202-221. [pdf](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_15)
-1. Fengjun Mu, Jingting Zhang\*, **Chaobin Zou**. Gaze2Atten: Analyzing Explainable Gaze Dynamics to Monitor Human Attention. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024. [pdf](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_17)
-1. Wen Li, Xinhao Zhang, Weitian He, **Chaobin Zou**, Qinchen Yang, Fukai Zhang, Hong Cheng, Cong Wang. Dynamic Learning from Neural PID Output-Feedback Control for a Lower Limb Exoskeleton Rehabilitation Robot. _2024 China Automation Congress (CAC)_. [pdf](https://ieeexplore.ieee.org/document/10864965)
-1. **Chaobin Zou**, Ziyi Jiang, Xinhao Zhang, Jingting Zhang\*, Guangkui Song, Yilin Wang, Yang Zhao, Zhinan Peng, Jing Qiu, Hong Cheng. FSGP: Fourier Series based Gait Primitives for Individualized Gait Prediction with Varying Walking Speeds. _Chinese Control Conference_, 2025. [pdf](https://ieeexplore.ieee.org/document/11179001)
-1. Jingting Zhang, Zonghai Huang, Fengjun Mu, Chen Chen, **Chaobin Zou**\*, Yang Zhao, Hong Cheng. Kinematics-Dynamics-Coupled Learning and Control of Discrete-Time Nonlinear Mechanical Systems with Completely-Unknown Dynamics. _Chinese Control Conference_, 2025. [pdf](https://ieeexplore.ieee.org/document/11178509)
-
-1. Zhuo Xia, Rui Luo, Zhinan Peng\*, Linpu He, Yiqun Kuang, **Chaobin Zou**, Guangkui Song, Hong Cheng. Dynamic Event-Triggered Robust Optimal Tracking Control for Lower Limb Exoskeletons With Human-Robot Conflicts. _Chinese Control Conference_, 2025. [pdf](https://ieeexplore.ieee.org/document/11178930)
-
-1. Botian Huang, Guangkui Song\*, Rui Huang, **Chaobin Zou**, Zhinan Peng, XingZhong Xiong, Jing Qiu, Hong Cheng. Design of a wearable soft rehabilitation exoskeleton for hand. _Chinese Control Conference_, 2025. [pdf](https://ieeexplore.ieee.org/abstract/document/11179246)
+2. **Chaobin Zou**, Yi Ren, Rui Huang, Xinhao Zhang, Jingting Zhang, Zhinan Peng\* and Hong Cheng. Adaptive Coordinated Motion Planning for Lower Limb Exoskeleton Robots with a Robotic Walker. _Engineering Applications of Artificial Intelligence (EAAI)_, 2025, 155(1): 110949. [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0952197625009492?via%3Dihub)
+3. Jingting Zhang, Lianchi Zhang, Fengjun Mu, Zonghai Huang, **Chaobin Zou**, Rui Huang, Cong Wang, Hong Cheng. Spatiotemporal Dynamics Modeling of Brain Activity for Human-Robot Cognitive Interaction: A Distributed-Lumped Parameter System Framework. _IEEE Transactions on Neural Networks and Learning Systems_, 2025. DOI: 10.1109/TNNLS.2025.3631130. [pdf](https://ieeexplore.ieee.org/document/11269191)
+4. Xinhao Zhang, Chen Yang, Jingting Zhang, **Chaobin Zou\***, Guangkui Song,  Rui Huang, Muhammad Umar Farooq, Hong Cheng. Uncertain Pushing Adaptive Coordinated Control for the Human-Exoskeleton-Walker System. _IEEE Robotics and Automation Letters (RA-L)_, 2025, 10(7): 7086-7093. [pdf](https://ieeexplore.ieee.org/document/11018369)
+5. Weigen Ye, Xinhao Zhang, Ziyi Jiang, **Chaobin Zou\***, Jingting Zhang, Guangkui Song, Hong Cheng. Force-Sensor-free Contact Estimation for Lower Limb Exoskeleton Robots Based on Probabilistic Modeling and Fusion. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_. [pdf](https://ieeexplore.ieee.org/document/11246118)
+6. Chen Chen, Shuhe Yuan, Jingting Zhang*, Fengjun Mu, **Chaobin Zou**, Hong Cheng. A VisuoMotor Human-Robot Interaction Framework for Attention-Motion-Integrated Training. _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)_. [pdf](https://ieeexplore.ieee.org/document/11246463)
+7. Yilin Wang, Hongxiu Chen, Hong Cheng, Jing Qiu, Rui Huang, **Chaobin Zou**, Guangkui Song, Menghong Liu, Qian Liu, Jiali Zhang and Xiuying Hu. The attitudes and acceptance of functional assistive robots among older adults with disabilities: A mixed-methods study. *Innovation in Aging*, 2025. [pdf](https://academic.oup.com/innovateage/advance-article/doi/10.1093/geroni/igaf097/8250102?login=false)
+8. 程洪，黄宗海，张静婷，**邹朝彬**，宋广奎，穆逢君. 人机智能与康复医学的交叉融合促进人机康复范式. 数字医学与健康, 2025, 3(4): 280-292. DOI:10.3760/cma.j.cn101909-20250514-00083.
+9. Kecheng Shi, Rui Huang\*, Jianzhi Lyu, Zhe Li, Fengjun Mu, Zhinan Peng, **Chaobin Zou**, Hong Cheng, Jianwei Zhang, Bijoy Kumar Ghosh. EEG-based Motor Imagery Classification with Tuned Heuristic Fusion Graph Convolutional Network for Rehabilitation Training. _IEEE Transactions on Automation Science and Engineering (TASE)_. 2025, 22: 14928-14939. [pdf](https://ieeexplore.ieee.org/document/10975806/authors#authors)
+10. Fengjun Mu, Jingting Zhang, **Chaobin Zou**, Zonghai Huang, Rui Huang and Hong Cheng. Gaze Betray You: Abnormal Attention Detection from Human-Robot Interaction Dynamics. IEEE International Conference on Robotics and Biomimetics (ROBIO), 2024. (Best Paper Award in Biomimetics) [pdf](https://ieeexplore.ieee.org/document/10907724)
+11. Chen Yang, Xinhao Zhang, **Chaobin Zou\***, Wentao Liang, Zonghai Huang, Rui Huang, Yilin Wang and Hong Cheng, Adaptive Human-like Gait Planning for Stair Climbing of Lower Limb Exoskeleton Robots. _The 17th International Conference on Intelligent Robotics and Applications (ICIRA)_, 2024,  Lecture Notes in Computer Science, vol 15208, 202-221. [pdf](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_15)
+12. Fengjun Mu, Jingting Zhang\*, **Chaobin Zou**. Gaze2Atten: Analyzing Explainable Gaze Dynamics to Monitor Human Attention. The 17th International Conference on Intelligent Robotics and Applications (ICIRA), 2024. [pdf](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_17)
+13. Wen Li, Xinhao Zhang, Weitian He, **Chaobin Zou**, Qinchen Yang, Fukai Zhang, Hong Cheng, Cong Wang. Dynamic Learning from Neural PID Output-Feedback Control for a Lower Limb Exoskeleton Rehabilitation Robot. _2024 China Automation Congress (CAC)_. [pdf](https://ieeexplore.ieee.org/document/10864965)
+14. **Chaobin Zou**, Ziyi Jiang, Xinhao Zhang, Jingting Zhang\*, Guangkui Song, Yilin Wang, Yang Zhao, Zhinan Peng, Jing Qiu, Hong Cheng. FSGP: Fourier Series based Gait Primitives for Individualized Gait Prediction with Varying Walking Speeds. _Chinese Control Conference_, 2025. [pdf](https://ieeexplore.ieee.org/document/11179001)
+15. Jingting Zhang, Zonghai Huang, Fengjun Mu, Chen Chen, **Chaobin Zou**\*, Yang Zhao, Hong Cheng. Kinematics-Dynamics-Coupled Learning and Control of Discrete-Time Nonlinear Mechanical Systems with Completely-Unknown Dynamics. _Chinese Control Conference_, 2025. [pdf](https://ieeexplore.ieee.org/document/11178509)
+16. Zhuo Xia, Rui Luo, Zhinan Peng\*, Linpu He, Yiqun Kuang, **Chaobin Zou**, Guangkui Song, Hong Cheng. Dynamic Event-Triggered Robust Optimal Tracking Control for Lower Limb Exoskeletons With Human-Robot Conflicts. _Chinese Control Conference_, 2025. [pdf](https://ieeexplore.ieee.org/document/11178930)
+17. Botian Huang, Guangkui Song\*, Rui Huang, **Chaobin Zou**, Zhinan Peng, XingZhong Xiong, Jing Qiu, Hong Cheng. Design of a wearable soft rehabilitation exoskeleton for hand. _Chinese Control Conference_, 2025. [pdf](https://ieeexplore.ieee.org/abstract/document/11179246)
 
 #### 2024
 
@@ -132,7 +124,7 @@ I have published more than 20 papers on the International journals and conferenc
 
 1. Qiming Chen, Hong Cheng*, **Chaobin Zou**, Rui Huang and Hongliang Guo. Intention recognition for exoskeleton. _2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM)_, Hefei, 2017, pp. 535-539. [pdf](https://ieeexplore.ieee.org/document/8273219)
 
-***
+---
 
 # 5. Awards & Honors
 
@@ -150,7 +142,7 @@ I have published more than 20 papers on the International journals and conferenc
 - 2013: First class Scholarship for Undergraduate students, UESTC.
 - 2012: National Scholarship for Undergraduate students, UESTC.
 
-***
+---
 
 # 6. Webpage for me
 
@@ -159,7 +151,7 @@ I have published more than 20 papers on the International journals and conferenc
 - Github:[Chauby](https://github.com/chauby)
 - 知乎: @[沙漏](https://zhihu.com/people/AI.robot)
 
-***
+---
 
 # 7. Contact me
 

@@ -12,6 +12,9 @@ permalink: /publications/
 #### 2026
 
 1. Jiaying Wei, Xinhao Zhang, Jia Li, Weigen Ye, Runxing Kang, Dehua Wang, Weilin Wu, Mao Yuan, Yinsong Sun, Hong Cheng, Wei Huang, Ke Li, **Chaobin Zou** and Chen Zhao. 2026. "Motion-Informed, Patient-Specific Femoral Localization for MPFL Reconstruction Using 4D-CT and Constrained Optimization" *Diagnostics* 16, no. 4: 508, 2026. [pdf](https://www.mdpi.com/2075-4418/16/4/508)
+1. **Chaobin Zou**, Guangkui Song\*, Chen Yang, Ziyi Jiang, Xinhao Zhang, Jing Qiu and Hong Cheng. Artificial Potential Field with Fuzzy models for Gait Planning of Lower Limb Exoskeleton Robots on Different Stairs.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11377767)
+3. Yanbo Fang, **Chaobin Zou**\*, Guangkui Song, Jingting Zhang, Xinhao Zhang, Ziyi Jiang, Jing Qiu and Hong Cheng. Reinforcement Learning-Based Coordinated Control of the Human-Exoskeleton-Walker System for Varying Walking Speed. _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025. [pdf](https://ieeexplore.ieee.org/document/11376168)
+4. Guangkui Song, Yafei Ou, Botian Huang, **Chaobin Zou**\*, Zhinan Peng, Lingfei Huang, Lufeng Chen, Wenjiang Li, Hong Cheng and Jing Qiu. Individualized Assistive Torque Planing Strategy Coupled with CoM for Lower Limb Exoskeletons.  _IEEE International Conference on Robotics and Biomimetics (ROBIO)_, 2025. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11376154)
 
 #### 2025
 
