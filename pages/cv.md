@@ -42,7 +42,9 @@ I have published more than 20 papers on the International journals and conferenc
 
 ## Preprint
 
-1. Fengjun Mu, Jingting Zhang*, Zonghai Huang, Chen Chen, **Chaobin Zou**, Guangkui Song, Hong Cheng. A Novel Human-Machine Dual-Task Gaming Framework for Visual-Attention Training. _IEEE International Conference on Robotics and Automation (ICRA)_. 2026.
+1. Xinhao Zhang, Chen Yang, **Chaobin Zou***, Zhinan Peng, Yilin Wang, Rui Huang, Hong Cheng. Artificial Pushing Adaptive Coordinated Control for the Human-Exoskeleton-Walker System. _Robotics and Autonomous System_, 2026.
+2. Fengjun Mu, Jingting Zhang*, Zonghai Huang, Chen Chen, **Chaobin Zou**, Guangkui Song, Hong Cheng. A Novel Human-Machine Dual-Task Gaming Framework for Visual-Attention Training. _IEEE International Conference on Robotics and Automation (ICRA)_. 2026.
+3. Shasha Yang, Xinhao Zhang, Weigen Ye, Ziyi Jiang, **Chaobin Zou***, Hong Cheng. PPCM: Augmenting Proprioceptive Contact Estimation with Plantar Pressure for Lower Limb Exoskeletons. _Chinese Control Conference_, 2026.
 
 ## Published
 
