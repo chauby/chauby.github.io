@@ -15,7 +15,7 @@ td, th, tr {
 
 # 1. About me
 
-I am currently a postdoctoral research fellow ([https://chauby.github.io/cv/](https://chauby.github.io/cv/)) in Center for Robotics, School of Automation Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)). My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*.
+I am currently a associate professor ([https://chauby.github.io/cv/](https://chauby.github.io/cv/)) in Center for Robotics, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)). My research interests include robot learning, model predictive control, legged robots, motion planning and imitation learning, *etc*.
 
 In the past ten years, my main research topics are about the lower limb exoskeleton robots for walking assistance and gait training, and focus on the gait patterns analysis and generation, some of them has been applied to help the paraplegic and hemiplegic patients to recover the walking ability. Besides, my current research topics are about the medical robots for the elderly.
 
@@ -23,10 +23,11 @@ I have published more than 20 papers on the International journals and conferenc
 
 # 2. Research Experience
 
-| Year              | Position                  | Institution                                                                                                                                                                                                                                                                                                                                               |
-| :---------------- | :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022.07- current  | Postdoctoral researcher   | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm) and Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
-| 2021.03 - 2022.03 | CSC visiting PhD. student | University of Hamburg, Germany<br />Technical Aspects of Multimodal Systems ([TAMS](https://tams.informatik.uni-hamburg.de/))<br />Advisor: Prof. [Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/)                                                                                                                                         |
+| Year              | Position                  | Institution                                                  |
+| :---------------- | :------------------------ | :----------------------------------------------------------- |
+| 2026.03- current  | Associate professor       | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Mechanical and Electrical Engineering<br /> |
+| 022.07- 2026.02   | Postdoctoral researcher   | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm) and Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
+| 2021.03 - 2022.03 | CSC visiting PhD. student | University of Hamburg, Germany<br />Technical Aspects of Multimodal Systems ([TAMS](https://tams.informatik.uni-hamburg.de/))<br />Advisor: Prof. [Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/) |
 
 # 3. Education
 
