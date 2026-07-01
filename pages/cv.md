@@ -26,7 +26,7 @@ I have published more than 20 papers on the International journals and conferenc
 | Year              | Position                  | Institution                                                  |
 | :---------------- | :------------------------ | :----------------------------------------------------------- |
 | 2026.03- current  | Associate professor       | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Mechanical and Electrical Engineering<br /> |
-| 022.07- 2026.02   | Postdoctoral researcher   | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm) and Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
+| 2022.07- 2026.02  | Postdoctoral researcher   | University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn))<br />[Center for Robotics](http://www.uestcrobot.net/), School of Automation Engineering<br />Advisor: Prof. [Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm) and Prof. [Hong Cheng](https://faculty.uestc.edu.cn/chenghong/zh_CN/index.htm) |
 | 2021.03 - 2022.03 | CSC visiting PhD. student | University of Hamburg, Germany<br />Technical Aspects of Multimodal Systems ([TAMS](https://tams.informatik.uni-hamburg.de/))<br />Advisor: Prof. [Jianwei Zhang](https://tams.informatik.uni-hamburg.de/people/zhang/) |
 
 # 3. Education
